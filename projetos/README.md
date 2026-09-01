@@ -1,26 +1,43 @@
 # 📁 Projetos — Design Gráfico 2026
 
-Esta pasta organiza os projetos práticos desenvolvidos durante a oficina de **Design Gráfico**.
+Esta área organiza os projetos práticos desenvolvidos na oficina de **Design Gráfico**, funcionando como histórico pedagógico e demonstração de processos.
 
-Cada projeto poderá conter:
+## Projetos
+
+### 01. 🎨 [Aplicando os 7 Princípios do Design](01_7_Principios_Do_Design/README.md)
+Apresentação prática para aplicar contraste, alinhamento, proximidade, repetição, hierarquia, espaço em branco e equilíbrio.
+
+### 02. 🌻 [Projeto Institucional — 18 de Maio](02_Projeto_18_De_Maio/README.md)
+Folder informativo desenvolvido com metodologia ágil, Sprints, pesquisa, organização, revisão e preparação para impressão.
+
+### 03. 📖 [Storytelling e Narrativa Visual](03_Storytelling_e_Narrativa_Visual/README.md)
+Desenvolvimento de narrativa por meio de imagem, texto, sequência, ritmo e mensagem.
+
+### 04. 🖥️ [Canva e Criação Visual](04_Canva_e_Criacao_Visual/README.md)
+Ampliação das ferramentas de criação mantendo os fundamentos do Design como referência.
+
+## Estrutura padrão
+Cada projeto pode conter:
 
 - objetivo;
 - briefing;
-- competências trabalhadas;
+- competências;
 - etapas ou Sprints;
-- ferramentas utilizadas;
+- ferramentas;
+- exemplos;
 - critérios de avaliação;
-- resultado esperado;
-- reflexão e melhorias.
+- reflexão;
+- resultado esperado.
 
-## Projetos documentados
+## Visão do percurso
 
-| Projeto | Status |
-|---|---|
-| Aplicação dos 7 Princípios do Design | ✅ Desenvolvido |
-| Projeto institucional — 18 de Maio | ✅ Desenvolvido |
-| Storytelling e narrativa visual | ✅ Desenvolvido |
-| Canva e criação visual | 🔄 Em desenvolvimento |
-| Identidade Visual e Kit de Marca | 🚀 Próximo |
+```mermaid
+flowchart LR
+A[Fundamentos] --> B[Aplicação]
+B --> C[Projetos]
+C --> D[Revisão]
+D --> E[Melhoria]
+E --> F[Portfólio]
+```
 
-> A documentação não deve incluir dados pessoais desnecessários dos educandos.
+> A documentação pública é sanitizada e não inclui dados pessoais desnecessários dos educandos.

@@ -79,6 +79,8 @@ Fluxo:
 - [🧠 Metodologia PMT — Design Gráfico](docs/metodologia-pmt-design-grafico.md)
 - [📊 Relatório pedagógico semestral 2026](docs/relatorio-pedagogico-semestral-2026.md)
 - [📁 Portfólio centralizado](docs/PORTFOLIO.md)
+- [🗺️ Roadmap do Curso 2026](docs/ROADMAP_DESIGN_GRAFICO_2026.md)
+- [📂 Organização dos Projetos](projetos/README.md)
 
 ## 🚀 Próxima evolução
 

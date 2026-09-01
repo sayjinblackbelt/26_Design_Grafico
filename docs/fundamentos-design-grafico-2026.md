@@ -1,6 +1,6 @@
 # 🎨 Fundamentos Desenvolvidos — Design Gráfico 2026
 
-# PMT — Design Gráfico | Fundação Eufraten
+# PMT — Design Gráfico | 
 
 ## 1. Identidade da proposta
 

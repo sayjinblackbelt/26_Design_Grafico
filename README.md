@@ -2,72 +2,126 @@
 
 > 🇧🇷 **Português** | 🇺🇸 [English](README_EN.md) | 🇪🇸 [Español](README_ES.md)
 
-Repositório de apoio ao curso de **PMT — Design Gráfico**, reunindo materiais, atividades, experimentos, metodologia e registros de produção dos educandos.
+# 🎨 PMT — Design Gráfico | Fundação Eufraten
 
-## Organização do curso
+Repositório pedagógico da **Oficina de Mídias Digitais e Design Gráfico**, desenvolvida no projeto **PMT — Preparação para o Mundo do Trabalho**.
 
-Todos os grupos registrados neste repositório pertencem ao mesmo componente curricular:
+Este repositório funciona como **portfólio vivo do curso**, reunindo planejamento, metodologia, atividades, projetos, materiais de apoio, registros pedagógicos e documentação técnica.
 
-**PMT — Design Gráfico**
+## 🎯 Propósito
 
-A organização dos registros é feita por **turma e unidade**:
+Desenvolver competências digitais, criativas e profissionais por meio de experiências práticas que conectam:
 
-- **Turma 1** — Campus 1
-- **Turma 2** — Campus 1
-- **Turma 3** — Cidade do Autoconhecimento
+**Design → Comunicação → Tecnologia → Reflexão → Criação → Revisão → Entrega**
 
-## Agência Criativa PMT
+O objetivo não é apenas ensinar ferramentas, mas desenvolver a capacidade de **pensar, planejar, criar, avaliar e melhorar soluções visuais**.
 
-A cultura pedagógica do curso é orientada pelo conceito de **Agência Criativa PMT**: uma experiência em que a sala de aula funciona como ambiente de criação, planejamento, colaboração, revisão e desenvolvimento de soluções visuais.
+## 🧠 Fundamentos pedagógicos
 
-A proposta articula criatividade, tecnologia, preparação para o mundo do trabalho e autonomia.
+- Aprendizagem Baseada em Projetos (PBL)
+- Sprint Educacional inspirado em Scrum
+- Pedagogia Heulosófica
+- Maiêutica e perguntas norteadoras
+- Saneamento mental e organização do pensamento
+- Autonomia e responsabilidade
+- Trabalho colaborativo
+- Aprendizagem prática e reflexão final
 
-📖 [Conheça o Manifesto da Agência Criativa PMT](docs/agencia-criativa-pmt.md)
+Fluxo recorrente:
 
-## Atividade — Criação de páginas web com IA
+**👀 Observar → 🤔 Refletir → 🎯 Tomar atitude → 🚀 Agir → 🌱 Revisar e melhorar**
 
-Uma das atividades práticas do curso trabalha o fluxo:
+## 🚀 Agência Criativa PMT
 
-**ChatGPT → plataforma de criação com IA → publicação → portfólio**
+A sala de aula é organizada como uma experiência de agência criativa. Os educandos trabalham com **briefing, planejamento, produção, revisão, feedback e entrega**, aproximando a aprendizagem do fluxo encontrado em projetos reais.
 
-Os educandos utilizam o ChatGPT para desenvolver a ideia, responder perguntas guiadas, estruturar o briefing e criar/revisar o prompt. Em seguida, utilizam ferramentas de criação assistida por IA, como **B12** e **Base44**, para transformar a proposta em uma página ou protótipo publicado.
+📖 [Manifesto da Agência Criativa PMT](docs/agencia-criativa-pmt.md)
 
-O foco é desenvolver a capacidade de **planejar, dirigir, revisar e aprimorar uma solução visual**, e não simplesmente aceitar o primeiro resultado gerado pela IA.
+## 📚 Percurso documentado
 
-### Etapas
+### 1. Fundamentos de Design Gráfico
+- 7 princípios do Design
+- contraste
+- alinhamento
+- proximidade
+- repetição
+- hierarquia
+- espaço em branco
+- equilíbrio
+- formas e composição
+- teoria das cores e paleta cromática
 
-1. Definição da ideia.
-2. Identificação do público e objetivo.
-3. Escolha do estilo visual.
-4. Construção do briefing.
-5. Criação e revisão do prompt.
-6. Execução na plataforma de IA.
-7. Personalização.
-8. Revisão.
-9. Publicação.
-10. Registro e reflexão.
+### 2. Google Apresentações
+Atividades práticas para desenvolver pesquisa, organização de informações, comunicação visual e criação de apresentações.
 
-## Documentação do projeto
+### 3. Projeto institucional — 18 de Maio
+Projeto desenvolvido com metodologia ágil e múltiplos Sprints, envolvendo pesquisa, seleção de informações, planejamento, produção, revisão e preparação de material institucional.
+
+### 4. Desenvolvimento comportamental
+Atividades utilizando recursos visuais para discutir **omissão, impulsividade, escolhas e consequências**, conectando reflexão e ação.
+
+### 5. Storytelling e produção audiovisual
+Introdução à narrativa visual e à criação de mensagens curtas por meio de:
+
+**imagem + texto + sequência + ritmo + música**
+
+Ferramenta explorada: **B12 Editor**.
+
+### 6. IA e criação de páginas web
+Fluxo pedagógico:
+
+**ChatGPT → plataforma de criação com IA → personalização → revisão → publicação → portfólio**
+
+Ferramentas exploradas:
+
+- B12
+- Base44
+- ChatGPT
+
+O foco é utilizar IA de forma consciente: **planejar, dirigir, avaliar e melhorar**, em vez de aceitar automaticamente o primeiro resultado.
+
+### 7. Próxima evolução
+O percurso avança para:
+
+- Canva
+- identidade visual
+- kit de marca
+- paleta de cores aplicada
+- storytelling para marcas
+- site portfólio
+- apresentação profissional de projetos
+
+## 🗂️ Documentação
 
 - [🏢 Manifesto da Agência Criativa PMT](docs/agencia-criativa-pmt.md)
 - [📁 Portfólio centralizado](docs/PORTFOLIO.md)
-- [📋 Registro detalhado dos projetos](docs/projetos-b12-educandos-2026-08-28.md)
+- [📋 Registro dos projetos B12](docs/projetos-b12-educandos-2026-08-28.md)
 - [🧠 Metodologia PMT — Design Gráfico](docs/metodologia-pmt-design-grafico.md)
+- [📊 Relatório pedagógico semestral 2026](docs/relatorio-pedagogico-semestral-2026.md)
 - [📝 Template para novos projetos](templates/TEMPLATE_PROJETO_WEB.md)
 
-## Sanitização e privacidade
+## 🛠️ Tecnologias e ferramentas
 
-Os registros acadêmicos publicados utilizam apenas o **primeiro nome dos educandos**. Não são armazenadas imagens de perfil, credenciais, senhas, tokens ou outras informações pessoais desnecessárias.
-
-## Tecnologias e ferramentas
-
+- Google Apresentações
+- Canva
 - ChatGPT
 - B12
 - Base44
-- Canva
-- Ferramentas de design e edição digital
+- Ferramentas digitais de imagem e edição
 - GitHub
 
-## Status
+## 🔒 Privacidade e sanitização
 
-**Em desenvolvimento contínuo**, com novos projetos, documentos e evidências de aprendizagem sendo incorporados conforme o curso avança.
+A documentação pública prioriza a proteção dos educandos. Não devem ser publicados dados sensíveis, credenciais, senhas, tokens ou outras informações pessoais desnecessárias.
+
+Os registros pedagógicos são mantidos de forma sanitizada e orientados à documentação do processo de aprendizagem.
+
+## 📈 Status
+
+🟢 **Projeto em desenvolvimento contínuo**
+
+Novas atividades, Sprints, projetos e evidências de aprendizagem serão incorporados ao longo de 2026.
+
+---
+
+> **Criar não é apenas produzir algo bonito. É observar, pensar, comunicar, revisar e transformar uma ideia em uma solução com propósito.**

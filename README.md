@@ -82,6 +82,7 @@ Fluxo:
 - [🗺️ Roadmap do Curso 2026](docs/ROADMAP_DESIGN_GRAFICO_2026.md)
 - [📂 Organização dos Projetos](projetos/README.md)
 - [🖼️ Galeria de Exemplos Visuais](assets/exemplos/README.md)
+- [📘 Guia Visual de Design Gráfico PMT](docs/GUIA_VISUAL_DESIGN_GRAFICO_PMT.md)
 
 ## 🚀 Próxima evolução
 

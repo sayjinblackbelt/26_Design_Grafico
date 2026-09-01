@@ -1,7 +1,7 @@
 # Template — Projeto Web com IA
 
-## Educando
-**Primeiro nome:**
+## Identificação do projeto
+**Código ou nome fictício do projeto:**
 
 ## Turma
 - [ ] Turma 1

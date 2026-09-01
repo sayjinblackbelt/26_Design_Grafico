@@ -1,18 +1,32 @@
 # Projetos de Páginas Web — B12 e Base44
 
+**Curso:** PMT — Design Gráfico  
 **Data inicial:** 28/08/2026  
 **Contexto:** Atividade prática — ChatGPT → plataforma de IA → Portfólio
 
-## Organização das turmas
-- **Campus 1 — Manhã:** turma de Design.
-- **Campus 1 — Tarde:** turma de PMT.
-- **Cidade do Autoconhecimento:** registros específicos da unidade.
+## Organização
+
+Todos os registros pertencem ao curso **PMT — Design Gráfico**. A diferença entre os grupos é a **unidade de atendimento**, representada neste documento como **Turma 1, Turma 2 e Turma 3**.
+
+> Os nomes dos educandos foram sanitizados, mantendo somente o primeiro nome.
 
 ## Objetivo
+
 Registrar páginas e protótipos produzidos individualmente pelos educandos com apoio do ChatGPT e plataformas de criação assistida por IA.
 
-# Campus 1 — Manhã
-**Turma:** Design
+## Fluxo da atividade
+
+1. Definição da ideia com perguntas guiadas no ChatGPT.
+2. Construção do briefing.
+3. Criação e revisão do prompt.
+4. Execução do prompt em uma plataforma de criação assistida por IA.
+5. Personalização visual e textual.
+6. Publicação da página ou protótipo.
+7. Registro do link para o portfólio.
+
+# Turma 1
+
+**Unidade:** Campus 1 — Manhã
 
 | Educando | Projeto | Plataforma | Link | Observação |
 |---|---|---|---|---|
@@ -26,31 +40,36 @@ Registrar páginas e protótipos produzidos individualmente pelos educandos com 
 | Beatriz | Confeitaria Rosa e Marrom | B12 | https://confeitaria-rosa-e-marrom.b12sites.com/ | 01/09/2026 às 10:23 |
 | Beatriz | Doces e Confeitaria | Base44 | https://doceseconfeitaria.base44.app | 01/09/2026 às 10:33 |
 
-# Campus 1 — Tarde
-**Turma:** PMT
+# Turma 2
 
-| Educando | Projeto | Link |
-|---|---|---|
-| Ana Clara | Linha Capilar para Mulheres | https://linha-capilar-para-mulheres.b12sites.com/ |
-| Yasmim | Loja de Skincare | https://loja-de-skincare.b12sites.com/ |
+**Unidade:** Campus 1 — Tarde
 
-# Cidade do Autoconhecimento
-| Educando | Projeto | Link |
-|---|---|---|
-| Heloisa | Loja de Acessórios em Prata | https://loja-de-acessorios-em-prata.b12sites.com/ |
-| Ana | Study Organizer App | https://study-organizer-app-vscf.b12sites.com/ |
-| Yasmin | Portfólio Fotográfico Criativo | https://portfolio-fotografico-criativo.b12sites.com/ |
-| Sibele | Vivat | https://vivat.b12sites.com/ |
-| Gabriel | Segurança Digital Educativa | https://seguranca-digital-educativa.b12sites.com/ |
-| Isabela | Adoção de Cachorros | https://adocao-de-cachorros.b12sites.com/ |
-| Gabrielly | Plataforma de Organização para Jovens Profissionais | https://plataforma-de-organizacao-para-jovens-profissionais.b12sites.com/ |
-| Gustavo | Curiosidades sobre Gatos | https://curiosidades-sobre-gatos.b12sites.com/ |
-| Julia | Café Artesanal Gourmet | https://cafe-artesanal-gourmet.b12sites.com/index#sobre |
-| Eduarda | Dra. Eduarda Martins — Direito Empresarial | https://dra-eduarda-martins-direito-empresarial.b12sites.com/ |
-| Ashley | Verde Violeta | https://verde-violeta.b12sites.com/ |
-| Renata | Conecta Jovem | https://conecta-jovem.b12sites.com/ |
+| Educando | Projeto | Plataforma | Link |
+|---|---|---|---|
+| Ana Clara | Linha Capilar para Mulheres | B12 | https://linha-capilar-para-mulheres.b12sites.com/ |
+| Yasmim | Loja de Skincare | B12 | https://loja-de-skincare.b12sites.com/ |
+
+# Turma 3
+
+**Unidade:** Cidade do Autoconhecimento
+
+| Educando | Projeto | Plataforma | Link |
+|---|---|---|---|
+| Heloisa | Loja de Acessórios em Prata | B12 | https://loja-de-acessorios-em-prata.b12sites.com/ |
+| Ana | Study Organizer App | B12 | https://study-organizer-app-vscf.b12sites.com/ |
+| Yasmin | Portfólio Fotográfico Criativo | B12 | https://portfolio-fotografico-criativo.b12sites.com/ |
+| Sibele | Vivat | B12 | https://vivat.b12sites.com/ |
+| Gabriel | Segurança Digital Educativa | B12 | https://seguranca-digital-educativa.b12sites.com/ |
+| Isabela | Adoção de Cachorros | B12 | https://adocao-de-cachorros.b12sites.com/ |
+| Gabrielly | Plataforma de Organização para Jovens Profissionais | B12 | https://plataforma-de-organizacao-para-jovens-profissionais.b12sites.com/ |
+| Gustavo | Curiosidades sobre Gatos | B12 | https://curiosidades-sobre-gatos.b12sites.com/ |
+| Julia | Café Artesanal Gourmet | B12 | https://cafe-artesanal-gourmet.b12sites.com/index#sobre |
+| Eduarda | Dra. Eduarda Martins — Direito Empresarial | B12 | https://dra-eduarda-martins-direito-empresarial.b12sites.com/ |
+| Ashley | Verde Violeta | B12 | https://verde-violeta.b12sites.com/ |
+| Renata | Conecta Jovem | B12 | https://conecta-jovem.b12sites.com/ |
 
 ## Critérios mínimos
+
 - Projeto individualizado.
 - Tema e público definidos pelo educando.
 - Prompt desenvolvido com apoio do ChatGPT.
@@ -59,5 +78,6 @@ Registrar páginas e protótipos produzidos individualmente pelos educandos com 
 - Projeto publicado.
 - Link registrado para o portfólio.
 
-## Privacidade
-Os registros mantêm apenas o primeiro nome dos educandos.
+## Privacidade e organização
+
+Os registros mantêm apenas o primeiro nome dos educandos. As unidades são representadas como **Turma 1, Turma 2 e Turma 3** para fins de organização do acompanhamento pedagógico.

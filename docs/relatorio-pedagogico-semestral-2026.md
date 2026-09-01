@@ -1,7 +1,7 @@
 # Relatório Pedagógico — Oficina de Mídias Digitais e Design Gráfico
 
-**Fundação Eufraten — Projeto PMT (Preparação para o Mundo do Trabalho)**  
-**Educador:** Filipe G. Morais  
+** — Projeto PMT (Preparação para o Mundo do Trabalho)**  
+**Educador:** Educador responsável  
 **Período:** 2026  
 
 > Documento consolidado para registro pedagógico. Dados pessoais e identificadores individuais de educandos foram sanitizados; não são registrados nomes, notas individuais, e-mails ou outros dados pessoais.

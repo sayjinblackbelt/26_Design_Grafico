@@ -1,5 +1,7 @@
 # 26_Design_Grafico
 
+> 🇧🇷 **Português** | 🇺🇸 [English](README_EN.md) | 🇪🇸 [Español](README_ES.md)
+
 Repositório de apoio ao curso de **PMT — Design Gráfico**, reunindo materiais, atividades, experimentos e registros de produção dos educandos.
 
 ## Organização do curso
@@ -50,7 +52,7 @@ O foco da atividade é desenvolver a capacidade de **planejar, dirigir, revisar 
 
 ## Registro dos projetos publicados
 
-A documentação dos projetos individuais está organizada por turma, mantendo a identificação curricular única como **PMT — Design Gráfico** e diferenciando os grupos pela unidade de realização.
+A documentação dos projetos individuais está organizada por turma, mantendo a identificação curricular única como **PMT — Design Gráfico**.
 
 ### Diretório de projetos
 

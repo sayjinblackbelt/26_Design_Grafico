@@ -23,6 +23,7 @@ Registrar páginas e protótipos produzidos individualmente pelos educandos com 
 | Ana | De Volta aos Boxes — TTMB | B12 | https://de-volta-aos-boxes-ttmb.b12sites.com | 28/08 às 10:27 |
 | Lauany | Enthusiastic Neon Style Studio | Base44 | https://enthusiastic-neon-style-studio.base44.app | 01/09/2026 às 09:49 |
 | Wollace | Orochi Legacy Flow | Base44 | https://orochi-legacy-flow.base44.app | 01/09/2026 às 10:13; enviado usando a conta do Vinícius |
+| Beatriz | Confeitaria Rosa e Marrom | B12 | https://confeitaria-rosa-e-marrom.b12sites.com/ | 01/09/2026 às 10:23 |
 
 # Campus 1 — Tarde
 **Turma:** PMT

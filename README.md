@@ -2,7 +2,7 @@
 
 > 🇧🇷 **Português** | 🇺🇸 [English](README_EN.md) | 🇪🇸 [Español](README_ES.md)
 
-Repositório de apoio ao curso de **PMT — Design Gráfico**, reunindo materiais, atividades, experimentos e registros de produção dos educandos.
+Repositório de apoio ao curso de **PMT — Design Gráfico**, reunindo materiais, atividades, experimentos, metodologia e registros de produção dos educandos.
 
 ## Organização do curso
 
@@ -10,11 +10,19 @@ Todos os grupos registrados neste repositório pertencem ao mesmo componente cur
 
 **PMT — Design Gráfico**
 
-A organização dos registros é feita por **turma e unidade**, sem diferenciar o curso:
+A organização dos registros é feita por **turma e unidade**:
 
 - **Turma 1** — Campus 1
 - **Turma 2** — Campus 1
 - **Turma 3** — Cidade do Autoconhecimento
+
+## Agência Criativa PMT
+
+A cultura pedagógica do curso é orientada pelo conceito de **Agência Criativa PMT**: uma experiência em que a sala de aula funciona como ambiente de criação, planejamento, colaboração, revisão e desenvolvimento de soluções visuais.
+
+A proposta articula criatividade, tecnologia, preparação para o mundo do trabalho e autonomia.
+
+📖 [Conheça o Manifesto da Agência Criativa PMT](docs/agencia-criativa-pmt.md)
 
 ## Atividade — Criação de páginas web com IA
 
@@ -24,56 +32,34 @@ Uma das atividades práticas do curso trabalha o fluxo:
 
 Os educandos utilizam o ChatGPT para desenvolver a ideia, responder perguntas guiadas, estruturar o briefing e criar/revisar o prompt. Em seguida, utilizam ferramentas de criação assistida por IA, como **B12** e **Base44**, para transformar a proposta em uma página ou protótipo publicado.
 
-O foco da atividade é desenvolver a capacidade de **planejar, dirigir, revisar e aprimorar uma solução visual**, e não simplesmente aceitar o primeiro resultado gerado pela IA.
+O foco é desenvolver a capacidade de **planejar, dirigir, revisar e aprimorar uma solução visual**, e não simplesmente aceitar o primeiro resultado gerado pela IA.
 
-### Etapas da atividade
+### Etapas
 
 1. Definição da ideia.
 2. Identificação do público e objetivo.
 3. Escolha do estilo visual.
-4. Definição de cores, imagens e conteúdo.
-5. Construção do briefing.
-6. Criação e revisão do prompt no ChatGPT.
-7. Execução do prompt na plataforma de criação.
-8. Personalização do resultado.
+4. Construção do briefing.
+5. Criação e revisão do prompt.
+6. Execução na plataforma de IA.
+7. Personalização.
+8. Revisão.
 9. Publicação.
-10. Registro no portfólio.
-
-### Critérios mínimos
-
-- Projeto individualizado.
-- Tema e público definidos pelo educando.
-- Uso consciente do ChatGPT na etapa de planejamento.
-- Prompt estruturado e revisado.
-- Página ou protótipo personalizado.
-- Identidade visual coerente.
-- Projeto publicado.
-- Link registrado para o portfólio.
+10. Registro e reflexão.
 
 ## Documentação do projeto
 
+- [🏢 Manifesto da Agência Criativa PMT](docs/agencia-criativa-pmt.md)
 - [📁 Portfólio centralizado](docs/PORTFOLIO.md)
 - [📋 Registro detalhado dos projetos](docs/projetos-b12-educandos-2026-08-28.md)
 - [🧠 Metodologia PMT — Design Gráfico](docs/metodologia-pmt-design-grafico.md)
 - [📝 Template para novos projetos](templates/TEMPLATE_PROJETO_WEB.md)
 
-## Registro dos projetos publicados
-
-A documentação dos projetos individuais está organizada por turma, mantendo a identificação curricular única como **PMT — Design Gráfico**.
-
-### Diretório de projetos
-
-[Ver Projetos de Páginas Web — B12 e Base44](docs/projetos-b12-educandos-2026-08-28.md)
-
-O documento contém os links públicos das páginas e protótipos, a plataforma utilizada, o registro por turma e observações relevantes sobre versões ou uso de contas compartilhadas.
-
 ## Sanitização e privacidade
 
-Os registros acadêmicos publicados neste repositório utilizam apenas o **primeiro nome dos educandos**. Não são armazenadas imagens de perfil, credenciais, senhas, tokens ou outras informações pessoais desnecessárias.
+Os registros acadêmicos publicados utilizam apenas o **primeiro nome dos educandos**. Não são armazenadas imagens de perfil, credenciais, senhas, tokens ou outras informações pessoais desnecessárias.
 
-Antes de adicionar novos registros, manter este mesmo padrão de sanitização.
-
-## Tecnologias e ferramentas trabalhadas
+## Tecnologias e ferramentas
 
 - ChatGPT
 - B12
@@ -84,4 +70,4 @@ Antes de adicionar novos registros, manter este mesmo padrão de sanitização.
 
 ## Status
 
-**Em desenvolvimento contínuo**, com novos projetos e registros sendo incorporados conforme as atividades do curso avançam.
+**Em desenvolvimento contínuo**, com novos projetos, documentos e evidências de aprendizagem sendo incorporados conforme o curso avança.

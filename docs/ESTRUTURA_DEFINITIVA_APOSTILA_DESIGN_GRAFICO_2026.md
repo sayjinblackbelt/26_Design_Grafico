@@ -1,7 +1,6 @@
 # 📘 Estrutura Definitiva da Apostila — Design Gráfico 2026
 
-## Oficina de Design Gráfico | PMT — Fundação Eufraten
-
+## Oficina de Design Gráfico | 
 Este documento reorganiza a apostila existente para separar com clareza **Design Gráfico** de conteúdos próprios de **Mídias Digitais** e alinhar a sequência ao percurso pedagógico efetivamente desenvolvido em 2026.
 
 ## 🎯 Critério de organização

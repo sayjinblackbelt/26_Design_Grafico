@@ -1,78 +1,60 @@
-# Projetos de Páginas Web — B12
+# Projetos de Páginas Web — B12 e Base44
 
-**Data:** 28/08/2026  
-**Contexto:** Atividade prática — ChatGPT → B12 → Portfólio
+**Data inicial:** 28/08/2026  
+**Contexto:** Atividade prática — ChatGPT → plataforma de IA → Portfólio
 
 ## Organização das turmas
-
-Os projetos desta atividade foram realizados por turmas diferentes. Os registros permanecem separados para evitar mistura entre os resultados.
-
 - **Campus 1 — Manhã:** turma de Design.
 - **Campus 1 — Tarde:** turma de PMT.
 - **Cidade do Autoconhecimento:** registros específicos da unidade.
 
 ## Objetivo
-
-Registrar as páginas web produzidas individualmente pelos educandos durante a atividade prática. O ChatGPT foi utilizado para orientar a definição da ideia, estruturar o briefing e gerar o prompt; o B12 foi utilizado para executar a criação da página, personalizar o resultado e publicar o site.
-
-## Fluxo da atividade
-
-1. Definição da ideia com perguntas guiadas no ChatGPT.
-2. Construção do briefing.
-3. Criação e revisão do prompt.
-4. Execução do prompt no B12.
-5. Personalização visual e textual.
-6. Publicação da página.
-7. Registro do link no portfólio.
+Registrar páginas e protótipos produzidos individualmente pelos educandos com apoio do ChatGPT e plataformas de criação assistida por IA.
 
 # Campus 1 — Manhã
-
 **Turma:** Design
 
-| Educando | Projeto | Link | Observação |
-|---|---|---|---|
-| Tobias | Sport Club Corinthians Paulista | https://sport-club-corinthians-paulista.b12sites.com/ | Link registrado em 28/08/2026 às 10:20 |
-| Murilo | Café Lira | https://cafe-lira.b12sites.com/ | Link registrado em 28/08/2026 às 10:20 |
-| Wollace | Free Fire — Portfolio Design | https://free-fire5-portfolio-design.b12sites.com/index#hero | Primeira versão registrada às 10:20; projeto realizado usando a conta do Vinícius |
-| Wollace | Free Fire — Portfolio Design | https://free-fire-portfolio-design.b12sites.com/index#hero | Segunda versão registrada às 10:24; projeto realizado usando a conta do Vinícius |
-| Ana | De Volta aos Boxes — TTMB | https://de-volta-aos-boxes-ttmb.b12sites.com | Link registrado em 28/08/2026 às 10:27 |
+| Educando | Projeto | Plataforma | Link | Observação |
+|---|---|---|---|---|
+| Tobias | Sport Club Corinthians Paulista | B12 | https://sport-club-corinthians-paulista.b12sites.com/ | 28/08 às 10:20 |
+| Murilo | Café Lira | B12 | https://cafe-lira.b12sites.com/ | 28/08 às 10:20 |
+| Wollace | Free Fire — Portfolio Design | B12 | https://free-fire5-portfolio-design.b12sites.com/index#hero | Primeira versão; conta do Vinícius |
+| Wollace | Free Fire — Portfolio Design | B12 | https://free-fire-portfolio-design.b12sites.com/index#hero | Segunda versão; conta do Vinícius |
+| Ana | De Volta aos Boxes — TTMB | B12 | https://de-volta-aos-boxes-ttmb.b12sites.com | 28/08 às 10:27 |
+| Lauany | Enthusiastic Neon Style Studio | Base44 | https://enthusiastic-neon-style-studio.base44.app | Link registrado em 01/09/2026 às 09:49 |
 
 # Campus 1 — Tarde
-
 **Turma:** PMT
 
-| Educando | Projeto | Link | Observação |
-|---|---|---|---|
-| Ana Clara | Linha Capilar para Mulheres | https://linha-capilar-para-mulheres.b12sites.com/ | Link registrado em 28/08/2026 às 15:14 |
-| Yasmim | Loja de Skincare | https://loja-de-skincare.b12sites.com/ | Link registrado em 28/08/2026 às 15:16 |
+| Educando | Projeto | Link |
+|---|---|---|
+| Ana Clara | Linha Capilar para Mulheres | https://linha-capilar-para-mulheres.b12sites.com/ |
+| Yasmim | Loja de Skincare | https://loja-de-skincare.b12sites.com/ |
 
 # Cidade do Autoconhecimento
+| Educando | Projeto | Link |
+|---|---|---|
+| Heloisa | Loja de Acessórios em Prata | https://loja-de-acessorios-em-prata.b12sites.com/ |
+| Ana | Study Organizer App | https://study-organizer-app-vscf.b12sites.com/ |
+| Yasmin | Portfólio Fotográfico Criativo | https://portfolio-fotografico-criativo.b12sites.com/ |
+| Sibele | Vivat | https://vivat.b12sites.com/ |
+| Gabriel | Segurança Digital Educativa | https://seguranca-digital-educativa.b12sites.com/ |
+| Isabela | Adoção de Cachorros | https://adocao-de-cachorros.b12sites.com/ |
+| Gabrielly | Plataforma de Organização para Jovens Profissionais | https://plataforma-de-organizacao-para-jovens-profissionais.b12sites.com/ |
+| Gustavo | Curiosidades sobre Gatos | https://curiosidades-sobre-gatos.b12sites.com/ |
+| Julia | Café Artesanal Gourmet | https://cafe-artesanal-gourmet.b12sites.com/index#sobre |
+| Eduarda | Dra. Eduarda Martins — Direito Empresarial | https://dra-eduarda-martins-direito-empresarial.b12sites.com/ |
+| Ashley | Verde Violeta | https://verde-violeta.b12sites.com/ |
+| Renata | Conecta Jovem | https://conecta-jovem.b12sites.com/ |
 
-| Educando | Projeto | Link | Horário |
-|---|---|---|---|
-| Heloisa | Loja de Acessórios em Prata | https://loja-de-acessorios-em-prata.b12sites.com/ | 15:15 |
-| Ana | Study Organizer App | https://study-organizer-app-vscf.b12sites.com/ | 15:17 |
-| Yasmin | Portfólio Fotográfico Criativo | https://portfolio-fotografico-criativo.b12sites.com/ | 15:17 |
-| Sibele | Vivat | https://vivat.b12sites.com/ | 15:22 |
-| Gabriel | Segurança Digital Educativa | https://seguranca-digital-educativa.b12sites.com/ | 15:24 |
-| Isabela | Adoção de Cachorros | https://adocao-de-cachorros.b12sites.com/ | 15:26 |
-| Gabrielly | Plataforma de Organização para Jovens Profissionais | https://plataforma-de-organizacao-para-jovens-profissionais.b12sites.com/ | 15:26 |
-| Gustavo | Curiosidades sobre Gatos | https://curiosidades-sobre-gatos.b12sites.com/ | 15:27 |
-| Julia | Café Artesanal Gourmet | https://cafe-artesanal-gourmet.b12sites.com/index#sobre | 15:30 |
-| Eduarda | Dra. Eduarda Martins — Direito Empresarial | https://dra-eduarda-martins-direito-empresarial.b12sites.com/ | 15:30 |
-| Ashley | Verde Violeta | https://verde-violeta.b12sites.com/ | 15:31 |
-| Renata | Conecta Jovem | https://conecta-jovem.b12sites.com/ | 15:33 |
-
-## Critérios mínimos da atividade
-
+## Critérios mínimos
 - Projeto individualizado.
 - Tema e público definidos pelo educando.
 - Prompt desenvolvido com apoio do ChatGPT.
-- Página criada e personalizada no B12.
-- Identidade visual minimamente coerente.
-- Página publicada.
-- Link registrado para uso no portfólio.
+- Página ou aplicativo criado e personalizado.
+- Identidade visual coerente.
+- Projeto publicado.
+- Link registrado para o portfólio.
 
-## Privacidade e organização
-
-Os registros foram sanitizados para manter apenas o primeiro nome dos educandos. Este repositório registra os resultados e o processo da atividade; os sites permanecem hospedados externamente no B12.
+## Privacidade
+Os registros mantêm apenas o primeiro nome dos educandos.

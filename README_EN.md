@@ -2,75 +2,126 @@
 
 > 🇧🇷 [Português](README.md) | 🇺🇸 **English** | 🇪🇸 [Español](README_ES.md)
 
-Repository supporting the **PMT — Graphic Design** course, bringing together materials, activities, experiments, and student production records.
+# 🎨 PMT — Graphic Design | Fundação Eufraten
 
-## Course organization
+Pedagogical repository for the **Digital Media and Graphic Design Workshop**, developed within **PMT — Preparation for the World of Work**.
 
-All groups registered in this repository belong to the same curriculum component:
+This repository serves as a **living course portfolio**, bringing together planning, methodology, activities, projects, support materials, pedagogical records, and technical documentation.
 
-**PMT — Graphic Design**
+## 🎯 Purpose
 
-Records are organized by **class and unit**:
+Develop digital, creative, and professional skills through practical experiences connecting:
 
-- **Class 1** — Campus 1
-- **Class 2** — Campus 1
-- **Class 3** — Cidade do Autoconhecimento
+**Design → Communication → Technology → Reflection → Creation → Review → Delivery**
 
-## Activity — AI-powered web page creation
+The goal is not only to teach tools, but to develop the ability to **think, plan, create, evaluate, and improve visual solutions**.
 
-One practical course activity follows this workflow:
+## 🧠 Pedagogical foundations
 
-**ChatGPT → AI creation platform → publication → portfolio**
+- Project-Based Learning (PBL)
+- Educational Sprints inspired by Scrum
+- Heulosophical Pedagogy
+- Socratic questioning and guiding questions
+- Organization of thought
+- Autonomy and responsibility
+- Collaborative work
+- Hands-on learning and final reflection
 
-Students use ChatGPT to develop ideas, answer guided questions, structure a briefing, and create or revise prompts. They then use AI-assisted tools such as **B12** and **Base44** to transform proposals into published web pages or prototypes.
+Recurring workflow:
 
-The focus is developing the ability to **plan, direct, review, and improve a visual solution**, rather than simply accepting the first AI-generated result.
+**👀 Observe → 🤔 Reflect → 🎯 Decide → 🚀 Act → 🌱 Review and improve**
 
-### Activity stages
+## 🚀 PMT Creative Agency
 
-1. Define the idea.
-2. Identify the audience and objective.
-3. Choose the visual style.
-4. Define colors, images, and content.
-5. Build the briefing.
-6. Create and revise the prompt in ChatGPT.
-7. Run the prompt on the creation platform.
-8. Customize the result.
-9. Publish.
-10. Register the project in the portfolio.
+The classroom is organized as a creative-agency experience. Students work with **briefing, planning, production, review, feedback, and delivery**, connecting learning with real project workflows.
 
-### Minimum requirements
+📖 [PMT Creative Agency Manifesto](docs/agencia-criativa-pmt.md)
 
-- Individualized project.
-- Theme and audience defined by the student.
-- Conscious use of ChatGPT during planning.
-- Structured and reviewed prompt.
-- Customized web page or prototype.
-- Coherent visual identity.
-- Published project.
-- Portfolio link registered.
+## 📚 Documented learning journey
 
-## Published project records
+### 1. Graphic Design Fundamentals
+- 7 design principles
+- contrast
+- alignment
+- proximity
+- repetition
+- hierarchy
+- white space
+- balance
+- shapes and composition
+- color theory and color palettes
 
-Individual project documentation is organized by class while maintaining the single curriculum identity of **PMT — Graphic Design**.
+### 2. Google Slides
+Practical activities focused on research, information organization, visual communication, and presentation design.
 
-### Project directory
+### 3. Institutional Project — May 18
+A project developed through an agile methodology and multiple Sprints, involving research, information selection, planning, production, review, and preparation of institutional material.
 
-[View Web Page Projects — B12 and Base44](docs/projetos-b12-educandos-2026-08-28.md)
+### 4. Behavioral development
+Visual activities addressing **omission, impulsivity, choices, and consequences**, connecting reflection with action.
 
-## Data sanitization and privacy
+### 5. Storytelling and audiovisual production
+Introduction to visual narrative and short-message production through:
 
-Academic records use only the **students' first names**. Profile pictures, credentials, passwords, tokens, and other unnecessary personal information are not stored.
+**image + text + sequence + rhythm + music**
 
-## Technologies and tools
+Tool explored: **B12 Editor**.
 
+### 6. AI and web page creation
+Pedagogical workflow:
+
+**ChatGPT → AI creation platform → customization → review → publication → portfolio**
+
+Tools explored:
+
+- B12
+- Base44
+- ChatGPT
+
+The focus is conscious AI use: **plan, direct, evaluate, and improve**, rather than automatically accepting the first result.
+
+### 7. Next evolution
+The course is moving toward:
+
+- Canva
+- visual identity
+- brand kits
+- applied color palettes
+- brand storytelling
+- portfolio websites
+- professional project presentation
+
+## 🗂️ Documentation
+
+- [🏢 PMT Creative Agency Manifesto](docs/agencia-criativa-pmt.md)
+- [📁 Centralized portfolio](docs/PORTFOLIO.md)
+- [📋 B12 project records](docs/projetos-b12-educandos-2026-08-28.md)
+- [🧠 PMT — Graphic Design methodology](docs/metodologia-pmt-design-grafico.md)
+- [📊 2026 semester pedagogical report](docs/relatorio-pedagogico-semestral-2026.md)
+- [📝 Template for new projects](templates/TEMPLATE_PROJETO_WEB.md)
+
+## 🛠️ Technologies and tools
+
+- Google Slides
+- Canva
 - ChatGPT
 - B12
 - Base44
-- Canva
-- Digital design and editing tools
+- Digital image and editing tools
 - GitHub
 
-## Status
+## 🔒 Privacy and sanitization
 
-**Under continuous development**, with new projects and records incorporated as course activities progress.
+Public documentation prioritizes student privacy. Sensitive data, credentials, passwords, tokens, and other unnecessary personal information should not be published.
+
+Pedagogical records are maintained in sanitized form and focused on documenting the learning process.
+
+## 📈 Status
+
+🟢 **Continuously evolving project**
+
+New activities, Sprints, projects, and learning evidence will be incorporated throughout 2026.
+
+---
+
+> **Creating is not only about making something beautiful. It is about observing, thinking, communicating, reviewing, and turning an idea into a purposeful solution.**

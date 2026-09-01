@@ -1,6 +1,6 @@
 # 🗺️ Roadmap — Design Gráfico 2026
 
-## PMT | Fundação Eufraten
+## PMT | 
 
 Este roadmap apresenta a progressão do percurso pedagógico da oficina de **Design Gráfico** ao longo de 2026.
 

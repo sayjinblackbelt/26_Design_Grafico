@@ -83,6 +83,7 @@ Fluxo:
 - [📂 Organização dos Projetos](projetos/README.md)
 - [🖼️ Galeria de Exemplos Visuais](assets/exemplos/README.md)
 - [📘 Guia Visual de Design Gráfico PMT](docs/GUIA_VISUAL_DESIGN_GRAFICO_PMT.md)
+- [🧭 Estrutura Definitiva da Apostila 2026](docs/ESTRUTURA_DEFINITIVA_APOSTILA_DESIGN_GRAFICO_2026.md)
 
 ## 🚀 Próxima evolução
 

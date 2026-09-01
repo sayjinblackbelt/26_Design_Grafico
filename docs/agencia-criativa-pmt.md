@@ -2,7 +2,7 @@
 
 ## Manifesto da Equipe
 
-**Fundação Eufraten**  
+****  
 **PMT — Preparação para o Mundo do Trabalho**  
 **Design Gráfico**
 

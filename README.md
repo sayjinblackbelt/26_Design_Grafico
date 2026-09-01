@@ -2,106 +2,65 @@
 
 > 🇧🇷 **Português** | 🇺🇸 [English](README_EN.md) | 🇪🇸 [Español](README_ES.md)
 
-# 🎨 PMT — Design Gráfico | Fundação Eufraten
+# 🎨 Design Gráfico — Repositório Pedagógico
 
-Repositório pedagógico dedicado **exclusivamente ao percurso de Design Gráfico** do PMT — Preparação para o Mundo do Trabalho.
+Repositório dedicado exclusivamente ao percurso pedagógico de **Design Gráfico**, reunindo fundamentos, metodologia, atividades, projetos, exemplos visuais e documentação técnica.
 
-> **Mídias Digitais possui proposta, planejamento e repositório próprios.** As duas áreas são complementares, mas este projeto documenta especificamente linguagem visual, composição, cor, identidade e produção gráfica.
+> **Mídias Digitais possui proposta e repositório próprios.** As áreas podem ser complementares, mas este projeto documenta especificamente linguagem visual, composição, cor, identidade e produção gráfica.
 
 ## 🎯 Propósito
 
 Desenvolver a capacidade de **pensar, planejar, criar, avaliar e melhorar soluções visuais**.
 
-Fluxo:
-
 **Fundamentos → Aplicação → Projeto → Revisão → Melhoria → Portfólio**
 
-## 🧠 Fundamentos pedagógicos
+## 🧠 Abordagem pedagógica
 
 - Aprendizagem Baseada em Projetos (PBL)
-- Sprint Educacional inspirado em Scrum
-- Pedagogia Heulosófica
-- Maiêutica e perguntas norteadoras
+- Sprints educacionais inspirados em Scrum
+- Perguntas norteadoras e reflexão
 - Organização do pensamento
 - Autonomia e responsabilidade
 - Trabalho colaborativo
-- Aprendizagem prática e reflexão final
+- Aprendizagem prática e melhoria contínua
 
-## 📚 Conteúdos desenvolvidos
+## 📚 Conteúdos
 
-### 🎨 Fundamentos do Design
-- contraste;
-- alinhamento;
-- proximidade;
-- repetição;
-- hierarquia;
-- espaço em branco;
-- equilíbrio;
-- formas;
-- composição;
-- tipografia e legibilidade.
+### 🎨 Fundamentos
+Contraste, alinhamento, proximidade, repetição, hierarquia, espaço em branco, equilíbrio, formas, composição, tipografia e legibilidade.
 
-### 🌈 Teoria das cores
-- cores primárias, secundárias e terciárias;
-- cores quentes e frias;
-- contraste e harmonia;
-- saturação e luminosidade;
-- paleta cromática;
-- uso intencional da cor.
+### 🌈 Cor
+Teoria das cores, contraste, harmonia, saturação, luminosidade e paletas cromáticas.
 
 ### 🖥️ Ferramentas e produção
-- Google Apresentações como ferramenta de composição;
-- criação de apresentações;
-- organização visual;
-- criação de folders;
-- B12 Editor e narrativa visual;
-- Canva como próxima etapa de criação.
+Google Apresentações, criação de apresentações, organização visual, folders, narrativa visual e Canva.
 
 ### 📖 Storytelling
-- contexto;
-- desenvolvimento;
-- mudança;
-- mensagem;
-- narrativa aplicada à comunicação visual.
+Contexto, desenvolvimento, mudança, mensagem e narrativa aplicada à comunicação visual.
 
 ### 🏢 Projetos
-- atividade dos 7 princípios do Design;
-- Projeto institucional do 18 de Maio;
-- Sprints educacionais;
-- revisão e melhoria contínua;
-- Agência Criativa PMT;
-- desenvolvimento de identidade visual e Kit de Marca.
+Atividade dos 7 princípios, projeto de comunicação social, Sprints educacionais, storytelling, revisão, melhoria contínua e desenvolvimento de identidade visual.
 
-## 🗂️ Documentação principal
+## 🗂️ Documentação
 
-- [📘 Fundamentos Desenvolvidos — Design Gráfico 2026](docs/fundamentos-design-grafico-2026.md)
-- [🏢 Manifesto da Agência Criativa PMT](docs/agencia-criativa-pmt.md)
-- [🧠 Metodologia PMT — Design Gráfico](docs/metodologia-pmt-design-grafico.md)
-- [📊 Relatório pedagógico semestral 2026](docs/relatorio-pedagogico-semestral-2026.md)
+- [📘 Fundamentos Desenvolvidos](docs/fundamentos-design-grafico-2026.md)
+- [🏢 Manifesto da Agência Criativa](docs/agencia-criativa-pmt.md)
+- [🧠 Metodologia](docs/metodologia-pmt-design-grafico.md)
+- [📊 Relatório pedagógico semestral](docs/relatorio-pedagogico-semestral-2026.md)
 - [📁 Portfólio centralizado](docs/PORTFOLIO.md)
-- [🗺️ Roadmap do Curso 2026](docs/ROADMAP_DESIGN_GRAFICO_2026.md)
+- [🗺️ Roadmap 2026](docs/ROADMAP_DESIGN_GRAFICO_2026.md)
 - [📂 Organização dos Projetos](projetos/README.md)
 - [🖼️ Galeria de Exemplos Visuais](assets/exemplos/README.md)
-- [📘 Guia Visual de Design Gráfico PMT](docs/GUIA_VISUAL_DESIGN_GRAFICO_PMT.md)
+- [📘 Guia Visual de Design Gráfico](docs/GUIA_VISUAL_DESIGN_GRAFICO_PMT.md)
 - [🧭 Estrutura Definitiva da Apostila 2026](docs/ESTRUTURA_DEFINITIVA_APOSTILA_DESIGN_GRAFICO_2026.md)
-
-## 🚀 Próxima evolução
-
-1. Canva;
-2. Kit de Marca;
-3. identidade visual;
-4. aplicação de paleta e tipografia;
-5. projetos gráficos autorais;
-6. portfólio visual;
-7. apresentação profissional dos projetos.
 
 ## 🔒 Privacidade
 
-A documentação pública é sanitizada e não deve incluir dados pessoais desnecessários dos educandos.
+A documentação pública é sanitizada. Não devem ser publicados nomes de educandos, dados individuais de avaliação, contatos pessoais, credenciais ou outras informações pessoais desnecessárias.
 
 ## 📈 Status
 
-🟢 **Projeto em desenvolvimento contínuo durante 2026**
+🟢 **Projeto em desenvolvimento contínuo**
 
 ---
 

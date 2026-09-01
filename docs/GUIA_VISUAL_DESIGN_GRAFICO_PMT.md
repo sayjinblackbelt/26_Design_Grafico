@@ -1,6 +1,6 @@
 # 📘 Guia Visual de Design Gráfico PMT
 
-## Fundação Eufraten | Preparação para o Mundo do Trabalho
+##  | Preparação para o Mundo do Trabalho
 
 Este guia reúne conceitos fundamentais já trabalhados na oficina de **Design Gráfico**, com exemplos visuais e exercícios práticos.
 

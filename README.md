@@ -81,6 +81,7 @@ Fluxo:
 - [📁 Portfólio centralizado](docs/PORTFOLIO.md)
 - [🗺️ Roadmap do Curso 2026](docs/ROADMAP_DESIGN_GRAFICO_2026.md)
 - [📂 Organização dos Projetos](projetos/README.md)
+- [🖼️ Galeria de Exemplos Visuais](assets/exemplos/README.md)
 
 ## 🚀 Próxima evolução
 

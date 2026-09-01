@@ -4,17 +4,17 @@
 
 # 🎨 PMT — Design Gráfico | Fundação Eufraten
 
-Repositório pedagógico da **Oficina de Mídias Digitais e Design Gráfico**, desenvolvida no projeto **PMT — Preparação para o Mundo do Trabalho**.
+Repositório pedagógico dedicado **exclusivamente ao percurso de Design Gráfico** do PMT — Preparação para o Mundo do Trabalho.
 
-Este repositório funciona como **portfólio vivo do curso**, reunindo planejamento, metodologia, atividades, projetos, materiais de apoio, registros pedagógicos e documentação técnica.
+> **Mídias Digitais possui proposta, planejamento e repositório próprios.** As duas áreas são complementares, mas este projeto documenta especificamente linguagem visual, composição, cor, identidade e produção gráfica.
 
 ## 🎯 Propósito
 
-Desenvolver competências digitais, criativas e profissionais por meio de experiências práticas que conectam:
+Desenvolver a capacidade de **pensar, planejar, criar, avaliar e melhorar soluções visuais**.
 
-**Design → Comunicação → Tecnologia → Reflexão → Criação → Revisão → Entrega**
+Fluxo:
 
-O objetivo não é apenas ensinar ferramentas, mas desenvolver a capacidade de **pensar, planejar, criar, avaliar e melhorar soluções visuais**.
+**Fundamentos → Aplicação → Projeto → Revisão → Melhoria → Portfólio**
 
 ## 🧠 Fundamentos pedagógicos
 
@@ -22,106 +22,82 @@ O objetivo não é apenas ensinar ferramentas, mas desenvolver a capacidade de *
 - Sprint Educacional inspirado em Scrum
 - Pedagogia Heulosófica
 - Maiêutica e perguntas norteadoras
-- Saneamento mental e organização do pensamento
+- Organização do pensamento
 - Autonomia e responsabilidade
 - Trabalho colaborativo
 - Aprendizagem prática e reflexão final
 
-Fluxo recorrente:
+## 📚 Conteúdos desenvolvidos
 
-**👀 Observar → 🤔 Refletir → 🎯 Tomar atitude → 🚀 Agir → 🌱 Revisar e melhorar**
+### 🎨 Fundamentos do Design
+- contraste;
+- alinhamento;
+- proximidade;
+- repetição;
+- hierarquia;
+- espaço em branco;
+- equilíbrio;
+- formas;
+- composição;
+- tipografia e legibilidade.
 
-## 🚀 Agência Criativa PMT
+### 🌈 Teoria das cores
+- cores primárias, secundárias e terciárias;
+- cores quentes e frias;
+- contraste e harmonia;
+- saturação e luminosidade;
+- paleta cromática;
+- uso intencional da cor.
 
-A sala de aula é organizada como uma experiência de agência criativa. Os educandos trabalham com **briefing, planejamento, produção, revisão, feedback e entrega**, aproximando a aprendizagem do fluxo encontrado em projetos reais.
+### 🖥️ Ferramentas e produção
+- Google Apresentações como ferramenta de composição;
+- criação de apresentações;
+- organização visual;
+- criação de folders;
+- B12 Editor e narrativa visual;
+- Canva como próxima etapa de criação.
 
-📖 [Manifesto da Agência Criativa PMT](docs/agencia-criativa-pmt.md)
+### 📖 Storytelling
+- contexto;
+- desenvolvimento;
+- mudança;
+- mensagem;
+- narrativa aplicada à comunicação visual.
 
-## 📚 Percurso documentado
+### 🏢 Projetos
+- atividade dos 7 princípios do Design;
+- Projeto institucional do 18 de Maio;
+- Sprints educacionais;
+- revisão e melhoria contínua;
+- Agência Criativa PMT;
+- desenvolvimento de identidade visual e Kit de Marca.
 
-### 1. Fundamentos de Design Gráfico
-- 7 princípios do Design
-- contraste
-- alinhamento
-- proximidade
-- repetição
-- hierarquia
-- espaço em branco
-- equilíbrio
-- formas e composição
-- teoria das cores e paleta cromática
+## 🗂️ Documentação principal
 
-### 2. Google Apresentações
-Atividades práticas para desenvolver pesquisa, organização de informações, comunicação visual e criação de apresentações.
-
-### 3. Projeto institucional — 18 de Maio
-Projeto desenvolvido com metodologia ágil e múltiplos Sprints, envolvendo pesquisa, seleção de informações, planejamento, produção, revisão e preparação de material institucional.
-
-### 4. Desenvolvimento comportamental
-Atividades utilizando recursos visuais para discutir **omissão, impulsividade, escolhas e consequências**, conectando reflexão e ação.
-
-### 5. Storytelling e produção audiovisual
-Introdução à narrativa visual e à criação de mensagens curtas por meio de:
-
-**imagem + texto + sequência + ritmo + música**
-
-Ferramenta explorada: **B12 Editor**.
-
-### 6. IA e criação de páginas web
-Fluxo pedagógico:
-
-**ChatGPT → plataforma de criação com IA → personalização → revisão → publicação → portfólio**
-
-Ferramentas exploradas:
-
-- B12
-- Base44
-- ChatGPT
-
-O foco é utilizar IA de forma consciente: **planejar, dirigir, avaliar e melhorar**, em vez de aceitar automaticamente o primeiro resultado.
-
-### 7. Próxima evolução
-O percurso avança para:
-
-- Canva
-- identidade visual
-- kit de marca
-- paleta de cores aplicada
-- storytelling para marcas
-- site portfólio
-- apresentação profissional de projetos
-
-## 🗂️ Documentação
-
+- [📘 Fundamentos Desenvolvidos — Design Gráfico 2026](docs/fundamentos-design-grafico-2026.md)
 - [🏢 Manifesto da Agência Criativa PMT](docs/agencia-criativa-pmt.md)
-- [📁 Portfólio centralizado](docs/PORTFOLIO.md)
-- [📋 Registro dos projetos B12](docs/projetos-b12-educandos-2026-08-28.md)
 - [🧠 Metodologia PMT — Design Gráfico](docs/metodologia-pmt-design-grafico.md)
 - [📊 Relatório pedagógico semestral 2026](docs/relatorio-pedagogico-semestral-2026.md)
-- [📝 Template para novos projetos](templates/TEMPLATE_PROJETO_WEB.md)
+- [📁 Portfólio centralizado](docs/PORTFOLIO.md)
 
-## 🛠️ Tecnologias e ferramentas
+## 🚀 Próxima evolução
 
-- Google Apresentações
-- Canva
-- ChatGPT
-- B12
-- Base44
-- Ferramentas digitais de imagem e edição
-- GitHub
+1. Canva;
+2. Kit de Marca;
+3. identidade visual;
+4. aplicação de paleta e tipografia;
+5. projetos gráficos autorais;
+6. portfólio visual;
+7. apresentação profissional dos projetos.
 
-## 🔒 Privacidade e sanitização
+## 🔒 Privacidade
 
-A documentação pública prioriza a proteção dos educandos. Não devem ser publicados dados sensíveis, credenciais, senhas, tokens ou outras informações pessoais desnecessárias.
-
-Os registros pedagógicos são mantidos de forma sanitizada e orientados à documentação do processo de aprendizagem.
+A documentação pública é sanitizada e não deve incluir dados pessoais desnecessários dos educandos.
 
 ## 📈 Status
 
-🟢 **Projeto em desenvolvimento contínuo**
-
-Novas atividades, Sprints, projetos e evidências de aprendizagem serão incorporados ao longo de 2026.
+🟢 **Projeto em desenvolvimento contínuo durante 2026**
 
 ---
 
-> **Criar não é apenas produzir algo bonito. É observar, pensar, comunicar, revisar e transformar uma ideia em uma solução com propósito.**
+> **Design Gráfico não é decorar uma página. É organizar elementos visuais para comunicar uma mensagem com clareza, intenção e propósito.**

@@ -21,7 +21,8 @@ Registrar páginas e protótipos produzidos individualmente pelos educandos com 
 | Wollace | Free Fire — Portfolio Design | B12 | https://free-fire5-portfolio-design.b12sites.com/index#hero | Primeira versão; conta do Vinícius |
 | Wollace | Free Fire — Portfolio Design | B12 | https://free-fire-portfolio-design.b12sites.com/index#hero | Segunda versão; conta do Vinícius |
 | Ana | De Volta aos Boxes — TTMB | B12 | https://de-volta-aos-boxes-ttmb.b12sites.com | 28/08 às 10:27 |
-| Lauany | Enthusiastic Neon Style Studio | Base44 | https://enthusiastic-neon-style-studio.base44.app | Link registrado em 01/09/2026 às 09:49 |
+| Lauany | Enthusiastic Neon Style Studio | Base44 | https://enthusiastic-neon-style-studio.base44.app | 01/09/2026 às 09:49 |
+| Wollace | Orochi Legacy Flow | Base44 | https://orochi-legacy-flow.base44.app | 01/09/2026 às 10:13; enviado usando a conta do Vinícius |
 
 # Campus 1 — Tarde
 **Turma:** PMT

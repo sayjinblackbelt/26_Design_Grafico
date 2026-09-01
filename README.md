@@ -50,6 +50,13 @@ O foco da atividade é desenvolver a capacidade de **planejar, dirigir, revisar 
 - Projeto publicado.
 - Link registrado para o portfólio.
 
+## Documentação do projeto
+
+- [📁 Portfólio centralizado](docs/PORTFOLIO.md)
+- [📋 Registro detalhado dos projetos](docs/projetos-b12-educandos-2026-08-28.md)
+- [🧠 Metodologia PMT — Design Gráfico](docs/metodologia-pmt-design-grafico.md)
+- [📝 Template para novos projetos](templates/TEMPLATE_PROJETO_WEB.md)
+
 ## Registro dos projetos publicados
 
 A documentação dos projetos individuais está organizada por turma, mantendo a identificação curricular única como **PMT — Design Gráfico**.

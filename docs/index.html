@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Portfólio educacional do PMT — Design Gráfico com páginas web e aplicativos simples criados pelos educandos com apoio de IA.">
+  <title>PMT — Design Gráfico | Portfólio Digital</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <span class="eyebrow">FUNDAÇÃO EUFRATEN • PMT</span>
+    <h1>Design Gráfico<br><span>Portfólio Digital</span></h1>
+    <p>Projetos digitais desenvolvidos pelos educandos: páginas web, protótipos e aplicativos simples com apoio de Inteligência Artificial.</p>
+    <div class="flow"><b>Ideia</b><i>→</i><b>Planejamento</b><i>→</i><b>Criação</b><i>→</i><b>Teste</b><i>→</i><b>Publicação</b></div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="intro">
+    <div>
+      <span class="eyebrow">APRENDER FAZENDO</span>
+      <h2>Da ideia à solução digital</h2>
+      <p>A atividade amplia a criação de páginas para a experimentação de pequenos produtos digitais. O educando pensa a proposta, organiza o briefing, utiliza IA para estruturar o projeto, cria no B12 ou Base44, testa, revisa e publica.</p>
+    </div>
+    <div class="stats">
+      <div><strong id="total">0</strong><span>projetos</span></div>
+      <div><strong>3</strong><span>turmas</span></div>
+      <div><strong>2</strong><span>plataformas</span></div>
+    </div>
+  </section>
+
+  <section class="controls" aria-label="Filtros do portfólio">
+    <input id="search" type="search" placeholder="Buscar projeto ou educando..." aria-label="Buscar projeto ou educando">
+    <select id="classFilter" aria-label="Filtrar por turma">
+      <option value="all">Todas as turmas</option>
+      <option value="Turma 1">Turma 1 — Cidade do Autoconhecimento</option>
+      <option value="Turma 2">Turma 2 — Campus 1</option>
+      <option value="Turma 3">Turma 3 — Cidade do Autoconhecimento</option>
+    </select>
+    <select id="platformFilter" aria-label="Filtrar por plataforma">
+      <option value="all">Todas as plataformas</option>
+      <option value="B12">B12</option>
+      <option value="Base44">Base44</option>
+    </select>
+  </section>
+
+  <section id="portfolio" class="grid" aria-live="polite"></section>
+
+  <section class="method">
+    <span class="eyebrow">METODOLOGIA</span>
+    <h2>Não é apenas criar uma página.</h2>
+    <div class="method-grid">
+      <article><b>01</b><h3>Pensar</h3><p>Definir uma ideia, público e objetivo.</p></article>
+      <article><b>02</b><h3>Especificar</h3><p>Transformar a ideia em briefing e prompt.</p></article>
+      <article><b>03</b><h3>Criar</h3><p>Construir a solução com IA e ferramentas digitais.</p></article>
+      <article><b>04</b><h3>Refletir</h3><p>Testar, identificar problemas e melhorar.</p></article>
+    </div>
+  </section>
+
+  <section class="privacy">
+    <strong>Privacidade e sanitização</strong>
+    <p>Esta página apresenta somente informações necessárias ao portfólio pedagógico. Os educandos são identificados apenas pelo primeiro nome. Não são publicados dados pessoais, imagens de perfil, credenciais, senhas ou tokens.</p>
+  </section>
+</main>
+
+<footer><div class="wrap">PMT — Preparação para o Mundo do Trabalho • Design Gráfico • 2026</div></footer>
+
+<script>
+const projects = [
+  ['Turma 1','Tobias','Sport Club Corinthians Paulista','B12','https://sport-club-corinthians-paulista.b12sites.com/'],
+  ['Turma 1','Murilo','Café Lira','B12','https://cafe-lira.b12sites.com/'],
+  ['Turma 1','Wollace','Free Fire — Portfolio Design','B12','https://free-fire5-portfolio-design.b12sites.com/index#hero'],
+  ['Turma 1','Wollace','Free Fire — Portfolio Design','B12','https://free-fire-portfolio-design.b12sites.com/index#hero'],
+  ['Turma 1','Ana','De Volta aos Boxes — TTMB','B12','https://de-volta-aos-boxes-ttmb.b12sites.com'],
+  ['Turma 1','Lauany','Enthusiastic Neon Style Studio','Base44','https://enthusiastic-neon-style-studio.base44.app'],
+  ['Turma 1','Wollace','Orochi Legacy Flow','Base44','https://orochi-legacy-flow.base44.app'],
+  ['Turma 1','Beatriz','Confeitaria Rosa e Marrom','B12','https://confeitaria-rosa-e-marrom.b12sites.com/'],
+  ['Turma 1','Beatriz','Doces e Confeitaria','Base44','https://doceseconfeitaria.base44.app'],
+  ['Turma 1','Larissa','Minha Primeira Página Web','B12','https://projeto-futuro.b12sites.com/'],
+  ['Turma 1','Heloisa','Melodic Meal Plan Pulse','Base44','https://melodic-meal-plan-pulse.base44.app'],
+  ['Turma 1','Gabriel','Segura Mais Digital','Base44','https://segura-mais-digital.base44.app'],
+  ['Turma 1','Eduarda','Meu Cacho Guia','Base44','https://meu-cacho-guia.base44.app'],
+  ['Turma 1','Yasmin','Doce Ateliê Art','Base44','https://doce-ateli-art.base44.app'],
+  ['Turma 1','Ana Clara','Aura Jolly Style Edit','Base44','https://aura-jolly-style-edit.base44.app'],
+  ['Turma 1','Julia','Ritmo Bom Beats','Base44','https://ritmo-bom-beats.base44.app'],
+  ['Turma 1','Ashley','Ash Hair Flow','Base44','https://ash-hair-flow.base44.app'],
+  ['Turma 1','Gustavo','Solemn Pure Chess Play','Base44','https://solemn-pure-chess-play.base44.app'],
+  ['Turma 1','Eduarda','Saldo Abiding Zen Flow','Base44','https://saldo-abiding-zen-flow.base44.app'],
+  ['Turma 1','Gabrielly','Block Mix Play','Base44','https://block-mix-play.base44.app'],
+  ['Turma 1','Julia','Lazer Zone Play','Base44','https://lazer-zone-play.base44.app'],
+  ['Turma 2','Ana','Linha Capilar para Mulheres','B12','https://linha-capilar-para-mulheres.b12sites.com/'],
+  ['Turma 2','Yasmim','Loja de Skincare','B12','https://loja-de-skincare.b12sites.com/'],
+  ['Turma 3','Heloisa','Loja de Acessórios em Prata','B12','https://loja-de-acessorios-em-prata.b12sites.com/'],
+  ['Turma 3','Ana','Study Organizer App','B12','https://study-organizer-app-vscf.b12sites.com/'],
+  ['Turma 3','Yasmin','Portfólio Fotográfico Criativo','B12','https://portfolio-fotografico-criativo.b12sites.com/'],
+  ['Turma 3','Sibele','Vivat','B12','https://vivat.b12sites.com/'],
+  ['Turma 3','Gabriel','Segurança Digital Educativa','B12','https://seguranca-digital-educativa.b12sites.com/'],
+  ['Turma 3','Isabela','Adoção de Cachorros','B12','https://adocao-de-cachorros.b12sites.com/'],
+  ['Turma 3','Gabrielly','Plataforma de Organização para Jovens Profissionais','B12','https://plataforma-de-organizacao-para-jovens-profissionais.b12sites.com/'],
+  ['Turma 3','Gustavo','Curiosidades sobre Gatos','B12','https://curiosidades-sobre-gatos.b12sites.com/'],
+  ['Turma 3','Julia','Café Artesanal Gourmet','B12','https://cafe-artesanal-gourmet.b12sites.com/index#sobre'],
+  ['Turma 3','Eduarda','Direito Empresarial','B12','https://dra-eduarda-martins-direito-empresarial.b12sites.com/'],
+  ['Turma 3','Ashley','Verde Violeta','B12','https://verde-violeta.b12sites.com/'],
+  ['Turma 3','Renata','Conecta Jovem','B12','https://conecta-jovem.b12sites.com/']
+];
+
+const portfolio = document.getElementById('portfolio');
+const search = document.getElementById('search');
+const classFilter = document.getElementById('classFilter');
+const platformFilter = document.getElementById('platformFilter');
+document.getElementById('total').textContent = projects.length;
+
+function render() {
+  const q = search.value.toLowerCase().trim();
+  const cls = classFilter.value;
+  const platform = platformFilter.value;
+  const filtered = projects.filter(([c,n,p,pl]) =>
+    (cls === 'all' || c === cls) &&
+    (platform === 'all' || pl === platform) &&
+    (!q || `${n} ${p} ${pl}`.toLowerCase().includes(q))
+  );
+  portfolio.innerHTML = filtered.length ? filtered.map(([c,n,p,pl,url]) => `
+    <article class="card">
+      <div class="card-top"><span class="badge">${pl}</span><span class="class">${c}</span></div>
+      <h3>${p}</h3>
+      <p>Projeto de <strong>${n}</strong></p>
+      <a href="${url}" target="_blank" rel="noopener noreferrer">Abrir projeto ↗</a>
+    </article>`).join('') : '<div class="empty">Nenhum projeto encontrado.</div>';
+}
+[search,classFilter,platformFilter].forEach(el => el.addEventListener('input', render));
+render();
+</script>
+</body>
+</html>

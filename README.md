@@ -8,6 +8,12 @@ Repositório dedicado exclusivamente ao percurso pedagógico de **Design Gráfic
 
 > **Mídias Digitais possui proposta e repositório próprios.** As áreas podem ser complementares, mas este projeto documenta especificamente linguagem visual, composição, cor, identidade e produção gráfica.
 
+## 🌐 Portfólio público
+
+**GitHub Pages:** [Portfólio Digital](docs/index.html)
+
+O portfólio público apresenta os projetos publicados pelos educandos em formato sanitizado, utilizando apenas o primeiro nome e os links das soluções digitais.
+
 ## 🎯 Propósito
 
 Desenvolver a capacidade de **pensar, planejar, criar, avaliar e melhorar soluções visuais**.

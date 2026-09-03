@@ -19,6 +19,7 @@ Este portfólio reúne os projetos publicados pelos educandos na atividade de cr
 | Wollace | Orochi Legacy Flow | Base44 | https://orochi-legacy-flow.base44.app |
 | Beatriz | Confeitaria Rosa e Marrom | B12 | https://confeitaria-rosa-e-marrom.b12sites.com/ |
 | Beatriz | Doces e Confeitaria | Base44 | https://doceseconfeitaria.base44.app |
+| Larissa | Minha Primeira Página Web | B12 | https://projeto-futuro.b12sites.com/ |
 
 ## Turma 2
 

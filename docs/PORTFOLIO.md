@@ -16,7 +16,6 @@ Este portfólio reúne os projetos publicados pelos educandos na atividade de cr
 | Wollace | Free Fire — Portfolio Design | B12 | https://free-fire-portfolio-design.b12sites.com/index#hero |
 | Ana | De Volta aos Boxes — TTMB | B12 | https://de-volta-aos-boxes-ttmb.b12sites.com |
 | Beatriz | Confeitaria Rosa e Marrom | B12 | https://confeitaria-rosa-e-marrom.b12sites.com/ |
-| Larissa | Minha Primeira Página Web | B12 | https://projeto-futuro.b12sites.com/ |
 
 ## Turma 2
 
@@ -41,6 +40,7 @@ Este portfólio reúne os projetos publicados pelos educandos na atividade de cr
 | Eduarda | Direito Empresarial | B12 | https://dra-eduarda-martins-direito-empresarial.b12sites.com/ |
 | Ashley | Verde Violeta | B12 | https://verde-violeta.b12sites.com/ |
 | Renata | Conecta Jovem | B12 | https://conecta-jovem.b12sites.com/ |
+| Larissa | Minha Primeira Página Web | B12 | https://projeto-futuro.b12sites.com/ |
 | Lauany | Enthusiastic Neon Style Studio | Base44 | https://enthusiastic-neon-style-studio.base44.app |
 | Wollace | Orochi Legacy Flow | Base44 | https://orochi-legacy-flow.base44.app |
 | Beatriz | Doces e Confeitaria | Base44 | https://doceseconfeitaria.base44.app |

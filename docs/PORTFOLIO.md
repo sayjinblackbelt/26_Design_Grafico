@@ -6,7 +6,7 @@ Este portfólio reúne os projetos publicados pelos educandos na atividade de cr
 
 **Fluxo:** Ideia → Briefing → Prompt → IA → Personalização → Publicação → Portfólio
 
-## Turma 1
+## Turma 1 — Cidade do Autoconhecimento
 
 | Educando | Projeto | Plataforma | Projeto |
 |---|---|---|---|
@@ -20,6 +20,16 @@ Este portfólio reúne os projetos publicados pelos educandos na atividade de cr
 | Beatriz | Confeitaria Rosa e Marrom | B12 | https://confeitaria-rosa-e-marrom.b12sites.com/ |
 | Beatriz | Doces e Confeitaria | Base44 | https://doceseconfeitaria.base44.app |
 | Larissa | Minha Primeira Página Web | B12 | https://projeto-futuro.b12sites.com/ |
+| Heloisa | Melodic Meal Plan Pulse | Base44 | https://melodic-meal-plan-pulse.base44.app |
+| Gabriel | Segura Mais Digital | Base44 | https://segura-mais-digital.base44.app |
+| Eduarda | Meu Cacho Guia | Base44 | https://meu-cacho-guia.base44.app |
+| Yasmin | Doce Ateliê Art | Base44 | https://doce-ateli-art.base44.app |
+| Ana Clara | Aura Jolly Style Edit | Base44 | https://aura-jolly-style-edit.base44.app |
+| Julia | Ritmo Bom Beats | Base44 | https://ritmo-bom-beats.base44.app |
+| Ashley | Ash Hair Flow | Base44 | https://ash-hair-flow.base44.app |
+| Gustavo | Solemn Pure Chess Play | Base44 | https://solemn-pure-chess-play.base44.app |
+| Eduarda | Saldo Abiding Zen Flow | Base44 | https://saldo-abiding-zen-flow.base44.app |
+| Gabrielly | Block Mix Play | Base44 | https://block-mix-play.base44.app |
 
 ## Turma 2
 

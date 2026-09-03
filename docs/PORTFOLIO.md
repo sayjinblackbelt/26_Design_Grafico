@@ -30,6 +30,7 @@ Este portfólio reúne os projetos publicados pelos educandos na atividade de cr
 | Gustavo | Solemn Pure Chess Play | Base44 | https://solemn-pure-chess-play.base44.app |
 | Eduarda | Saldo Abiding Zen Flow | Base44 | https://saldo-abiding-zen-flow.base44.app |
 | Gabrielly | Block Mix Play | Base44 | https://block-mix-play.base44.app |
+| Julia | Lazer Zone Play | Base44 | https://lazer-zone-play.base44.app |
 
 ## Turma 2
 

@@ -15,21 +15,8 @@ Este portfólio reúne os projetos publicados pelos educandos na atividade de cr
 | Wollace | Free Fire — Portfolio Design | B12 | https://free-fire5-portfolio-design.b12sites.com/index#hero |
 | Wollace | Free Fire — Portfolio Design | B12 | https://free-fire-portfolio-design.b12sites.com/index#hero |
 | Ana | De Volta aos Boxes — TTMB | B12 | https://de-volta-aos-boxes-ttmb.b12sites.com |
-| Lauany | Enthusiastic Neon Style Studio | Base44 | https://enthusiastic-neon-style-studio.base44.app |
-| Wollace | Orochi Legacy Flow | Base44 | https://orochi-legacy-flow.base44.app |
 | Beatriz | Confeitaria Rosa e Marrom | B12 | https://confeitaria-rosa-e-marrom.b12sites.com/ |
-| Beatriz | Doces e Confeitaria | Base44 | https://doceseconfeitaria.base44.app |
 | Larissa | Minha Primeira Página Web | B12 | https://projeto-futuro.b12sites.com/ |
-| Heloisa | Melodic Meal Plan Pulse | Base44 | https://melodic-meal-plan-pulse.base44.app |
-| Gabriel | Segura Mais Digital | Base44 | https://segura-mais-digital.base44.app |
-| Eduarda | Meu Cacho Guia | Base44 | https://meu-cacho-guia.base44.app |
-| Yasmin | Doce Ateliê Art | Base44 | https://doce-ateli-art.base44.app |
-| Ana Clara | Aura Jolly Style Edit | Base44 | https://aura-jolly-style-edit.base44.app |
-| Julia | Ritmo Bom Beats | Base44 | https://ritmo-bom-beats.base44.app |
-| Ashley | Ash Hair Flow | Base44 | https://ash-hair-flow.base44.app |
-| Gustavo | Solemn Pure Chess Play | Base44 | https://solemn-pure-chess-play.base44.app |
-| Eduarda | Saldo Abiding Zen Flow | Base44 | https://saldo-abiding-zen-flow.base44.app |
-| Gabrielly | Block Mix Play | Base44 | https://block-mix-play.base44.app |
 
 ## Turma 2
 
@@ -54,6 +41,19 @@ Este portfólio reúne os projetos publicados pelos educandos na atividade de cr
 | Eduarda | Direito Empresarial | B12 | https://dra-eduarda-martins-direito-empresarial.b12sites.com/ |
 | Ashley | Verde Violeta | B12 | https://verde-violeta.b12sites.com/ |
 | Renata | Conecta Jovem | B12 | https://conecta-jovem.b12sites.com/ |
+| Lauany | Enthusiastic Neon Style Studio | Base44 | https://enthusiastic-neon-style-studio.base44.app |
+| Wollace | Orochi Legacy Flow | Base44 | https://orochi-legacy-flow.base44.app |
+| Beatriz | Doces e Confeitaria | Base44 | https://doceseconfeitaria.base44.app |
+| Heloisa | Melodic Meal Plan Pulse | Base44 | https://melodic-meal-plan-pulse.base44.app |
+| Gabriel | Segura Mais Digital | Base44 | https://segura-mais-digital.base44.app |
+| Eduarda | Meu Cacho Guia | Base44 | https://meu-cacho-guia.base44.app |
+| Yasmin | Doce Ateliê Art | Base44 | https://doce-ateli-art.base44.app |
+| Ana Clara | Aura Jolly Style Edit | Base44 | https://aura-jolly-style-edit.base44.app |
+| Julia | Ritmo Bom Beats | Base44 | https://ritmo-bom-beats.base44.app |
+| Ashley | Ash Hair Flow | Base44 | https://ash-hair-flow.base44.app |
+| Gustavo | Solemn Pure Chess Play | Base44 | https://solemn-pure-chess-play.base44.app |
+| Eduarda | Saldo Abiding Zen Flow | Base44 | https://saldo-abiding-zen-flow.base44.app |
+| Gabrielly | Block Mix Play | Base44 | https://block-mix-play.base44.app |
 | Julia | Lazer Zone Play | Base44 | https://lazer-zone-play.base44.app |
 
 ## Privacidade

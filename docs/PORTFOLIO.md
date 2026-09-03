@@ -8,7 +8,7 @@ Este portfólio reúne os projetos publicados pelos educandos na atividade de cr
 
 ## Turma 1 — Cidade do Autoconhecimento
 
-| Educando | Projeto | Plataforma | Projeto |
+| Educando | Projeto | Plataforma | Link |
 |---|---|---|---|
 | Tobias | Sport Club Corinthians Paulista | B12 | https://sport-club-corinthians-paulista.b12sites.com/ |
 | Murilo | Café Lira | B12 | https://cafe-lira.b12sites.com/ |
@@ -30,18 +30,17 @@ Este portfólio reúne os projetos publicados pelos educandos na atividade de cr
 | Gustavo | Solemn Pure Chess Play | Base44 | https://solemn-pure-chess-play.base44.app |
 | Eduarda | Saldo Abiding Zen Flow | Base44 | https://saldo-abiding-zen-flow.base44.app |
 | Gabrielly | Block Mix Play | Base44 | https://block-mix-play.base44.app |
-| Julia | Lazer Zone Play | Base44 | https://lazer-zone-play.base44.app |
 
 ## Turma 2
 
-| Educando | Projeto | Plataforma | Projeto |
+| Educando | Projeto | Plataforma | Link |
 |---|---|---|---|
 | Ana | Linha Capilar para Mulheres | B12 | https://linha-capilar-para-mulheres.b12sites.com/ |
 | Yasmim | Loja de Skincare | B12 | https://loja-de-skincare.b12sites.com/ |
 
 ## Turma 3
 
-| Educando | Projeto | Plataforma | Projeto |
+| Educando | Projeto | Plataforma | Link |
 |---|---|---|---|
 | Heloisa | Loja de Acessórios em Prata | B12 | https://loja-de-acessorios-em-prata.b12sites.com/ |
 | Ana | Study Organizer App | B12 | https://study-organizer-app-vscf.b12sites.com/ |
@@ -55,6 +54,7 @@ Este portfólio reúne os projetos publicados pelos educandos na atividade de cr
 | Eduarda | Direito Empresarial | B12 | https://dra-eduarda-martins-direito-empresarial.b12sites.com/ |
 | Ashley | Verde Violeta | B12 | https://verde-violeta.b12sites.com/ |
 | Renata | Conecta Jovem | B12 | https://conecta-jovem.b12sites.com/ |
+| Julia | Lazer Zone Play | Base44 | https://lazer-zone-play.base44.app |
 
 ## Privacidade
 

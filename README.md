@@ -12,21 +12,22 @@ Repositório dedicado exclusivamente ao percurso pedagógico de **Design Gráfic
 
 **GitHub Pages:** [Portfólio Digital](docs/index.html)
 
-O portfólio público apresenta os projetos publicados pelos educandos em formato sanitizado, utilizando apenas o primeiro nome e os links das soluções digitais.
+O portfólio público apresenta os projetos publicados pelos educandos em formato sanitizado, utilizando apenas o primeiro nome, a data de criação e os links das soluções digitais.
 
 ## 🖥️ Atividade de páginas web e protótipos
 
 A atividade integra **ChatGPT → briefing → prompt → plataforma de criação assistida por IA → personalização → teste → publicação → portfólio**.
 
-As publicações são organizadas por **Turma 1, Turma 2 e Turma 3**. Dentro de cada turma, a documentação apresenta primeiro os projetos desenvolvidos no **B12** e depois os desenvolvidos no **Base44**, facilitando consulta, conferência e atualização dos registros.
+As publicações são organizadas por **Turma 1, Turma 2 e Turma 3**. Dentro de cada turma, a documentação apresenta primeiro os projetos desenvolvidos no **B12** e depois os desenvolvidos no **Base44**. Cada registro inclui a data de criação.
 
-| Turma | B12 | Base44 |
-|---|---:|---:|
-| Turma 1 | 8 | 9 |
-| Turma 2 | 2 | 0 |
-| Turma 3 | 13 | 13 |
+| Turma | B12 | Base44 | Total |
+|---|---:|---:|---:|
+| Turma 1 | 8 | 9 | 17 |
+| Turma 2 | 4 | 2 | 6 |
+| Turma 3 | 13 | 13 | 26 |
+| **Total** | **25** | **24** | **49** |
 
-> A **Turma 2** já está estruturada para receber os novos projetos da atividade que será realizada no período da tarde.
+> A organização foi preparada para que a **Turma 2** continue recebendo novos projetos no período da tarde sem alterar a estrutura das demais turmas.
 
 ## 🎯 Propósito
 
@@ -59,7 +60,7 @@ Google Apresentações, criação de apresentações, organização visual, fold
 Contexto, desenvolvimento, mudança, mensagem e narrativa aplicada à comunicação visual.
 
 ### 🏢 Projetos
-Atividade dos 7 princípios, projeto de comunicação social, Sprints educacionais, storytelling, revisão, melhoria contínua e desenvolvimento de identidade visual.
+Atividade dos 7 princípios, projeto de comunicação social, Sprints educacionais, storytelling, revisão, melhoria contínua, páginas web, protótipos e experimentação com ferramentas de IA.
 
 ## 🗂️ Documentação
 

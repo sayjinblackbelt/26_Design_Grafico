@@ -53,18 +53,21 @@ Registrar páginas e protótipos produzidos individualmente pelos educandos com 
 | Vinícius | Wolltzip Chat Link | https://wolltzip-chat-link.base44.app |
 | Murilo | Pink Blue Boutique | https://pink-blue-boutique.base44.app |
 
-# Turma 2
+## Turma 2
 
-## B12
+### B12
 
 | Educando | Projeto | Link |
 |---|---|---|
-| Ana Clara | Linha Capilar para Mulheres | https://linha-capilar-para-mulheres.b12sites.com/ |
-| Yasmim | Loja de Skincare | https://loja-de-skincare.b12sites.com/ |
+| Ana Clara | Loja de Acessórios Femininos Elegantes | https://loja-de-acessorios-femininos-elegantes.b12sites.com/ |
+| Yasmim | Loja Virtual de Maquiagem | https://loja-virtual-de-maquiagem.b12sites.com/ |
 
-## Base44
+### Base44
 
-*Aguardando novos projetos.*
+| Educando | Projeto | Link |
+|---|---|---|
+| Yasmim | YasPlay Watch Hub | https://yasplay-watch-hub.base44.app |
+| Ana Clara | Cine Ana Hub | https://cine-ana-hub.base44.app |
 
 # Turma 3
 

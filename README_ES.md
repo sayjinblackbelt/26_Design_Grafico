@@ -12,17 +12,20 @@ Repositorio dedicado exclusivamente al recorrido educativo de **Diseño Gráfico
 
 **GitHub Pages:** [Portafolio Digital](docs/index.html)
 
-El portafolio público presenta los proyectos publicados de forma sanitizada, utilizando solamente el primer nombre de los educandos y los enlaces de sus soluciones digitales.
+El portafolio público presenta los proyectos publicados de forma sanitizada, utilizando solamente el primer nombre, la fecha de creación y los enlaces de las soluciones digitales.
 
 ## 🖥️ Actividad de páginas web y prototipos
 
 La actividad sigue el flujo **ChatGPT → briefing → prompt → plataforma de creación asistida por IA → personalización → prueba → publicación → portafolio**.
 
-Los proyectos se organizan como **Turma 1, Turma 2 y Turma 3**. Dentro de cada turma, la documentación presenta primero los proyectos de **B12** y después los de **Base44**, facilitando la consulta y las futuras actualizaciones.
+Los proyectos se organizan como **Turma 1, Turma 2 y Turma 3**. Dentro de cada turma, la documentación presenta primero los proyectos de **B12** y después los de **Base44**. Cada registro incluye la fecha de creación.
 
-**Turma 1:** 8 proyectos B12 + 9 proyectos Base44  
-**Turma 2:** 2 proyectos B12 + Base44 preparado para la próxima actividad  
-**Turma 3:** 13 proyectos B12 + 13 proyectos Base44
+| Turma | B12 | Base44 | Total |
+|---|---:|---:|---:|
+| Turma 1 | 8 | 9 | 17 |
+| Turma 2 | 4 | 2 | 6 |
+| Turma 3 | 13 | 13 | 26 |
+| **Total** | **25** | **24** | **49** |
 
 ## 🎯 Propósito
 
@@ -42,7 +45,7 @@ Desarrollar la capacidad de **pensar, planificar, crear, evaluar y mejorar soluc
 
 ## 📚 Contenidos
 
-Fundamentos del diseño gráfico, teoría del color, tipografía, composición, comunicación visual, Google Presentaciones, edición de imágenes, storytelling, Canva, identidad visual, kit de marca, portafolio y flujos de proyectos.
+Fundamentos del diseño gráfico, teoría del color, tipografía, composición, comunicación visual, Google Presentaciones, edición de imágenes, storytelling, Canva, identidad visual, kit de marca, portafolio, proyectos web, prototipos y flujos de creación asistida por IA.
 
 ## 🗂️ Documentación
 
@@ -50,7 +53,7 @@ Consulta la documentación en portugués para el registro completo del recorrido
 
 ## 🔒 Privacidad
 
-La documentación pública está sanitizada. En los registros de proyectos se utiliza únicamente el primer nombre de los educandos. No deben publicarse datos individuales de evaluación, contactos personales, credenciales, contraseñas, tokens ni otra información personal innecesaria.
+La documentación pública está sanitizada. En los registros del portafolio se utilizan únicamente el primer nombre, la fecha de creación y el enlace público del proyecto. No deben publicarse datos individuales de evaluación, contactos personales, credenciales, contraseñas, tokens ni otra información personal innecesaria.
 
 ## 📈 Estado
 

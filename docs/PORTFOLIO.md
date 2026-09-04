@@ -16,6 +16,7 @@ Este portfólio reúne os projetos publicados pelos educandos na atividade de cr
 | Wollace | Free Fire — Portfolio Design | B12 | https://free-fire-portfolio-design.b12sites.com/index#hero |
 | Ana | De Volta aos Boxes — TTMB | B12 | https://de-volta-aos-boxes-ttmb.b12sites.com |
 | Beatriz | Confeitaria Rosa e Marrom | B12 | https://confeitaria-rosa-e-marrom.b12sites.com/ |
+| Lucas | Espaço Gamer | B12 | https://espaco-gamer.b12sites.com/ |
 
 ## Turma 2
 

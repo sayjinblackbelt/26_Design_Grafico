@@ -35,9 +35,9 @@
     <input id="search" type="search" placeholder="Buscar projeto ou educando..." aria-label="Buscar projeto ou educando">
     <select id="classFilter" aria-label="Filtrar por turma">
       <option value="all">Todas as turmas</option>
-      <option value="Turma 1">Turma 1 — Cidade do Autoconhecimento</option>
-      <option value="Turma 2">Turma 2 — Campus 1</option>
-      <option value="Turma 3">Turma 3 — Cidade do Autoconhecimento</option>
+      <option value="Turma 1">Turma 1</option>
+      <option value="Turma 2">Turma 2</option>
+      <option value="Turma 3">Turma 3</option>
     </select>
     <select id="platformFilter" aria-label="Filtrar por plataforma">
       <option value="all">Todas as plataformas</option>
@@ -69,14 +69,33 @@
 
 <script>
 const projects = [
+  // Turma 1 — B12
   ['Turma 1','Tobias','Sport Club Corinthians Paulista','B12','https://sport-club-corinthians-paulista.b12sites.com/'],
   ['Turma 1','Murilo','Café Lira','B12','https://cafe-lira.b12sites.com/'],
   ['Turma 1','Wollace','Free Fire — Portfolio Design','B12','https://free-fire5-portfolio-design.b12sites.com/index#hero'],
   ['Turma 1','Wollace','Free Fire — Portfolio Design','B12','https://free-fire-portfolio-design.b12sites.com/index#hero'],
   ['Turma 1','Ana','De Volta aos Boxes — TTMB','B12','https://de-volta-aos-boxes-ttmb.b12sites.com'],
   ['Turma 1','Beatriz','Confeitaria Rosa e Marrom','B12','https://confeitaria-rosa-e-marrom.b12sites.com/'],
-  ['Turma 2','Ana','Linha Capilar para Mulheres','B12','https://linha-capilar-para-mulheres.b12sites.com/'],
+  ['Turma 1','Lucas','Espaço Gamer','B12','https://espaco-gamer.b12sites.com/'],
+  ['Turma 1','Luis','Loja de Tênis Streetwear','B12','https://loja-de-tenis-streetwear.b12sites.com/'],
+  // Turma 1 — Base44
+  ['Turma 1','Lauany','Enthusiastic Neon Style Studio','Base44','https://enthusiastic-neon-style-studio.base44.app'],
+  ['Turma 1','Wollace','Orochi Legacy Flow','Base44','https://orochi-legacy-flow.base44.app'],
+  ['Turma 1','Beatriz','Doces e Confeitaria','Base44','https://doceseconfeitaria.base44.app'],
+  ['Turma 1','Beatriz','Estuda Mais Hub','Base44','https://interesting-estuda-mais-hub.base44.app'],
+  ['Turma 1','Vinícius','Urban Strike Zone','Base44','https://grumpy-urban-strike-zone.base44.app'],
+  ['Turma 1','Murilo','Quiz Mente Connect','Base44','https://quiz-mente-connect.base44.app'],
+  ['Turma 1','Beatriz','Vibrant Archive Style','Base44','https://vibrant-archive-style.base44.app'],
+  ['Turma 1','Vinícius','Wolltzip Chat Link','Base44','https://wolltzip-chat-link.base44.app'],
+  ['Turma 1','Murilo','Pink Blue Boutique','Base44','https://pink-blue-boutique.base44.app'],
+
+  // Turma 2 — B12
+  ['Turma 2','Ana Clara','Linha Capilar para Mulheres','B12','https://linha-capilar-para-mulheres.b12sites.com/'],
   ['Turma 2','Yasmim','Loja de Skincare','B12','https://loja-de-skincare.b12sites.com/'],
+  // Turma 2 — Base44
+  // Novos projetos serão adicionados aqui conforme a atividade avançar.
+
+  // Turma 3 — B12
   ['Turma 3','Heloisa','Loja de Acessórios em Prata','B12','https://loja-de-acessorios-em-prata.b12sites.com/'],
   ['Turma 3','Ana','Study Organizer App','B12','https://study-organizer-app-vscf.b12sites.com/'],
   ['Turma 3','Yasmin','Portfólio Fotográfico Criativo','B12','https://portfolio-fotografico-criativo.b12sites.com/'],
@@ -89,11 +108,9 @@ const projects = [
   ['Turma 3','Eduarda','Direito Empresarial','B12','https://dra-eduarda-martins-direito-empresarial.b12sites.com/'],
   ['Turma 3','Ashley','Verde Violeta','B12','https://verde-violeta.b12sites.com/'],
   ['Turma 3','Renata','Conecta Jovem','B12','https://conecta-jovem.b12sites.com/'],
-  ['Turma 3','Larissa','Minha Primeira Página Web','B12','https://projeto-futuro.b12sites.com/'],
-  ['Turma 3','Lauany','Enthusiastic Neon Style Studio','Base44','https://enthusiastic-neon-style-studio.base44.app'],
-  ['Turma 3','Wollace','Orochi Legacy Flow','Base44','https://orochi-legacy-flow.base44.app'],
-  ['Turma 3','Beatriz','Doces e Confeitaria','Base44','https://doceseconfeitaria.base44.app'],
-  ['Turma 3','Heloisa','Melodic Meal Plan Pulse','Base44','https://melodic-meal-plan-pulse.base44.app'],
+  ['Turma 3','Larissa','Projeto Futuro','B12','https://projeto-futuro.b12sites.com/'],
+  // Turma 3 — Base44
+  ['Turma 3','Heloisa','Meal Plan Pulse','Base44','https://melodic-meal-plan-pulse.base44.app'],
   ['Turma 3','Gabriel','Segura Mais Digital','Base44','https://segura-mais-digital.base44.app'],
   ['Turma 3','Eduarda','Meu Cacho Guia','Base44','https://meu-cacho-guia.base44.app'],
   ['Turma 3','Yasmin','Doce Ateliê Art','Base44','https://doce-ateli-art.base44.app'],
@@ -103,7 +120,9 @@ const projects = [
   ['Turma 3','Gustavo','Solemn Pure Chess Play','Base44','https://solemn-pure-chess-play.base44.app'],
   ['Turma 3','Eduarda','Saldo Abiding Zen Flow','Base44','https://saldo-abiding-zen-flow.base44.app'],
   ['Turma 3','Gabrielly','Block Mix Play','Base44','https://block-mix-play.base44.app'],
-  ['Turma 3','Julia','Lazer Zone Play','Base44','https://lazer-zone-play.base44.app']
+  ['Turma 3','Julia','Lazer Zone Play','Base44','https://lazer-zone-play.base44.app'],
+  ['Turma 3','Ashley','Radical Play Learn Bloom','Base44','https://radical-play-learn-bloom.base44.app'],
+  ['Turma 3','Heloisa','Misterio Play Lab','Base44','https://misterio-play-lab.base44.app']
 ];
 
 const portfolio = document.getElementById('portfolio');

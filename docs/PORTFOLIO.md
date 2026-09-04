@@ -66,7 +66,7 @@ Este portfólio reúne os projetos publicados pelos educandos na atividade de cr
 | Eduarda | Direito Empresarial | https://dra-eduarda-martins-direito-empresarial.b12sites.com/ |
 | Ashley | Verde Violeta | https://verde-violeta.b12sites.com/ |
 | Renata | Conecta Jovem | https://conecta-jovem.b12sites.com/ |
-| Larissa | Projeto Futuro | https://projeto-futuro.b12sites.com/ |
+| Larissa | Minha Primeira Página Web | https://projeto-futuro.b12sites.com/ |
 
 ### Base44
 

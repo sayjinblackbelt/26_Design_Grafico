@@ -6,7 +6,7 @@
 
 ## Organização
 
-Todos os registros pertencem ao curso **PMT — Design Gráfico**. A diferença entre os grupos é a **unidade de atendimento**, representada neste documento como **Turma 1, Turma 2 e Turma 3**.
+Todos os registros pertencem ao curso **PMT — Design Gráfico**. Os grupos são identificados apenas como **Turma 1, Turma 2 e Turma 3**.
 
 > Os nomes dos educandos foram sanitizados, mantendo somente o primeiro nome.
 
@@ -26,23 +26,26 @@ Registrar páginas e protótipos produzidos individualmente pelos educandos com 
 
 # Turma 1
 
-**Unidade:** Campus 1 — Manhã
-
-| Educando | Projeto | Plataforma | Link | Observação |
-|---|---|---|---|---|
-| Tobias | Sport Club Corinthians Paulista | B12 | https://sport-club-corinthians-paulista.b12sites.com/ | 28/08 às 10:20 |
-| Murilo | Café Lira | B12 | https://cafe-lira.b12sites.com/ | 28/08 às 10:20 |
-| Wollace | Free Fire — Portfolio Design | B12 | https://free-fire5-portfolio-design.b12sites.com/index#hero | Primeira versão; conta do Vinícius |
-| Wollace | Free Fire — Portfolio Design | B12 | https://free-fire-portfolio-design.b12sites.com/index#hero | Segunda versão; conta do Vinícius |
-| Ana | De Volta aos Boxes — TTMB | B12 | https://de-volta-aos-boxes-ttmb.b12sites.com | 28/08 às 10:27 |
-| Lauany | Enthusiastic Neon Style Studio | Base44 | https://enthusiastic-neon-style-studio.base44.app | 01/09/2026 às 09:49 |
-| Wollace | Orochi Legacy Flow | Base44 | https://orochi-legacy-flow.base44.app | 01/09/2026 às 10:13; enviado usando a conta do Vinícius |
-| Beatriz | Confeitaria Rosa e Marrom | B12 | https://confeitaria-rosa-e-marrom.b12sites.com/ | 01/09/2026 às 10:23 |
-| Beatriz | Doces e Confeitaria | Base44 | https://doceseconfeitaria.base44.app | 01/09/2026 às 10:33 |
+| Educando | Projeto | Plataforma | Link |
+|---|---|---|---|
+| Tobias | Sport Club Corinthians Paulista | B12 | https://sport-club-corinthians-paulista.b12sites.com/ |
+| Murilo | Café Lira | B12 | https://cafe-lira.b12sites.com/ |
+| Wollace | Free Fire — Portfolio Design | B12 | https://free-fire5-portfolio-design.b12sites.com/index#hero |
+| Wollace | Free Fire — Portfolio Design | B12 | https://free-fire-portfolio-design.b12sites.com/index#hero |
+| Ana | De Volta aos Boxes — TTMB | B12 | https://de-volta-aos-boxes-ttmb.b12sites.com |
+| Lauany | Enthusiastic Neon Style Studio | Base44 | https://enthusiastic-neon-style-studio.base44.app |
+| Wollace | Orochi Legacy Flow | Base44 | https://orochi-legacy-flow.base44.app |
+| Beatriz | Confeitaria Rosa e Marrom | B12 | https://confeitaria-rosa-e-marrom.b12sites.com/ |
+| Beatriz | Doces e Confeitaria | Base44 | https://doceseconfeitaria.base44.app |
+| Lucas | Espaço Gamer | B12 | https://espaco-gamer.b12sites.com/ |
+| Beatriz | Estuda Mais Hub | Base44 | https://interesting-estuda-mais-hub.base44.app |
+| Vinícius | Urban Strike Zone | Base44 | https://grumpy-urban-strike-zone.base44.app |
+| Murilo | Quiz Mente Connect | Base44 | https://quiz-mente-connect.base44.app |
+| Beatriz | Vibrant Archive Style | Base44 | https://vibrant-archive-style.base44.app |
+| Vinícius | Wolltzip Chat Link | Base44 | https://wolltzip-chat-link.base44.app |
+| Luis | Loja de Tênis Streetwear | B12 | https://loja-de-tenis-streetwear.b12sites.com/ |
 
 # Turma 2
-
-**Unidade:** Campus 1 — Tarde
 
 | Educando | Projeto | Plataforma | Link |
 |---|---|---|---|
@@ -50,8 +53,6 @@ Registrar páginas e protótipos produzidos individualmente pelos educandos com 
 | Yasmim | Loja de Skincare | B12 | https://loja-de-skincare.b12sites.com/ |
 
 # Turma 3
-
-**Unidade:** Cidade do Autoconhecimento
 
 | Educando | Projeto | Plataforma | Link |
 |---|---|---|---|
@@ -64,7 +65,7 @@ Registrar páginas e protótipos produzidos individualmente pelos educandos com 
 | Gabrielly | Plataforma de Organização para Jovens Profissionais | B12 | https://plataforma-de-organizacao-para-jovens-profissionais.b12sites.com/ |
 | Gustavo | Curiosidades sobre Gatos | B12 | https://curiosidades-sobre-gatos.b12sites.com/ |
 | Julia | Café Artesanal Gourmet | B12 | https://cafe-artesanal-gourmet.b12sites.com/index#sobre |
-| Eduarda | Dra. Eduarda Martins — Direito Empresarial | B12 | https://dra-eduarda-martins-direito-empresarial.b12sites.com/ |
+| Eduarda | Direito Empresarial | B12 | https://dra-eduarda-martins-direito-empresarial.b12sites.com/ |
 | Ashley | Verde Violeta | B12 | https://verde-violeta.b12sites.com/ |
 | Renata | Conecta Jovem | B12 | https://conecta-jovem.b12sites.com/ |
 
@@ -80,4 +81,8 @@ Registrar páginas e protótipos produzidos individualmente pelos educandos com 
 
 ## Privacidade e organização
 
-Os registros mantêm apenas o primeiro nome dos educandos. As unidades são representadas como **Turma 1, Turma 2 e Turma 3** para fins de organização do acompanhamento pedagógico.
+Os registros mantêm apenas o primeiro nome dos educandos. A identificação das turmas é feita exclusivamente por **Turma 1, Turma 2 e Turma 3**.
+
+## Atualizações
+
+Este documento será atualizado à medida que novos projetos forem publicados e os respectivos links forem enviados pelos educandos.

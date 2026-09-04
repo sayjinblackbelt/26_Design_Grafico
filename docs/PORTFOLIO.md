@@ -6,7 +6,7 @@ Este portfólio reúne os projetos publicados pelos educandos na atividade de cr
 
 **Fluxo:** Ideia → Briefing → Prompt → IA → Personalização → Publicação → Portfólio
 
-## Turma 1 — Cidade do Autoconhecimento
+## Turma 1
 
 | Educando | Projeto | Plataforma | Link |
 |---|---|---|---|

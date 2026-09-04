@@ -39,6 +39,12 @@ Registrar páginas e protótipos produzidos individualmente pelos educandos com 
 | Beatriz | Doces e Confeitaria | Base44 | https://doceseconfeitaria.base44.app |
 | Lucas | Espaço Gamer | B12 | https://espaco-gamer.b12sites.com/ |
 | Luis | Loja de Tênis Streetwear | B12 | https://loja-de-tenis-streetwear.b12sites.com/ |
+| Beatriz | Estuda Mais Hub | Base44 | https://interesting-estuda-mais-hub.base44.app |
+| Vinícius | Urban Strike Zone | Base44 | https://grumpy-urban-strike-zone.base44.app |
+| Murilo | Quiz Mente Connect | Base44 | https://quiz-mente-connect.base44.app |
+| Beatriz | Vibrant Archive Style | Base44 | https://vibrant-archive-style.base44.app |
+| Vinícius | Wolltzip Chat Link | Base44 | https://wolltzip-chat-link.base44.app |
+| Murilo | Pink Blue Boutique | Base44 | https://pink-blue-boutique.base44.app |
 
 # Turma 2
 

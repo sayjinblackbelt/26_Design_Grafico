@@ -8,55 +8,86 @@ Este portfólio reúne os projetos publicados pelos educandos na atividade de cr
 
 ## Turma 1
 
-| Educando | Projeto | Plataforma | Link |
-|---|---|---|---|
-| Tobias | Sport Club Corinthians Paulista | B12 | https://sport-club-corinthians-paulista.b12sites.com/ |
-| Murilo | Café Lira | B12 | https://cafe-lira.b12sites.com/ |
-| Wollace | Free Fire — Portfolio Design | B12 | https://free-fire5-portfolio-design.b12sites.com/index#hero |
-| Wollace | Free Fire — Portfolio Design | B12 | https://free-fire-portfolio-design.b12sites.com/index#hero |
-| Ana | De Volta aos Boxes — TTMB | B12 | https://de-volta-aos-boxes-ttmb.b12sites.com |
-| Beatriz | Confeitaria Rosa e Marrom | B12 | https://confeitaria-rosa-e-marrom.b12sites.com/ |
-| Lucas | Espaço Gamer | B12 | https://espaco-gamer.b12sites.com/ |
-| Wollace | Orochi Legacy Flow | Base44 | https://orochi-legacy-flow.base44.app |
-| Beatriz | Doces e Confeitaria | Base44 | https://doceseconfeitaria.base44.app |
+### B12
+
+| Educando | Projeto | Link |
+|---|---|---|
+| Tobias | Sport Club Corinthians Paulista | https://sport-club-corinthians-paulista.b12sites.com/ |
+| Murilo | Café Lira | https://cafe-lira.b12sites.com/ |
+| Wollace | Free Fire — Portfolio Design | https://free-fire5-portfolio-design.b12sites.com/index#hero |
+| Wollace | Free Fire — Portfolio Design | https://free-fire-portfolio-design.b12sites.com/index#hero |
+| Ana | De Volta aos Boxes — TTMB | https://de-volta-aos-boxes-ttmb.b12sites.com |
+| Beatriz | Confeitaria Rosa e Marrom | https://confeitaria-rosa-e-marrom.b12sites.com/ |
+| Lucas | Espaço Gamer | https://espaco-gamer.b12sites.com/ |
+| Luis | Loja de Tênis Streetwear | https://loja-de-tenis-streetwear.b12sites.com/ |
+
+### Base44
+
+| Educando | Projeto | Link |
+|---|---|---|
+| Lauany | Enthusiastic Neon Style Studio | https://enthusiastic-neon-style-studio.base44.app |
+| Wollace | Orochi Legacy Flow | https://orochi-legacy-flow.base44.app |
+| Beatriz | Doces e Confeitaria | https://doceseconfeitaria.base44.app |
+| Beatriz | Estuda Mais Hub | https://interesting-estuda-mais-hub.base44.app |
+| Vinícius | Urban Strike Zone | https://grumpy-urban-strike-zone.base44.app |
+| Murilo | Quiz Mente Connect | https://quiz-mente-connect.base44.app |
+| Beatriz | Vibrant Archive Style | https://vibrant-archive-style.base44.app |
+| Vinícius | Wolltzip Chat Link | https://wolltzip-chat-link.base44.app |
+| Murilo | Pink Blue Boutique | https://pink-blue-boutique.base44.app |
 
 ## Turma 2
 
-| Educando | Projeto | Plataforma | Link |
-|---|---|---|---|
-| Ana | Linha Capilar para Mulheres | B12 | https://linha-capilar-para-mulheres.b12sites.com/ |
-| Yasmim | Loja de Skincare | B12 | https://loja-de-skincare.b12sites.com/ |
+### B12
+
+| Educando | Projeto | Link |
+|---|---|---|
+| Ana Clara | Linha Capilar para Mulheres | https://linha-capilar-para-mulheres.b12sites.com/ |
+| Yasmim | Loja de Skincare | https://loja-de-skincare.b12sites.com/ |
+
+### Base44
+
+*Aguardando novos projetos.*
 
 ## Turma 3
 
-| Educando | Projeto | Plataforma | Link |
-|---|---|---|---|
-| Heloisa | Loja de Acessórios em Prata | B12 | https://loja-de-acessorios-em-prata.b12sites.com/ |
-| Ana | Study Organizer App | B12 | https://study-organizer-app-vscf.b12sites.com/ |
-| Yasmin | Portfólio Fotográfico Criativo | B12 | https://portfolio-fotografico-criativo.b12sites.com/ |
-| Sibele | Vivat | B12 | https://vivat.b12sites.com/ |
-| Gabriel | Segurança Digital Educativa | B12 | https://seguranca-digital-educativa.b12sites.com/ |
-| Isabela | Adoção de Cachorros | B12 | https://adocao-de-cachorros.b12sites.com/ |
-| Gabrielly | Plataforma de Organização para Jovens Profissionais | B12 | https://plataforma-de-organizacao-para-jovens-profissionais.b12sites.com/ |
-| Gustavo | Curiosidades sobre Gatos | B12 | https://curiosidades-sobre-gatos.b12sites.com/ |
-| Julia | Café Artesanal Gourmet | B12 | https://cafe-artesanal-gourmet.b12sites.com/index#sobre |
-| Eduarda | Direito Empresarial | B12 | https://dra-eduarda-martins-direito-empresarial.b12sites.com/ |
-| Ashley | Verde Violeta | B12 | https://verde-violeta.b12sites.com/ |
-| Renata | Conecta Jovem | B12 | https://conecta-jovem.b12sites.com/ |
-| Larissa | Minha Primeira Página Web | B12 | https://projeto-futuro.b12sites.com/ |
-| Lauany | Enthusiastic Neon Style Studio | Base44 | https://enthusiastic-neon-style-studio.base44.app |
-| Heloisa | Melodic Meal Plan Pulse | Base44 | https://melodic-meal-plan-pulse.base44.app |
-| Gabriel | Segura Mais Digital | Base44 | https://segura-mais-digital.base44.app |
-| Eduarda | Meu Cacho Guia | Base44 | https://meu-cacho-guia.base44.app |
-| Yasmin | Doce Ateliê Art | Base44 | https://doce-ateli-art.base44.app |
-| Ana Clara | Aura Jolly Style Edit | Base44 | https://aura-jolly-style-edit.base44.app |
-| Julia | Ritmo Bom Beats | Base44 | https://ritmo-bom-beats.base44.app |
-| Ashley | Ash Hair Flow | Base44 | https://ash-hair-flow.base44.app |
-| Gustavo | Solemn Pure Chess Play | Base44 | https://solemn-pure-chess-play.base44.app |
-| Eduarda | Saldo Abiding Zen Flow | Base44 | https://saldo-abiding-zen-flow.base44.app |
-| Gabrielly | Block Mix Play | Base44 | https://block-mix-play.base44.app |
-| Julia | Lazer Zone Play | Base44 | https://lazer-zone-play.base44.app |
+### B12
+
+| Educando | Projeto | Link |
+|---|---|---|
+| Heloisa | Loja de Acessórios em Prata | https://loja-de-acessorios-em-prata.b12sites.com/ |
+| Ana | Study Organizer App | https://study-organizer-app-vscf.b12sites.com/ |
+| Yasmin | Portfólio Fotográfico Criativo | https://portfolio-fotografico-criativo.b12sites.com/ |
+| Sibele | Vivat | https://vivat.b12sites.com/ |
+| Gabriel | Segurança Digital Educativa | https://seguranca-digital-educativa.b12sites.com/ |
+| Isabela | Adoção de Cachorros | https://adocao-de-cachorros.b12sites.com/ |
+| Gabrielly | Plataforma de Organização para Jovens Profissionais | https://plataforma-de-organizacao-para-jovens-profissionais.b12sites.com/ |
+| Gustavo | Curiosidades sobre Gatos | https://curiosidades-sobre-gatos.b12sites.com/ |
+| Julia | Café Artesanal Gourmet | https://cafe-artesanal-gourmet.b12sites.com/index#sobre |
+| Eduarda | Direito Empresarial | https://dra-eduarda-martins-direito-empresarial.b12sites.com/ |
+| Ashley | Verde Violeta | https://verde-violeta.b12sites.com/ |
+| Renata | Conecta Jovem | https://conecta-jovem.b12sites.com/ |
+| Larissa | Projeto Futuro | https://projeto-futuro.b12sites.com/ |
+
+### Base44
+
+| Educando | Projeto | Link |
+|---|---|---|
+| Heloisa | Meal Plan Pulse | https://melodic-meal-plan-pulse.base44.app |
+| Gabriel | Segura Mais Digital | https://segura-mais-digital.base44.app |
+| Eduarda | Meu Cacho Guia | https://meu-cacho-guia.base44.app |
+| Yasmin | Doce Ateliê Art | https://doce-ateli-art.base44.app |
+| Ana Clara | Aura Jolly Style Edit | https://aura-jolly-style-edit.base44.app |
+| Julia | Ritmo Bom Beats | https://ritmo-bom-beats.base44.app |
+| Ashley | Ash Hair Flow | https://ash-hair-flow.base44.app |
+| Gustavo | Solemn Pure Chess Play | https://solemn-pure-chess-play.base44.app |
+| Eduarda | Saldo Abiding Zen Flow | https://saldo-abiding-zen-flow.base44.app |
+| Gabrielly | Block Mix Play | https://block-mix-play.base44.app |
+| Julia | Lazer Zone Play | https://lazer-zone-play.base44.app |
+| Ashley | Radical Play Learn Bloom | https://radical-play-learn-bloom.base44.app |
+| Heloisa | Misterio Play Lab | https://misterio-play-lab.base44.app |
 
 ## Privacidade
 
-Os registros utilizam somente o primeiro nome dos educandos.
+Os registros utilizam somente o primeiro nome dos educandos. A identificação das turmas é feita exclusivamente por **Turma 1, Turma 2 e Turma 3**.
+
+> **Padrão de organização:** dentro de cada turma, os projetos são apresentados primeiro por **B12** e depois por **Base44**.

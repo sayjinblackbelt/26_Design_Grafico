@@ -57,6 +57,10 @@ Registrar páginas e protótipos produzidos individualmente pelos educandos com 
 
 ### B12
 
+
+
+| Ana Clara | Linha Capilar para Mulheres | https://linha-capilar-para-mulheres.b12sites.com/ |
+| Yasmim | Loja de Skincare | https://loja-de-skincare.b12sites.com/ |
 | Educando | Projeto | Link |
 |---|---|---|
 | Ana Clara | Loja de Acessórios Femininos Elegantes | https://loja-de-acessorios-femininos-elegantes.b12sites.com/ |

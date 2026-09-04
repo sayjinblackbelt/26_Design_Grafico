@@ -38,11 +38,6 @@ Registrar páginas e protótipos produzidos individualmente pelos educandos com 
 | Beatriz | Confeitaria Rosa e Marrom | B12 | https://confeitaria-rosa-e-marrom.b12sites.com/ |
 | Beatriz | Doces e Confeitaria | Base44 | https://doceseconfeitaria.base44.app |
 | Lucas | Espaço Gamer | B12 | https://espaco-gamer.b12sites.com/ |
-| Beatriz | Estuda Mais Hub | Base44 | https://interesting-estuda-mais-hub.base44.app |
-| Vinícius | Urban Strike Zone | Base44 | https://grumpy-urban-strike-zone.base44.app |
-| Murilo | Quiz Mente Connect | Base44 | https://quiz-mente-connect.base44.app |
-| Beatriz | Vibrant Archive Style | Base44 | https://vibrant-archive-style.base44.app |
-| Vinícius | Wolltzip Chat Link | Base44 | https://wolltzip-chat-link.base44.app |
 | Luis | Loja de Tênis Streetwear | B12 | https://loja-de-tenis-streetwear.b12sites.com/ |
 
 # Turma 2
@@ -68,6 +63,20 @@ Registrar páginas e protótipos produzidos individualmente pelos educandos com 
 | Eduarda | Direito Empresarial | B12 | https://dra-eduarda-martins-direito-empresarial.b12sites.com/ |
 | Ashley | Verde Violeta | B12 | https://verde-violeta.b12sites.com/ |
 | Renata | Conecta Jovem | B12 | https://conecta-jovem.b12sites.com/ |
+| Heloisa | Meal Plan Pulse | Base44 | https://melodic-meal-plan-pulse.base44.app |
+| Gabriel | Segura Mais Digital | Base44 | https://segura-mais-digital.base44.app |
+| Eduarda | Meu Cacho Guia | Base44 | https://meu-cacho-guia.base44.app |
+| Yasmin | Doce Ateliê Art | Base44 | https://doce-ateli-art.base44.app |
+| Ana Clara | Aura Jolly Style Edit | Base44 | https://aura-jolly-style-edit.base44.app |
+| Julia | Ritmo Bom Beats | Base44 | https://ritmo-bom-beats.base44.app |
+| Ashley | Ash Hair Flow | Base44 | https://ash-hair-flow.base44.app |
+| Gustavo | Solemn Pure Chess Play | Base44 | https://solemn-pure-chess-play.base44.app |
+| Eduarda | Saldo Abiding Zen Flow | Base44 | https://saldo-abiding-zen-flow.base44.app |
+| Gabrielly | Block Mix Play | Base44 | https://block-mix-play.base44.app |
+| Julia | Lazer Zone Play | Base44 | https://lazer-zone-play.base44.app |
+| Ashley | Radical Play Learn Bloom | Base44 | https://radical-play-learn-bloom.base44.app |
+| Heloisa | Misterio Play Lab | Base44 | https://misterio-play-lab.base44.app |
+| Larissa | Projeto Futuro | B12 | https://projeto-futuro.b12sites.com/ |
 
 ## Critérios mínimos
 

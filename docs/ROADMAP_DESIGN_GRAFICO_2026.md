@@ -1,6 +1,6 @@
 # 🗺️ Roadmap — Design Gráfico 2026
 
-## PMT | 
+## PMT
 
 Este roadmap apresenta a progressão do percurso pedagógico da oficina de **Design Gráfico** ao longo de 2026.
 
@@ -45,21 +45,8 @@ Organização de mensagens por meio de contexto, desenvolvimento, mudança e men
 ### 9. B12 Editor
 Exploração de narrativa visual e audiovisual por meio de imagem, texto, sequência, ritmo e música.
 
----
-
-## 🔄 Etapa atual
-
 ### 10. Canva
-Ampliação do repertório de ferramentas para:
-- criação de layouts;
-- personalização;
-- composição;
-- materiais gráficos;
-- aplicação consciente de templates.
-
----
-
-## 🚀 Próximas etapas
+Ampliação do repertório de ferramentas para criação de layouts, personalização, composição e materiais gráficos.
 
 ### 11. Identidade Visual
 Desenvolvimento de elementos que representem visualmente uma marca ou projeto.
@@ -73,19 +60,39 @@ Organização de:
 - regras básicas de aplicação.
 
 ### 13. Projeto Gráfico Autoral
-Criação de uma solução visual completa a partir de um briefing.
+Criação de uma solução visual completa a partir de briefing, planejamento, criação, revisão e entrega.
 
 ### 14. Portfólio
-Seleção e organização dos principais projetos desenvolvidos.
+Seleção, organização e publicação dos principais projetos desenvolvidos.
 
 ### 15. Apresentação Final
-Apresentação dos projetos e explicação das decisões de Design.
+Preparação para apresentar projetos e explicar decisões de Design.
+
+---
+
+## 🟢 Status da revisão do portfólio
+
+As etapas de **10 a 14** foram revisadas e validadas durante a auditoria do repositório.
+
+O portfólio digital está publicado no GitHub Pages e utiliza identificadores anônimos para os educandos.
+
+### Próxima etapa
+
+**15. Apresentação Final**
+
+Foco:
+- seleção dos projetos;
+- organização da apresentação;
+- explicação do briefing;
+- justificativa das decisões visuais;
+- demonstração do processo;
+- reflexão sobre aprendizagem e melhorias.
 
 ---
 
 # 📈 Visão geral
 
-**Fundamentos → Ferramentas → Aplicação → Projetos → Identidade → Portfólio**
+**Fundamentos → Ferramentas → Aplicação → Projetos → Identidade → Portfólio → Apresentação**
 
 ---
 

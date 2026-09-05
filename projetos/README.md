@@ -7,8 +7,8 @@ Esta área organiza os projetos práticos desenvolvidos na oficina de **Design G
 ### 01. 🎨 [Aplicando os 7 Princípios do Design](01_7_Principios_Do_Design/README.md)
 Apresentação prática para aplicar contraste, alinhamento, proximidade, repetição, hierarquia, espaço em branco e equilíbrio.
 
-### 02. 🌻 [Projeto Institucional — 18 de Maio](02_Projeto_18_De_Maio/README.md)
-Folder informativo desenvolvido com metodologia ágil, Sprints, pesquisa, organização, revisão e preparação para impressão.
+### 02. 🌻 [Material Educativo — 18 de Maio](02_Projeto_18_De_Maio/README.md)
+Material educativo desenvolvido com metodologia ágil, Sprints, pesquisa, organização, revisão e preparação para impressão.
 
 ### 03. 📖 [Storytelling e Narrativa Visual](03_Storytelling_e_Narrativa_Visual/README.md)
 Desenvolvimento de narrativa por meio de imagem, texto, sequência, ritmo e mensagem.

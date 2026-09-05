@@ -32,7 +32,7 @@
   </section>
 
   <section class="controls" aria-label="Filtros do portfólio">
-    <input id="search" type="search" placeholder="Buscar projeto ou educando..." aria-label="Buscar projeto ou educando">
+    <input id="search" type="search" placeholder="Buscar projeto ou identificador..." aria-label="Buscar projeto ou identificador">
     <select id="classFilter" aria-label="Filtrar por turma">
       <option value="all">Todas as turmas</option>
       <option value="Turma 1">Turma 1</option>
@@ -61,7 +61,7 @@
 
   <section class="privacy">
     <strong>Privacidade e sanitização</strong>
-    <p>Esta página apresenta somente informações necessárias ao portfólio pedagógico. Os educandos são identificados apenas pelo primeiro nome. Não são publicados dados pessoais, imagens de perfil, credenciais, senhas ou tokens.</p>
+    <p>Esta página apresenta somente informações necessárias ao portfólio pedagógico. Os educandos são identificados apenas por códigos anônimos. Não são publicados dados pessoais, imagens de perfil, credenciais, senhas ou tokens.</p>
   </section>
 </main>
 
@@ -70,62 +70,62 @@
 <script>
 const projects = [
   // Turma 1 — B12
-  ['Turma 1','Tobias','Sport Club Corinthians Paulista','B12','28/08/2026','https://sport-club-corinthians-paulista.b12sites.com/'],
-  ['Turma 1','Murilo','Café Lira','B12','28/08/2026','https://cafe-lira.b12sites.com/'],
-  ['Turma 1','Wollace','Free Fire — Portfolio Design','B12','28/08/2026','https://free-fire5-portfolio-design.b12sites.com/index#hero'],
-  ['Turma 1','Wollace','Free Fire — Portfolio Design','B12','28/08/2026','https://free-fire-portfolio-design.b12sites.com/index#hero'],
-  ['Turma 1','Ana','De Volta aos Boxes — TTMB','B12','28/08/2026','https://de-volta-aos-boxes-ttmb.b12sites.com'],
-  ['Turma 1','Beatriz','Confeitaria Rosa e Marrom','B12','01/09/2026','https://confeitaria-rosa-e-marrom.b12sites.com/'],
-  ['Turma 1','Lucas','Espaço Gamer','B12','04/09/2026','https://espaco-gamer.b12sites.com/'],
-  ['Turma 1','Luis','Loja de Tênis Streetwear','B12','04/09/2026','https://loja-de-tenis-streetwear.b12sites.com/'],
+  ['Turma 1','T1-01','Sport Club Corinthians Paulista','B12','28/08/2026','https://sport-club-corinthians-paulista.b12sites.com/'],
+  ['Turma 1','T1-02','Café Lira','B12','28/08/2026','https://cafe-lira.b12sites.com/'],
+  ['Turma 1','T1-03','Free Fire — Portfolio Design','B12','28/08/2026','https://free-fire5-portfolio-design.b12sites.com/index#hero'],
+  ['Turma 1','T1-03','Free Fire — Portfolio Design','B12','28/08/2026','https://free-fire-portfolio-design.b12sites.com/index#hero'],
+  ['Turma 1','T1-04','De Volta aos Boxes — TTMB','B12','28/08/2026','https://de-volta-aos-boxes-ttmb.b12sites.com'],
+  ['Turma 1','T1-05','Confeitaria Rosa e Marrom','B12','01/09/2026','https://confeitaria-rosa-e-marrom.b12sites.com/'],
+  ['Turma 1','T1-06','Espaço Gamer','B12','04/09/2026','https://espaco-gamer.b12sites.com/'],
+  ['Turma 1','T1-07','Loja de Tênis Streetwear','B12','04/09/2026','https://loja-de-tenis-streetwear.b12sites.com/'],
   // Turma 1 — Base44
-  ['Turma 1','Lauany','Enthusiastic Neon Style Studio','Base44','01/09/2026','https://enthusiastic-neon-style-studio.base44.app'],
-  ['Turma 1','Wollace','Orochi Legacy Flow','Base44','01/09/2026','https://orochi-legacy-flow.base44.app'],
-  ['Turma 1','Beatriz','Doces e Confeitaria','Base44','01/09/2026','https://doceseconfeitaria.base44.app'],
-  ['Turma 1','Beatriz','Estuda Mais Hub','Base44','04/09/2026','https://interesting-estuda-mais-hub.base44.app'],
-  ['Turma 1','Vinícius','Urban Strike Zone','Base44','04/09/2026','https://grumpy-urban-strike-zone.base44.app'],
-  ['Turma 1','Murilo','Quiz Mente Connect','Base44','04/09/2026','https://quiz-mente-connect.base44.app'],
-  ['Turma 1','Beatriz','Vibrant Archive Style','Base44','04/09/2026','https://vibrant-archive-style.base44.app'],
-  ['Turma 1','Vinícius','Wolltzip Chat Link','Base44','04/09/2026','https://wolltzip-chat-link.base44.app'],
-  ['Turma 1','Murilo','Pink Blue Boutique','Base44','04/09/2026','https://pink-blue-boutique.base44.app'],
+  ['Turma 1','T1-08','Enthusiastic Neon Style Studio','Base44','01/09/2026','https://enthusiastic-neon-style-studio.base44.app'],
+  ['Turma 1','T1-03','Orochi Legacy Flow','Base44','01/09/2026','https://orochi-legacy-flow.base44.app'],
+  ['Turma 1','T1-05','Doces e Confeitaria','Base44','01/09/2026','https://doceseconfeitaria.base44.app'],
+  ['Turma 1','T1-05','Estuda Mais Hub','Base44','04/09/2026','https://interesting-estuda-mais-hub.base44.app'],
+  ['Turma 1','T1-09','Urban Strike Zone','Base44','04/09/2026','https://grumpy-urban-strike-zone.base44.app'],
+  ['Turma 1','T1-02','Quiz Mente Connect','Base44','04/09/2026','https://quiz-mente-connect.base44.app'],
+  ['Turma 1','T1-05','Vibrant Archive Style','Base44','04/09/2026','https://vibrant-archive-style.base44.app'],
+  ['Turma 1','T1-09','Wolltzip Chat Link','Base44','04/09/2026','https://wolltzip-chat-link.base44.app'],
+  ['Turma 1','T1-02','Pink Blue Boutique','Base44','04/09/2026','https://pink-blue-boutique.base44.app'],
 
   // Turma 2 — B12
-  ['Turma 2','Ana Clara','Linha Capilar para Mulheres','B12','28/08/2026','https://linha-capilar-para-mulheres.b12sites.com/'],
-  ['Turma 2','Yasmim','Loja de Skincare','B12','28/08/2026','https://loja-de-skincare.b12sites.com/'],
-  ['Turma 2','Ana Clara','Loja de Acessórios Femininos Elegantes','B12','04/09/2026','https://loja-de-acessorios-femininos-elegantes.b12sites.com/'],
-  ['Turma 2','Yasmim','Loja Virtual de Maquiagem','B12','04/09/2026','https://loja-virtual-de-maquiagem.b12sites.com/'],
+  ['Turma 2','T2-01','Linha Capilar para Mulheres','B12','28/08/2026','https://linha-capilar-para-mulheres.b12sites.com/'],
+  ['Turma 2','T2-02','Loja de Skincare','B12','28/08/2026','https://loja-de-skincare.b12sites.com/'],
+  ['Turma 2','T2-01','Loja de Acessórios Femininos Elegantes','B12','04/09/2026','https://loja-de-acessorios-femininos-elegantes.b12sites.com/'],
+  ['Turma 2','T2-02','Loja Virtual de Maquiagem','B12','04/09/2026','https://loja-virtual-de-maquiagem.b12sites.com/'],
   // Turma 2 — Base44
-  ['Turma 2','Yasmim','YasPlay Watch Hub','Base44','04/09/2026','https://yasplay-watch-hub.base44.app'],
-  ['Turma 2','Ana Clara','Cine Ana Hub','Base44','04/09/2026','https://cine-ana-hub.base44.app'],
+  ['Turma 2','T2-02','YasPlay Watch Hub','Base44','04/09/2026','https://yasplay-watch-hub.base44.app'],
+  ['Turma 2','T2-01','Cine Ana Hub','Base44','04/09/2026','https://cine-ana-hub.base44.app'],
 
   // Turma 3 — B12
-  ['Turma 3','Heloisa','Loja de Acessórios em Prata','B12','31/08/2026','https://loja-de-acessorios-em-prata.b12sites.com/'],
-  ['Turma 3','Ana','Study Organizer App','B12','31/08/2026','https://study-organizer-app-vscf.b12sites.com/'],
-  ['Turma 3','Yasmin','Portfólio Fotográfico Criativo','B12','31/08/2026','https://portfolio-fotografico-criativo.b12sites.com/'],
-  ['Turma 3','Sibele','Vivat','B12','31/08/2026','https://vivat.b12sites.com/'],
-  ['Turma 3','Gabriel','Segurança Digital Educativa','B12','31/08/2026','https://seguranca-digital-educativa.b12sites.com/'],
-  ['Turma 3','Isabela','Adoção de Cachorros','B12','31/08/2026','https://adocao-de-cachorros.b12sites.com/'],
-  ['Turma 3','Gabrielly','Plataforma de Organização para Jovens Profissionais','B12','31/08/2026','https://plataforma-de-organizacao-para-jovens-profissionais.b12sites.com/'],
-  ['Turma 3','Gustavo','Curiosidades sobre Gatos','B12','31/08/2026','https://curiosidades-sobre-gatos.b12sites.com/'],
-  ['Turma 3','Julia','Café Artesanal Gourmet','B12','31/08/2026','https://cafe-artesanal-gourmet.b12sites.com/index#sobre'],
-  ['Turma 3','Eduarda','Direito Empresarial','B12','31/08/2026','https://dra-eduarda-martins-direito-empresarial.b12sites.com/'],
-  ['Turma 3','Ashley','Verde Violeta','B12','31/08/2026','https://verde-violeta.b12sites.com/'],
-  ['Turma 3','Renata','Conecta Jovem','B12','31/08/2026','https://conecta-jovem.b12sites.com/'],
-  ['Turma 3','Larissa','Projeto Futuro','B12','04/09/2026','https://projeto-futuro.b12sites.com/'],
+  ['Turma 3','T3-01','Loja de Acessórios em Prata','B12','31/08/2026','https://loja-de-acessorios-em-prata.b12sites.com/'],
+  ['Turma 3','T1-04','Study Organizer App','B12','31/08/2026','https://study-organizer-app-vscf.b12sites.com/'],
+  ['Turma 3','T3-02','Portfólio Fotográfico Criativo','B12','31/08/2026','https://portfolio-fotografico-criativo.b12sites.com/'],
+  ['Turma 3','T3-03','Vivat','B12','31/08/2026','https://vivat.b12sites.com/'],
+  ['Turma 3','T3-04','Segurança Digital Educativa','B12','31/08/2026','https://seguranca-digital-educativa.b12sites.com/'],
+  ['Turma 3','T3-05','Adoção de Cachorros','B12','31/08/2026','https://adocao-de-cachorros.b12sites.com/'],
+  ['Turma 3','T3-06','Plataforma de Organização para Jovens Profissionais','B12','31/08/2026','https://plataforma-de-organizacao-para-jovens-profissionais.b12sites.com/'],
+  ['Turma 3','T3-07','Curiosidades sobre Gatos','B12','31/08/2026','https://curiosidades-sobre-gatos.b12sites.com/'],
+  ['Turma 3','T3-08','Café Artesanal Gourmet','B12','31/08/2026','https://cafe-artesanal-gourmet.b12sites.com/index#sobre'],
+  ['Turma 3','T3-09','Direito Empresarial','B12','31/08/2026','https://dra-eduarda-martins-direito-empresarial.b12sites.com/'],
+  ['Turma 3','T3-10','Verde Violeta','B12','31/08/2026','https://verde-violeta.b12sites.com/'],
+  ['Turma 3','T3-11','Conecta Jovem','B12','31/08/2026','https://conecta-jovem.b12sites.com/'],
+  ['Turma 3','T3-12','Projeto Futuro','B12','04/09/2026','https://projeto-futuro.b12sites.com/'],
   // Turma 3 — Base44
-  ['Turma 3','Heloisa','Meal Plan Pulse','Base44','03/09/2026','https://melodic-meal-plan-pulse.base44.app'],
-  ['Turma 3','Gabriel','Segura Mais Digital','Base44','03/09/2026','https://segura-mais-digital.base44.app'],
-  ['Turma 3','Eduarda','Meu Cacho Guia','Base44','03/09/2026','https://meu-cacho-guia.base44.app'],
-  ['Turma 3','Yasmin','Doce Ateliê Art','Base44','03/09/2026','https://doce-ateli-art.base44.app'],
-  ['Turma 3','Ana Clara','Aura Jolly Style Edit','Base44','03/09/2026','https://aura-jolly-style-edit.base44.app'],
-  ['Turma 3','Julia','Ritmo Bom Beats','Base44','03/09/2026','https://ritmo-bom-beats.base44.app'],
-  ['Turma 3','Ashley','Ash Hair Flow','Base44','03/09/2026','https://ash-hair-flow.base44.app'],
-  ['Turma 3','Gustavo','Solemn Pure Chess Play','Base44','03/09/2026','https://solemn-pure-chess-play.base44.app'],
-  ['Turma 3','Eduarda','Saldo Abiding Zen Flow','Base44','03/09/2026','https://saldo-abiding-zen-flow.base44.app'],
-  ['Turma 3','Gabrielly','Block Mix Play','Base44','03/09/2026','https://block-mix-play.base44.app'],
-  ['Turma 3','Julia','Lazer Zone Play','Base44','03/09/2026','https://lazer-zone-play.base44.app'],
-  ['Turma 3','Ashley','Radical Play Learn Bloom','Base44','03/09/2026','https://radical-play-learn-bloom.base44.app'],
-  ['Turma 3','Heloisa','Misterio Play Lab','Base44','03/09/2026','https://misterio-play-lab.base44.app']
+  ['Turma 3','T3-01','Meal Plan Pulse','Base44','03/09/2026','https://melodic-meal-plan-pulse.base44.app'],
+  ['Turma 3','T3-04','Segura Mais Digital','Base44','03/09/2026','https://segura-mais-digital.base44.app'],
+  ['Turma 3','T3-09','Meu Cacho Guia','Base44','03/09/2026','https://meu-cacho-guia.base44.app'],
+  ['Turma 3','T3-02','Doce Ateliê Art','Base44','03/09/2026','https://doce-ateli-art.base44.app'],
+  ['Turma 3','T2-01','Aura Jolly Style Edit','Base44','03/09/2026','https://aura-jolly-style-edit.base44.app'],
+  ['Turma 3','T3-08','Ritmo Bom Beats','Base44','03/09/2026','https://ritmo-bom-beats.base44.app'],
+  ['Turma 3','T3-10','Ash Hair Flow','Base44','03/09/2026','https://ash-hair-flow.base44.app'],
+  ['Turma 3','T3-07','Solemn Pure Chess Play','Base44','03/09/2026','https://solemn-pure-chess-play.base44.app'],
+  ['Turma 3','T3-09','Saldo Abiding Zen Flow','Base44','03/09/2026','https://saldo-abiding-zen-flow.base44.app'],
+  ['Turma 3','T3-06','Block Mix Play','Base44','03/09/2026','https://block-mix-play.base44.app'],
+  ['Turma 3','T3-08','Lazer Zone Play','Base44','03/09/2026','https://lazer-zone-play.base44.app'],
+  ['Turma 3','T3-10','Radical Play Learn Bloom','Base44','03/09/2026','https://radical-play-learn-bloom.base44.app'],
+  ['Turma 3','T3-01','Misterio Play Lab','Base44','03/09/2026','https://misterio-play-lab.base44.app']
 ];
 
 const portfolio = document.getElementById('portfolio');

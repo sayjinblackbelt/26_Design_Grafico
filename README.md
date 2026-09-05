@@ -12,7 +12,7 @@ Repositório dedicado exclusivamente ao percurso pedagógico de **Design Gráfic
 
 **GitHub Pages:** [Portfólio Digital](docs/index.html)
 
-O portfólio público apresenta os projetos publicados pelos educandos em formato sanitizado, utilizando apenas o primeiro nome, a data de criação e os links das soluções digitais.
+O portfólio público apresenta os projetos publicados pelos educandos em formato sanitizado, utilizando identificadores anônimos, a data de criação e os links das soluções digitais.
 
 ## 🖥️ Atividade de páginas web e protótipos
 
@@ -78,7 +78,7 @@ Atividade dos 7 princípios, projeto de comunicação social, Sprints educaciona
 
 ## 🔒 Privacidade
 
-A documentação pública é sanitizada. São utilizados apenas os primeiros nomes dos educandos nos registros de portfólio. Não devem ser publicados dados individuais de avaliação, contatos pessoais, credenciais, senhas, tokens ou outras informações pessoais desnecessárias.
+A documentação pública é sanitizada. São utilizados apenas identificadores anônimos dos educandos nos registros de portfólio. Não devem ser publicados dados individuais de avaliação, contatos pessoais, credenciais, senhas, tokens ou outras informações pessoais desnecessárias.
 
 ## 📈 Status
 

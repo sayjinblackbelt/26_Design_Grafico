@@ -78,7 +78,7 @@ Registrar páginas e protótipos produzidos pelos educandos com apoio do ChatGPT
 | Educando | Projeto | Data de criação | Link |
 |---|---|---|---|
 | T3-01 | Loja de Acessórios em Prata | 31/08/2026 | https://loja-de-acessorios-em-prata.b12sites.com/ |
-| T1-04 | Study Organizer App | 31/08/2026 | https://study-organizer-app-vscf.b12sites.com/ |
+| T3-01 | Study Organizer App | 31/08/2026 | https://study-organizer-app-vscf.b12sites.com/ |
 | T3-02 | Portfólio Fotográfico Criativo | 31/08/2026 | https://portfolio-fotografico-criativo.b12sites.com/ |
 | T3-03 | Vivat | 31/08/2026 | https://vivat.b12sites.com/ |
 | T3-04 | Segurança Digital Educativa | 31/08/2026 | https://seguranca-digital-educativa.b12sites.com/ |
@@ -99,7 +99,7 @@ Registrar páginas e protótipos produzidos pelos educandos com apoio do ChatGPT
 | T3-04 | Segura Mais Digital | 03/09/2026 | https://segura-mais-digital.base44.app |
 | T3-09 | Meu Cacho Guia | 03/09/2026 | — |
 | T3-02 | Doce Ateliê Art | 03/09/2026 | https://doce-ateli-art.base44.app |
-| T2-01 | Aura Jolly Style Edit | 03/09/2026 | https://aura-jolly-style-edit.base44.app |
+| T3-01 | Aura Jolly Style Edit | 03/09/2026 | https://aura-jolly-style-edit.base44.app |
 | T3-08 | Ritmo Bom Beats | 03/09/2026 | https://ritmo-bom-beats.base44.app |
 | T3-10 | Ash Hair Flow | 03/09/2026 | — |
 | T3-07 | Solemn Pure Chess Play | 03/09/2026 | https://solemn-pure-chess-play.base44.app |

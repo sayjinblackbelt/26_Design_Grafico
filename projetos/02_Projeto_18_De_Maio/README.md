@@ -1,4 +1,4 @@
-# 🌻 Projeto 02 — Folder Institucional | 18 de Maio
+# 🌻 Projeto 02 — Material Educativo | 18 de Maio
 
 ## Tema
 **18 de maio — Combate ao Abuso e à Exploração Sexual de Crianças e Adolescentes**
@@ -6,7 +6,7 @@
 ## Propósito
 Desenvolver um material gráfico informativo com foco em **conscientização, proteção, orientação e responsabilidade social**.
 
-O conteúdo foi planejado para circulação institucional junto a **crianças, adolescentes, famílias e escolas da região**. Por isso, a comunicação deve ser clara, ética e não sensacionalista.
+O conteúdo foi planejado para uso educativo junto a **crianças, adolescentes, famílias e comunidade escolar**. Por isso, a comunicação deve ser clara, ética e não sensacionalista.
 
 ## Metodologia ágil
 

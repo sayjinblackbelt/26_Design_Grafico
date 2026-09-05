@@ -1,6 +1,6 @@
 # Relatório Pedagógico — Oficina de Mídias Digitais e Design Gráfico
 
-** — Projeto PMT (Preparação para o Mundo do Trabalho)**  
+**Projeto educacional de preparação para o mundo do trabalho**  
 **Educador:** Educador responsável  
 **Período:** 2026  
 
@@ -67,11 +67,11 @@ Na perspectiva heulosófica adotada pelo planejamento, as atividades procuram es
 - teoria das cores e paletas;
 - organização da informação.
 
-## 4. Projeto 18 de Maio — processo em Sprints
+## 4. Projeto de conscientização social — processo em Sprints
 
-Um dos principais projetos do semestre foi a criação de material institucional sobre o **18 de maio — Dia Nacional de Combate ao Abuso e à Exploração Sexual de Crianças e Adolescentes**.
+Um dos principais projetos do semestre foi a criação de material educativo sobre o **18 de maio — Dia Nacional de Combate ao Abuso e à Exploração Sexual de Crianças e Adolescentes**.
 
-O projeto foi tratado de maneira ética e pedagógica, com foco em conscientização, informação, proteção e responsabilidade social. Como o material seria destinado a crianças, adolescentes, famílias e escolas da região, foram definidos cuidados de linguagem e seleção de imagens, evitando conteúdo explícito, sensacionalista ou inadequado.
+O projeto foi tratado de maneira ética e pedagógica, com foco em conscientização, informação, proteção e responsabilidade social. Como o material seria destinado a crianças, adolescentes, famílias e comunidade escolar, foram definidos cuidados de linguagem e seleção de imagens, evitando conteúdo explícito, sensacionalista ou inadequado.
 
 ### Sprint 1 — Pesquisa e planejamento
 
@@ -105,7 +105,7 @@ O projeto foi tratado de maneira ética e pedagógica, com foco em conscientiza�
 - organização para dobra em três partes;
 - revisão de legibilidade e composição;
 - exportação em PDF;
-- preparação para envio à gráfica e distribuição em eventos institucionais.
+- preparação para impressão e distribuição em atividades educativas.
 
 Esse projeto consolidou a compreensão de que o design não termina na primeira versão. O produto foi construído, revisado, reorganizado e preparado para uma finalidade real, aproximando os educandos do fluxo iterativo de equipes profissionais.
 
@@ -155,9 +155,9 @@ O princípio utilizado foi provocar o educando a observar uma situação, reflet
 
 Esse processo dialoga com a proposta de **saneamento mental**, com a maiêutica e com a passagem de respostas imediatas para decisões mais conscientes.
 
-## 8. Agência Criativa PMT — identidade metodológica do segundo semestre
+## 8. Agência Criativa — identidade metodológica do segundo semestre
 
-Para ampliar a aproximação com o mundo do trabalho, a oficina passou a ser organizada como uma **Agência Criativa PMT**.
+Para ampliar a aproximação com o mundo do trabalho, a oficina passou a ser organizada como uma **Agência Criativa**.
 
 Os educandos são apresentados como equipes de criação e os projetos passam a ser tratados como desafios de comunicação.
 

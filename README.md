@@ -12,7 +12,7 @@ Repositório dedicado exclusivamente ao percurso pedagógico de **Design Gráfic
 
 **GitHub Pages:** [Portfólio Digital](docs/index.html)
 
-O portfólio público apresenta os projetos publicados de forma sanitizada, utilizando identificadores anônimos, data de criação e links públicos das soluções digitais.
+O GitHub Pages funciona como **interface de consulta pedagógica** para educandos e instituição. Nele, os projetos podem ser exibidos com **primeiro nome**, turma, plataforma, data de criação e link público. A documentação técnica do repositório mantém identificadores anônimos.
 
 ## 🖥️ Atividade de páginas web e protótipos
 
@@ -33,8 +33,8 @@ As publicações são organizadas por **Turma 1, Turma 2 e Turma 3**. Dentro de 
 - Separação por turma e plataforma.
 - B12 apresentado antes de Base44 em cada turma.
 - Data de criação registrada quando disponível.
-- Identificadores anônimos na documentação pública.
-- Links públicos mantidos apenas quando não expõem nome ou identificador pessoal.
+- Nomes completos não são usados na documentação técnica.
+- Links públicos mantidos apenas quando não expõem nome ou identificador pessoal de forma desnecessária.
 
 > A **Turma 2** permanece preparada para a continuidade da mesma atividade no período da tarde.
 
@@ -87,7 +87,7 @@ Atividade dos 7 princípios, projeto de comunicação social, Sprints educaciona
 
 ## 🔒 Privacidade
 
-A documentação pública é sanitizada. São utilizados apenas identificadores anônimos dos educandos nos registros de portfólio. Não devem ser publicados nomes completos, dados individuais de avaliação, contatos pessoais, credenciais, senhas, tokens ou outras informações pessoais desnecessárias.
+A documentação técnica é sanitizada e utiliza identificadores anônimos. O GitHub Pages pode exibir o **primeiro nome** dos educandos porque foi definido como espaço de consulta pedagógica para educandos e instituição. Não devem ser publicados sobrenomes, dados individuais de avaliação, contatos pessoais, credenciais, senhas, tokens ou outras informações pessoais desnecessárias.
 
 ## 📈 Status
 

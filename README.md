@@ -12,13 +12,13 @@ Repositório dedicado exclusivamente ao percurso pedagógico de **Design Gráfic
 
 **GitHub Pages:** [Portfólio Digital](docs/index.html)
 
-O portfólio público apresenta os projetos publicados pelos educandos em formato sanitizado, utilizando identificadores anônimos, a data de criação e os links das soluções digitais.
+O portfólio público apresenta os projetos publicados de forma sanitizada, utilizando identificadores anônimos, data de criação e links públicos das soluções digitais.
 
 ## 🖥️ Atividade de páginas web e protótipos
 
 A atividade integra **ChatGPT → briefing → prompt → plataforma de criação assistida por IA → personalização → teste → publicação → portfólio**.
 
-As publicações são organizadas por **Turma 1, Turma 2 e Turma 3**. Dentro de cada turma, a documentação apresenta primeiro os projetos desenvolvidos no **B12** e depois os desenvolvidos no **Base44**. Cada registro inclui a data de criação.
+As publicações são organizadas por **Turma 1, Turma 2 e Turma 3**. Dentro de cada turma, a documentação apresenta primeiro os projetos desenvolvidos no **B12** e depois os desenvolvidos no **Base44**. Cada registro inclui a data de criação quando ela foi identificada a partir dos registros da atividade.
 
 | Turma | B12 | Base44 | Total |
 |---|---:|---:|---:|
@@ -27,7 +27,16 @@ As publicações são organizadas por **Turma 1, Turma 2 e Turma 3**. Dentro de 
 | Turma 3 | 13 | 13 | 26 |
 | **Total** | **25** | **24** | **49** |
 
-> A organização foi preparada para que a **Turma 2** continue recebendo novos projetos no período da tarde sem alterar a estrutura das demais turmas.
+### Critérios de registro
+
+- Somente projetos efetivamente publicados.
+- Separação por turma e plataforma.
+- B12 apresentado antes de Base44 em cada turma.
+- Data de criação registrada quando disponível.
+- Identificadores anônimos na documentação pública.
+- Links públicos mantidos apenas quando não expõem nome ou identificador pessoal.
+
+> A **Turma 2** permanece preparada para a continuidade da mesma atividade no período da tarde.
 
 ## 🎯 Propósito
 
@@ -78,7 +87,7 @@ Atividade dos 7 princípios, projeto de comunicação social, Sprints educaciona
 
 ## 🔒 Privacidade
 
-A documentação pública é sanitizada. São utilizados apenas identificadores anônimos dos educandos nos registros de portfólio. Não devem ser publicados dados individuais de avaliação, contatos pessoais, credenciais, senhas, tokens ou outras informações pessoais desnecessárias.
+A documentação pública é sanitizada. São utilizados apenas identificadores anônimos dos educandos nos registros de portfólio. Não devem ser publicados nomes completos, dados individuais de avaliação, contatos pessoais, credenciais, senhas, tokens ou outras informações pessoais desnecessárias.
 
 ## 📈 Status
 

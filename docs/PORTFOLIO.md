@@ -10,7 +10,7 @@ Este portfólio reúne os projetos publicados pelos educandos na atividade de cr
 
 ## Organização pública
 
-Os educandos são identificados exclusivamente por códigos anônimos (`T1-01` a `T3-12`). Links públicos são mantidos somente quando o endereço não expõe nome ou identificador pessoal.
+Os educandos são identificados exclusivamente por códigos anônimos. Links públicos são mantidos somente quando o endereço não expõe nome ou identificador pessoal.
 
 ## Turma 1
 
@@ -20,9 +20,9 @@ Os educandos são identificados exclusivamente por códigos anônimos (`T1-01` a
 |---|---|---|---|
 | T1-01 | Sport Club Corinthians Paulista | 28/08/2026 | https://sport-club-corinthians-paulista.b12sites.com/ |
 | T1-02 | Café Lira | 28/08/2026 | https://cafe-lira.b12sites.com/ |
-| T1-03 | Free Fire — Portfolio Design | 28/08/2026 | https://free-fire5-portfolio-design.b12sites.com/index#hero |
-| T1-03 | Free Fire — Portfolio Design | 28/08/2026 | https://free-fire-portfolio-design.b12sites.com/index#hero |
-| T1-04 | De Volta aos Boxes — TTMB | 28/08/2026 | https://de-volta-aos-boxes-ttmb.b12sites.com |
+| T1-03 | Free Fire — Portfolio Design | 28/08/2026 | — |
+| T1-03 | Free Fire — Portfolio Design | 28/08/2026 | — |
+| T1-04 | De Volta aos Boxes — TTMB | 28/08/2026 | — |
 | T1-05 | Confeitaria Rosa e Marrom | 01/09/2026 | https://confeitaria-rosa-e-marrom.b12sites.com/ |
 | T1-06 | Espaço Gamer | 04/09/2026 | https://espaco-gamer.b12sites.com/ |
 | T1-07 | Loja de Tênis Streetwear | 04/09/2026 | https://loja-de-tenis-streetwear.b12sites.com/ |

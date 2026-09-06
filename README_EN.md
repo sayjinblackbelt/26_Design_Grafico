@@ -12,13 +12,13 @@ A repository dedicated exclusively to the educational journey of **Graphic Desig
 
 **GitHub Pages:** [Digital Portfolio](docs/index.html)
 
-The public portfolio presents published projects in sanitized form, using only students' first names, creation dates, and links to their digital solutions.
+The public portfolio presents published projects in sanitized form, using anonymous identifiers, creation dates, and public links when the address does not expose a personal name or identifier.
 
 ## 🖥️ Web page and prototype activity
 
 The activity follows the workflow **ChatGPT → briefing → prompt → AI-assisted creation platform → customization → testing → publication → portfolio**.
 
-Projects are organized as **Class 1, Class 2, and Class 3**. Within each class, documentation presents **B12 first and Base44 second**. Each project record includes its creation date.
+Projects are organized as **Class 1, Class 2, and Class 3**. Within each class, documentation presents **B12 first and Base44 second**. Each record includes the creation date when it could be established from the activity logs.
 
 | Class | B12 | Base44 | Total |
 |---|---:|---:|---:|
@@ -26,6 +26,17 @@ Projects are organized as **Class 1, Class 2, and Class 3**. Within each class, 
 | Class 2 | 4 | 2 | 6 |
 | Class 3 | 13 | 13 | 26 |
 | **Total** | **25** | **24** | **49** |
+
+### Registration rules
+
+- Only effectively published projects are recorded.
+- Projects are separated by class and platform.
+- B12 is presented before Base44 within each class.
+- Creation date is recorded when available.
+- Public documentation uses anonymous identifiers.
+- Public links are kept only when the address does not expose a personal name or identifier.
+
+> **Class 2** is prepared to continue the same activity during the afternoon session.
 
 ## 🎯 Purpose
 
@@ -53,7 +64,7 @@ See the Portuguese documentation for the complete learning record and project st
 
 ## 🔒 Privacy
 
-Public documentation is sanitized. Only students' first names, project dates, and public project links are used in portfolio records. Individual assessment data, personal contacts, credentials, passwords, tokens, and other unnecessary personal information must not be published.
+Public documentation is sanitized. Only anonymous identifiers, project dates, and public project links are used in portfolio records. Full names, individual assessment data, personal contacts, credentials, passwords, tokens, and other unnecessary personal information must not be published.
 
 ## 📈 Status
 

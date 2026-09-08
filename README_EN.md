@@ -12,7 +12,7 @@ A repository dedicated exclusively to the educational journey of **Graphic Desig
 
 **GitHub Pages:** [Digital Portfolio](docs/index.html)
 
-The public portfolio presents published projects in sanitized form, using anonymous identifiers, creation dates, and public links when the address does not expose a personal name or identifier.
+The public portfolio is a **consultation space for students and the team**. It may display the student's **first name**, class, platform, creation date, and public project link. Technical documentation remains sanitized and uses anonymous identifiers.
 
 ## 🖥️ Web page and prototype activity
 
@@ -33,8 +33,9 @@ Projects are organized as **Class 1, Class 2, and Class 3**. Within each class, 
 - Projects are separated by class and platform.
 - B12 is presented before Base44 within each class.
 - Creation date is recorded when available.
-- Public documentation uses anonymous identifiers.
-- Public links are kept only when the address does not expose a personal name or identifier.
+- Public consultation pages may use first names.
+- Technical documentation uses anonymous identifiers.
+- Existing project links are persistent portfolio records and must not be removed, replaced, or converted to a dash during routine updates.
 
 > **Class 2** is prepared to continue the same activity during the afternoon session.
 
@@ -64,7 +65,7 @@ See the Portuguese documentation for the complete learning record and project st
 
 ## 🔒 Privacy
 
-Public documentation is sanitized. Only anonymous identifiers, project dates, and public project links are used in portfolio records. Full names, individual assessment data, personal contacts, credentials, passwords, tokens, and other unnecessary personal information must not be published.
+Public consultation pages may display first names for educational reference. Technical documentation remains sanitized and uses anonymous identifiers. Full names, individual assessment data, personal contacts, credentials, passwords, tokens, and other unnecessary personal information must not be published.
 
 ## 📈 Status
 

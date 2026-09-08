@@ -6,7 +6,9 @@ Este portfólio reúne projetos publicados pelos educandos na atividade de cria�
 
 **Fluxo:** Ideia → Briefing → Prompt → Criação → Personalização → Teste → Publicação → Portfólio
 
-> **Padrão:** dentro de cada turma, os projetos aparecem primeiro em **B12** e depois em **Base44**. Cada registro informa a **data de criação** quando disponível.
+ > **Padrão:** dentro de cada turma, os projetos aparecem primeiro em **B12** e depois em **Base44**. Cada registro informa a **data de criação** quando disponível.
+>
+> **Regra de preservação:** links de projetos publicados são registros permanentes do portfólio e **não devem ser removidos, substituídos ou convertidos em `—`** durante atualizações. Correções devem preservar o link original; somente o educador responsável poderá solicitar a alteração de um endereço que tenha deixado de funcionar.
 
 ## Organização pública
 
@@ -60,8 +62,8 @@ Os educandos são identificados exclusivamente por códigos anônimos. Os links 
 
 | Educando | Projeto | Data de criação | Link |
 |---|---|---|---|
-| T2-02 | YasPlay Watch Hub | 04/09/2026 | — |
-| T2-01 | Cine Ana Hub | 04/09/2026 | — |
+| T2-02 | YasPlay Watch Hub | 04/09/2026 | [Abrir projeto](https://yasplay-watch-hub.base44.app) |
+| T2-01 | Cine Ana Hub | 04/09/2026 | [Abrir projeto](https://cine-ana-hub.base44.app) |
 
 ## Turma 3
 

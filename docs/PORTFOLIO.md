@@ -39,6 +39,11 @@ Os educandos são identificados exclusivamente por códigos anônimos. Os links 
 | T1-05 | Vibrant Archive Style | 04/09/2026 | [Abrir projeto](https://vibrant-archive-style.base44.app) |
 | T1-09 | Wolltzip Chat Link | 04/09/2026 | [Abrir projeto](https://wolltzip-chat-link.base44.app) |
 | T1-02 | Pink Blue Boutique | 04/09/2026 | [Abrir projeto](https://pink-blue-boutique.base44.app) |
+| T1-02 | Haunted Strong House Hush | 08/09/2026 | [Abrir projeto](https://haunted-strong-house-hush.base44.app) |
+| T1-05 | Affable Magic Realm Quest | 08/09/2026 | [Abrir projeto](https://affable-magic-realm-quest.base44.app) |
+| T1-06 | Meek Master Music Path | 08/09/2026 | [Abrir projeto](https://meek-master-music-path.base44.app) |
+| T1-05 | Mystic Quest Link | 08/09/2026 | [Abrir projeto](https://mystic-quest-link.base44.app) |
+| T1-03 | Soft Pole Trivia Dash | 08/09/2026 | [Abrir projeto](https://soft-pole-trivia-dash.base44.app) |
 
 ## Turma 2
 

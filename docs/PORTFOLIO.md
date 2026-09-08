@@ -20,8 +20,8 @@ Os educandos são identificados exclusivamente por códigos anônimos. Os links 
 |---|---|---|---|
 | T1-01 | Sport Club Corinthians Paulista | 28/08/2026 | [Abrir projeto](https://sport-club-corinthians-paulista.b12sites.com/) |
 | T1-02 | Café Lira | 28/08/2026 | [Abrir projeto](https://cafe-lira.b12sites.com/) |
-| T1-03 | Free Fire — Portfolio Design | 28/08/2026 | — |
-| T1-04 | De Volta aos Boxes — TTMB | 28/08/2026 | — |
+| T1-03 | Free Fire — Portfolio Design | 28/08/2026 | [Abrir projeto](https://free-fire-portfolio-design.b12sites.com/index#hero) |
+| T1-04 | De Volta aos Boxes — TTMB | 28/08/2026 | [Abrir projeto](https://de-volta-aos-boxes-ttmb.b12sites.com) |
 | T1-05 | Confeitaria Rosa e Marrom | 01/09/2026 | [Abrir projeto](https://confeitaria-rosa-e-marrom.b12sites.com/) |
 | T1-06 | Espaço Gamer | 04/09/2026 | [Abrir projeto](https://espaco-gamer.b12sites.com/) |
 | T1-07 | Loja de Tênis Streetwear | 04/09/2026 | [Abrir projeto](https://loja-de-tenis-streetwear.b12sites.com/) |
@@ -30,14 +30,14 @@ Os educandos são identificados exclusivamente por códigos anônimos. Os links 
 
 | Educando | Projeto | Data de criação | Link |
 |---|---|---|---|
-| T1-08 | Enthusiastic Neon Style Studio | 01/09/2026 | — |
-| T1-03 | Orochi Legacy Flow | 01/09/2026 | — |
+| T1-08 | Enthusiastic Neon Style Studio | 01/09/2026 | [Abrir projeto](https://enthusiastic-neon-style-studio.base44.app) |
+| T1-03 | Orochi Legacy Flow | 01/09/2026 | [Abrir projeto](https://orochi-legacy-flow.base44.app) |
 | T1-05 | Doces e Confeitaria | 01/09/2026 | [Abrir projeto](https://doceseconfeitaria.base44.app) |
 | T1-05 | Estuda Mais Hub | 04/09/2026 | [Abrir projeto](https://interesting-estuda-mais-hub.base44.app) |
 | T1-09 | Urban Strike Zone | 04/09/2026 | [Abrir projeto](https://grumpy-urban-strike-zone.base44.app) |
 | T1-02 | Quiz Mente Connect | 04/09/2026 | [Abrir projeto](https://quiz-mente-connect.base44.app) |
-| T1-05 | Vibrant Archive Style | 04/09/2026 | — |
-| T1-09 | Wolltzip Chat Link | 04/09/2026 | — |
+| T1-05 | Vibrant Archive Style | 04/09/2026 | [Abrir projeto](https://vibrant-archive-style.base44.app) |
+| T1-09 | Wolltzip Chat Link | 04/09/2026 | [Abrir projeto](https://wolltzip-chat-link.base44.app) |
 | T1-02 | Pink Blue Boutique | 04/09/2026 | [Abrir projeto](https://pink-blue-boutique.base44.app) |
 
 ## Turma 2
@@ -73,7 +73,7 @@ Os educandos são identificados exclusivamente por códigos anônimos. Os links 
 | T3-06 | Plataforma de Organização para Jovens Profissionais | 31/08/2026 | [Abrir projeto](https://plataforma-de-organizacao-para-jovens-profissionais.b12sites.com/) |
 | T3-07 | Curiosidades sobre Gatos | 31/08/2026 | [Abrir projeto](https://curiosidades-sobre-gatos.b12sites.com/) |
 | T3-08 | Café Artesanal Gourmet | 31/08/2026 | [Abrir projeto](https://cafe-artesanal-gourmet.b12sites.com/index#sobre) |
-| T3-09 | Direito Empresarial | 31/08/2026 | — |
+| T3-09 | Direito Empresarial | 31/08/2026 | [Abrir projeto](https://dra-eduarda-martins-direito-empresarial.b12sites.com/) |
 | T3-10 | Verde Violeta | 31/08/2026 | [Abrir projeto](https://verde-violeta.b12sites.com/) |
 | T3-11 | Conecta Jovem | 31/08/2026 | [Abrir projeto](https://conecta-jovem.b12sites.com/) |
 | T3-12 | Projeto Futuro | 04/09/2026 | [Abrir projeto](https://projeto-futuro.b12sites.com/) |

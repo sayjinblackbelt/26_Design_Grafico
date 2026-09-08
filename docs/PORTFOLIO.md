@@ -84,16 +84,16 @@ Os educandos são identificados exclusivamente por códigos anônimos. Os links 
 |---|---|---|---|
 | T3-01 | Meal Plan Pulse | 03/09/2026 | [Abrir projeto](https://melodic-meal-plan-pulse.base44.app) |
 | T3-04 | Segura Mais Digital | 03/09/2026 | [Abrir projeto](https://segura-mais-digital.base44.app) |
-| T3-09 | Meu Cacho Guia | 03/09/2026 | — |
+| T3-09 | Meu Cacho Guia | 03/09/2026 | [Abrir projeto](https://meu-cacho-guia.base44.app) |
 | T3-02 | Doce Ateliê Art | 03/09/2026 | [Abrir projeto](https://doce-ateli-art.base44.app) |
 | T3-01 | Aura Jolly Style Edit | 03/09/2026 | [Abrir projeto](https://aura-jolly-style-edit.base44.app) |
 | T3-08 | Ritmo Bom Beats | 03/09/2026 | [Abrir projeto](https://ritmo-bom-beats.base44.app) |
-| T3-10 | Ash Hair Flow | 03/09/2026 | — |
+| T3-10 | Ash Hair Flow | 03/09/2026 | [Abrir projeto](https://ash-hair-flow.base44.app) |
 | T3-07 | Solemn Pure Chess Play | 03/09/2026 | [Abrir projeto](https://solemn-pure-chess-play.base44.app) |
-| T3-09 | Saldo Abiding Zen Flow | 03/09/2026 | — |
+| T3-09 | Saldo Abiding Zen Flow | 03/09/2026 | [Abrir projeto](https://saldo-abiding-zen-flow.base44.app) |
 | T3-06 | Block Mix Play | 03/09/2026 | [Abrir projeto](https://block-mix-play.base44.app) |
-| T3-08 | Lazer Zone Play | 03/09/2026 | — |
-| T3-10 | Radical Play Learn Bloom | 03/09/2026 | — |
+| T3-08 | Lazer Zone Play | 03/09/2026 | [Abrir projeto](https://lazer-zone-play.base44.app) |
+| T3-10 | Radical Play Learn Bloom | 03/09/2026 | [Abrir projeto](https://radical-play-learn-bloom.base44.app) |
 | T3-01 | Misterio Play Lab | 03/09/2026 | [Abrir projeto](https://misterio-play-lab.base44.app) |
 
 ## Privacidade

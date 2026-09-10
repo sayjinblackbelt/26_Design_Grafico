@@ -10,9 +10,11 @@ Repositório dedicado exclusivamente ao percurso pedagógico de **Design Gráfic
 
 ## 🌐 Portfólio público
 
-**GitHub Pages:** [Portfólio Digital](docs/index.html)
+**GitHub Pages:** https://sayjinblackbelt.github.io/26_Design_Grafico/
 
-O GitHub Pages funciona como **interface de consulta pedagógica** para educandos e instituição. Nele, os projetos podem ser exibidos com **primeiro nome**, turma, plataforma, data de criação e link público. A documentação técnica do repositório mantém identificadores anônimos.
+O GitHub Pages funciona como **interface principal de consulta pedagógica** para educandos e instituição. Para acessar os projetos e atividades, utilize o portfólio publicado acima.
+
+A documentação técnica do repositório mantém identificadores anônimos e informações necessárias para organização e acompanhamento do projeto.
 
 ## 🖥️ Atividade de páginas web e protótipos
 

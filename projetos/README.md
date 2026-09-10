@@ -16,6 +16,9 @@ Desenvolvimento de narrativa por meio de imagem, texto, sequência, ritmo e mens
 ### 04. 🖥️ [Canva e Criação Visual](04_Canva_e_Criacao_Visual/README.md)
 Ampliação das ferramentas de criação mantendo os fundamentos do Design como referência.
 
+### 05. 🎮 [Criação de Jogos com IA e Instaplay](05_Criacao_de_Jogos_com_IA_e_Instaplay/README.md)
+Projeto de criação e prototipagem de jogos com apoio de IA, organização de ideias, Game Design, testes, feedback e melhoria contínua.
+
 ## Estrutura padrão
 Cada projeto pode conter:
 

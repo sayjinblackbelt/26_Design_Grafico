@@ -1,10 +1,9 @@
 # Relatório Pedagógico — Oficina de Mídias Digitais e Design Gráfico
 
 **Projeto educacional de preparação para o mundo do trabalho**  
-**Educador:** Educador responsável  
 **Período:** 2026  
 
-> Documento consolidado para registro pedagógico. Dados pessoais e identificadores individuais de educandos foram sanitizados; não são registrados nomes, notas individuais, e-mails ou outros dados pessoais.
+> Documento consolidado para registro pedagógico. Dados pessoais e identificadores individuais de educandos foram sanitizados; não são registrados nomes completos, notas individuais, e-mails ou outros dados pessoais.
 
 ## 1. Contexto da oficina
 
@@ -14,20 +13,21 @@ A proposta combina aprendizagem prática, Aprendizagem Baseada em Projetos (PBL)
 
 ## 2. Diretrizes pedagógicas
 
-A proposta da oficina integra:
+A proposta integra:
 
 - aprendizagem mão na massa;
 - projetos com produtos concretos;
-- trabalho colaborativo em duplas ou trios;
+- trabalho colaborativo;
 - organização de tarefas em Sprints;
 - revisão e melhoria contínua;
 - comunicação visual e storytelling;
 - reflexão sobre comportamento e consequências;
-- preparação para situações semelhantes às encontradas no mundo do trabalho.
+- preparação para situações semelhantes às encontradas no mundo do trabalho;
+- uso consciente de Inteligência Artificial.
 
 Na perspectiva heulosófica adotada pelo planejamento, as atividades procuram estimular o ciclo **observar → refletir → tomar atitude → agir → saber esperar**, utilizando perguntas e revisão como instrumentos de organização do pensamento e desenvolvimento da autonomia.
 
-## 3. Percurso do primeiro semestre
+## 3. Percurso inicial
 
 ### 3.1 Introdução e base
 
@@ -62,16 +62,17 @@ Na perspectiva heulosófica adotada pelo planejamento, as atividades procuram es
 ### 3.5 Fundamentos de Design Gráfico
 
 - comunicação visual;
-- 7 princípios do design: contraste, alinhamento, proximidade, repetição, hierarquia, espaço em branco e equilíbrio;
+- contraste, alinhamento, proximidade, repetição, hierarquia, espaço em branco e equilíbrio;
 - formas e composição;
 - teoria das cores e paletas;
-- organização da informação.
+- organização da informação;
+- tipografia e legibilidade.
 
 ## 4. Projeto de conscientização social — processo em Sprints
 
-Um dos principais projetos do semestre foi a criação de material educativo sobre o **18 de maio — Dia Nacional de Combate ao Abuso e à Exploração Sexual de Crianças e Adolescentes**.
+Um dos principais projetos foi a criação de material educativo sobre o **18 de maio — Dia Nacional de Combate ao Abuso e à Exploração Sexual de Crianças e Adolescentes**.
 
-O projeto foi tratado de maneira ética e pedagógica, com foco em conscientização, informação, proteção e responsabilidade social. Como o material seria destinado a crianças, adolescentes, famílias e comunidade escolar, foram definidos cuidados de linguagem e seleção de imagens, evitando conteúdo explícito, sensacionalista ou inadequado.
+O projeto foi tratado de maneira ética e pedagógica, com foco em conscientização, informação, proteção e responsabilidade social. Foram definidos cuidados de linguagem e seleção de imagens, evitando conteúdo explícito, sensacionalista ou inadequado.
 
 ### Sprint 1 — Pesquisa e planejamento
 
@@ -86,8 +87,8 @@ O projeto foi tratado de maneira ética e pedagógica, com foco em conscientiza�
 
 - criação de folder simples em frente e verso;
 - utilização do Google Apresentações;
-- aplicação inicial dos princípios do design;
-- trabalho colaborativo em duplas ou trios.
+- aplicação inicial dos princípios do Design;
+- trabalho colaborativo.
 
 ### Sprint 3 — Reorganização e melhoria
 
@@ -107,31 +108,34 @@ O projeto foi tratado de maneira ética e pedagógica, com foco em conscientiza�
 - exportação em PDF;
 - preparação para impressão e distribuição em atividades educativas.
 
-Esse projeto consolidou a compreensão de que o design não termina na primeira versão. O produto foi construído, revisado, reorganizado e preparado para uma finalidade real, aproximando os educandos do fluxo iterativo de equipes profissionais.
+Esse projeto consolidou a compreensão de que o Design não termina na primeira versão: o produto é construído, revisado, reorganizado e preparado para uma finalidade real.
 
 ## 5. Avaliação e acompanhamento
 
-Foram utilizados instrumentos diagnósticos, avaliações técnicas e observações comportamentais/atitudinais. O objetivo foi acompanhar não apenas a aquisição de conhecimentos, mas também a evolução na participação, organização, autonomia, comunicação e responsabilidade.
+Foram utilizados instrumentos diagnósticos, avaliações técnicas e observações comportamentais/atitudinais. O objetivo foi acompanhar não apenas a aquisição de conhecimentos, mas também evolução na participação, organização, autonomia, comunicação e responsabilidade.
 
-Os dados avaliativos trabalhados no processo indicaram evolução das competências técnicas entre a avaliação inicial e as avaliações posteriores, além de desempenho comportamental e atitudinal satisfatório nas turmas acompanhadas.
-
-Para registros institucionais futuros, recomenda-se manter a separação entre indicadores quantitativos e interpretações pedagógicas, evitando conclusões que não estejam sustentadas pelos dados disponíveis.
+Para registros futuros, recomenda-se manter a separação entre indicadores quantitativos e interpretações pedagógicas, evitando conclusões que não estejam sustentadas pelos dados disponíveis.
 
 ## 6. Competências desenvolvidas
 
 ### Hard Skills
 
-- informática e uso de ferramentas digitais;
+- informática e ferramentas digitais;
 - Google Apresentações;
 - comunicação visual;
-- fundamentos do design gráfico;
+- fundamentos do Design Gráfico;
 - teoria das cores;
 - organização da informação;
-- criação de folders e apresentações;
+- folders e apresentações;
 - pesquisa digital;
 - edição básica de conteúdo audiovisual;
-- uso inicial do B12 Editor;
-- storytelling e estrutura narrativa.
+- B12 Editor;
+- Canva;
+- storytelling;
+- páginas web;
+- prototipação;
+- aplicações digitais;
+- criação de jogos com apoio de IA.
 
 ### Soft Skills
 
@@ -145,7 +149,8 @@ Para registros institucionais futuros, recomenda-se manter a separação entre i
 - resolução de problemas;
 - capacidade de receber e utilizar feedback;
 - revisão e melhoria contínua;
-- autonomia.
+- autonomia;
+- justificativa de decisões.
 
 ## 7. Desenvolvimento comportamental
 
@@ -155,17 +160,15 @@ O princípio utilizado foi provocar o educando a observar uma situação, reflet
 
 Esse processo dialoga com a proposta de **saneamento mental**, com a maiêutica e com a passagem de respostas imediatas para decisões mais conscientes.
 
-## 8. Agência Criativa — identidade metodológica do segundo semestre
+## 8. Agência Criativa — identidade metodológica
 
 Para ampliar a aproximação com o mundo do trabalho, a oficina passou a ser organizada como uma **Agência Criativa**.
 
-Os educandos são apresentados como equipes de criação e os projetos passam a ser tratados como desafios de comunicação.
+Os educandos são apresentados como equipes de criação e os projetos passam a ser tratados como desafios de comunicação e experiência digital.
 
 ### Fluxo padrão
 
-**Briefing → Pesquisa → Planejamento → Criação → Revisão → Entrega → Retrospectiva**
-
-Esse fluxo é utilizado para aproximar a sala de aula de práticas colaborativas e iterativas presentes em equipes profissionais.
+**Briefing → Pesquisa → Planejamento → Criação → Teste → Revisão → Entrega → Portfólio → Retrospectiva**
 
 ### Papel do educador
 
@@ -176,25 +179,32 @@ O educador atua também como orientador de processo e diretor criativo, utilizan
 - A mensagem está clara para o público?
 - O que pode ser melhorado?
 - O que mudou entre uma versão e outra?
+- Como o usuário irá interagir com esta solução?
 
-## 9. Segundo semestre — consolidação e ampliação
+## 9. Evolução das ferramentas e linguagens
 
-Após o ciclo inicial, o planejamento passou a ampliar o repertório de ferramentas e linguagens.
+### 9.1 B12 Editor — Página Web
 
-### Revisão de fundamentos
+O B12 Editor introduziu a aplicação dos princípios de Design em páginas web publicáveis. O trabalho passou a envolver estrutura de página, hierarquia visual, identidade, organização de conteúdo, narrativa, personalização e publicação.
 
-- retomada dos 7 princípios do design;
-- revisão da teoria das cores;
-- revisão prática do Google Apresentações;
-- análise de materiais bons e ruins;
-- identificação de problemas de comunicação visual;
-- justificativa das escolhas de design.
+**Competência central:** transformar uma ideia em uma página web coerente e comunicativa.
 
-### Ampliação para novas ferramentas
+### 9.2 Base44 — Página Web e App
 
-O planejamento prevê a transição gradual do Google Apresentações para o **Canva**, mantendo os princípios de design como base e tratando a ferramenta como meio, não como objetivo final.
+O Base44 ampliou o desafio para páginas e aplicações interativas. Além da estética, passaram a ser trabalhados interfaces, componentes, fluxos, navegação, funcionalidades, prototipação e experiência digital.
 
-Também foi introduzido o **B12 Editor**, ampliando o trabalho para edição audiovisual e storytelling.
+**Competência central:** transformar um briefing em uma experiência digital interativa.
+
+### 9.3 InstaPlay — Criação de Jogos
+
+O InstaPlay ampliou o percurso para a criação de jogos com apoio de Inteligência Artificial. O educando passa a considerar conceito, objetivo, regras, mecânicas, desafio, feedback, narrativa, progressão e experiência do usuário.
+
+**Competência central:** projetar uma experiência interativa com propósito, regras e participação do usuário.
+
+### Síntese da evolução
+
+**Página → Aplicação → Jogo**  
+**Visual → Interação → Experiência**
 
 ## 10. Avatar Maker — expressão e comportamento
 
@@ -220,26 +230,32 @@ O processo de criação foi integrado aos movimentos:
 
 O foco foi demonstrar que imagens, texto, música, sequência e ritmo podem formar uma narrativa e que a revisão é parte da produção profissional.
 
-## 12. Preparação para projetos de portfólio digital
+## 12. Portfólio e projetos digitais
 
-Outro eixo de continuidade é a criação de um **site portfólio**, aproximando os alunos da construção de identidade visual e comunicação digital.
+A criação do portfólio digital consolidou a produção dos educandos em diferentes plataformas.
 
-O projeto prevê a aplicação integrada de:
+O percurso atualmente registra três linguagens principais:
 
-- 7 princípios do design;
-- teoria das cores;
-- storytelling;
-- kit de marca personalizado;
-- identidade visual;
-- arquitetura de informação;
-- portfólio;
-- comunicação voltada ao mundo profissional.
+| Etapa | Plataforma | Produto |
+|---|---|---|
+| 1 | B12 Editor | Página Web |
+| 2 | Base44 | Página Web e App |
+| 3 | InstaPlay | Jogo |
 
-A proposta é que o site funcione como produto final de uma identidade fictícia ou profissional e seja construído a partir de briefing, planejamento, criação e revisão.
+O portfólio registra atualmente **62 projetos**, distribuídos entre três turmas:
+
+| Turma | B12 | Base44 | InstaPlay | Total |
+|---|---:|---:|---:|---:|
+| Turma 1 | 7 | 16 | 4 | 27 |
+| Turma 2 | 4 | 5 | 0 | 9 |
+| Turma 3 | 13 | 13 | 0 | 26 |
+| **Total** | **24** | **34** | **4** | **62** |
+
+Os registros públicos podem apresentar primeiro nome, turma, plataforma, data e link. A documentação técnica utiliza identificadores anônimos.
 
 ## 13. Síntese da evolução metodológica
 
-A oficina evoluiu de atividades de introdução e execução orientada para uma metodologia de produção mais estruturada.
+A oficina evoluiu de atividades de introdução e execução orientada para uma metodologia de produção estruturada.
 
 ### Primeiro momento
 
@@ -261,9 +277,13 @@ A oficina evoluiu de atividades de introdução e execução orientada para uma 
 
 **Explicar e justificar escolhas.**
 
+### Sexto momento
+
+**Construir páginas, aplicações e jogos.**
+
 ### Direção atual
 
-**Resolver problemas de comunicação como uma equipe criativa.**
+**Resolver problemas de comunicação e experiência como uma equipe criativa.**
 
 ## 14. Resultados pedagógicos relevantes
 
@@ -274,29 +294,32 @@ Os principais resultados observados ao longo do percurso foram:
 - maior capacidade de estruturar informações;
 - desenvolvimento da criatividade aplicada a problemas concretos;
 - fortalecimento da comunicação e do trabalho em equipe;
-- maior compreensão de que o design possui propósito comunicacional;
+- maior compreensão de que o Design possui propósito comunicacional;
 - valorização da revisão e do feedback;
-- aproximação entre aprendizagem escolar e situações do mundo do trabalho;
+- aproximação entre aprendizagem e situações do mundo do trabalho;
 - integração de competências técnicas com reflexão comportamental;
-- produção de materiais com finalidade social e potencial de uso institucional.
+- produção de páginas web, aplicações, protótipos e jogos;
+- ampliação do repertório de experiências digitais;
+- desenvolvimento da capacidade de justificar decisões de projeto.
 
 ## 15. Próximas etapas previstas
 
-- ampliar o domínio do Canva;
 - aprofundar storytelling audiovisual;
-- produzir projetos de comunicação para clientes fictícios;
+- produzir projetos para clientes fictícios;
 - desenvolver identidades visuais completas;
 - produzir peças para redes sociais;
-- criar portfólio digital;
+- aprimorar páginas e aplicações;
+- aprofundar experiência do usuário;
+- desenvolver jogos com maior complexidade de mecânicas e narrativa;
 - manter Sprints com briefing, produção, revisão e retrospectiva;
-- fortalecer a capacidade de justificar escolhas de design;
+- fortalecer a apresentação e justificativa dos projetos;
 - consolidar autonomia, organização e responsabilidade profissional.
 
 ## 16. Diretriz permanente
 
 > **A ferramenta muda; o pensamento permanece.**
 
-O foco da oficina é formar educandos capazes de utilizar ferramentas digitais com autonomia, compreender princípios de comunicação, tomar decisões conscientes, trabalhar em equipe, revisar suas produções e transformar ideias em soluções úteis para outras pessoas.
+O foco da oficina é formar educandos capazes de utilizar ferramentas digitais com autonomia, compreender princípios de comunicação, tomar decisões conscientes, trabalhar em equipe, revisar suas produções e transformar ideias em soluções visuais, digitais e interativas.
 
 ---
 

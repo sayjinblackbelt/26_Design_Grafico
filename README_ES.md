@@ -4,45 +4,61 @@
 
 # 🎨 Diseño Gráfico — Repositorio Educativo
 
-Repositorio dedicado exclusivamente al recorrido educativo de **Diseño Gráfico**, reuniendo fundamentos, metodología, actividades, proyectos, ejemplos visuales y documentación técnica.
+Repositorio dedicado al **recorrido educativo de Diseño Gráfico 2026**, reuniendo fundamentos, metodología, actividades, proyectos, documentación técnica y portafolio público.
 
-> **Medios Digitales tiene su propia propuesta y repositorio.** Las áreas pueden complementarse, pero este proyecto documenta específicamente lenguaje visual, composición, color, identidad y producción gráfica.
+> **Medios Digitales tiene su propia propuesta y repositorio.** Las áreas pueden complementarse, pero este proyecto documenta específicamente lenguaje visual, composición, color, identidad, producción gráfica y evolución hacia experiencias digitales interactivas.
 
 ## 🌐 Portafolio público
 
-**GitHub Pages:** [Portafolio Digital](docs/index.html)
+**GitHub Pages:** https://sayjinblackbelt.github.io/26_Design_Grafico/
 
-El portafolio público presenta los proyectos publicados de forma sanitizada, utilizando identificadores anónimos, fecha de creación y enlaces públicos cuando la dirección no expone un nombre o identificador personal.
+El GitHub Pages funciona como **interfaz principal de consulta educativa** para educandos y equipo. La página pública puede mostrar nombre de pila, turma, plataforma, fecha y enlace del proyecto.
 
-## 🖥️ Actividad de páginas web y prototipos
+La documentación técnica permanece sanitizada y utiliza identificadores anónimos.
 
-La actividad sigue el flujo **ChatGPT → briefing → prompt → plataforma de creación asistida por IA → personalización → prueba → publicación → portafolio**.
+## 🚀 Evolución del proyecto
 
-Los proyectos se organizan como **Turma 1, Turma 2 y Turma 3**. Dentro de cada turma, la documentación presenta primero los proyectos de **B12** y después los de **Base44**. Cada registro incluye la fecha de creación cuando pudo establecerse a partir de los registros de la actividad.
+El recorrido evolucionó desde los fundamentos de comunicación visual hacia productos digitales cada vez más interactivos:
 
-| Turma | B12 | Base44 | Total |
-|---|---:|---:|---:|
-| Turma 1 | 8 | 9 | 17 |
-| Turma 2 | 4 | 2 | 6 |
-| Turma 3 | 13 | 13 | 26 |
-| **Total** | **25** | **24** | **49** |
+**Fundamentos → Composición → Identidad → Página Web → Aplicación → Juego → Portafolio**
 
-### Reglas de registro
+### 1. Página Web — B12 Editor
 
-- Solo se registran proyectos efectivamente publicados.
-- Separación por turma y plataforma.
-- B12 se presenta antes que Base44 dentro de cada turma.
-- La fecha de creación se registra cuando está disponible.
-- La documentación pública utiliza identificadores anónimos.
-- Los enlaces públicos se mantienen solo cuando la dirección no expone un nombre o identificador personal.
+Primera etapa práctica de producción digital. Los educandos aplican composición, jerarquía, tipografía, color, identidad visual, organización del contenido y publicación en la creación de páginas web.
 
-> La **Turma 2** está preparada para continuar con la misma actividad durante el período de la tarde.
+### 2. Página Web y App — Base44
+
+Segunda etapa de ampliación. La creación pasa de la presentación visual a explorar **interacción, flujos, componentes, prototipado y experiencias digitales**. La plataforma se utiliza como medio para transformar ideas y briefings en páginas y aplicaciones.
+
+### 3. Creación de Juegos — InstaPlay
+
+Tercera etapa de ampliación, dedicada a la **creación de juegos con apoyo de Inteligencia Artificial**, trabajando concepto, mecánicas, interacción, narrativa y experiencia de usuario.
+
+La progresión puede resumirse como:
+
+> **Página → Aplicación → Juego**  
+> **Visual → Interacción → Experiencia**
+
+## 🖥️ Actividad de producción digital
+
+El flujo adoptado es:
+
+**Idea → Briefing → Prompt → Creación asistida por IA → Personalización → Prueba → Publicación → Portafolio**
+
+Los proyectos se organizan por **Turma 1, Turma 2 y Turma 3**, y por plataforma.
+
+| Turma | B12 | Base44 | InstaPlay | Total |
+|---|---:|---:|---:|---:|
+| Turma 1 | 7 | 16 | 4 | 27 |
+| Turma 2 | 4 | 5 | 0 | 9 |
+| Turma 3 | 13 | 13 | 0 | 26 |
+| **Total** | **24** | **34** | **4** | **62** |
 
 ## 🎯 Propósito
 
-Desarrollar la capacidad de **pensar, planificar, crear, evaluar y mejorar soluciones visuales**.
+Desarrollar la capacidad de **pensar, planificar, crear, evaluar, revisar y mejorar soluciones de comunicación y experiencias digitales**.
 
-**Fundamentos → Aplicación → Proyecto → Revisión → Mejora → Portafolio**
+**Pensamiento → Planificación → Creación → Prueba → Reflexión → Mejora → Portafolio**
 
 ## 🧠 Enfoque educativo
 
@@ -52,24 +68,22 @@ Desarrollar la capacidad de **pensar, planificar, crear, evaluar y mejorar soluc
 - Organización del pensamiento
 - Autonomía y responsabilidad
 - Trabajo colaborativo
-- Aprendizaje práctico y mejora continua
+- Aprendizaje práctico
+- Feedback y mejora continua
+- Uso consciente de Inteligencia Artificial
 
-## 📚 Contenidos
+## 📚 Contenidos y competencias
 
-Fundamentos del diseño gráfico, teoría del color, tipografía, composición, comunicación visual, Google Presentaciones, edición de imágenes, storytelling, Canva, identidad visual, kit de marca, portafolio, proyectos web, prototipos y flujos de creación asistida por IA.
-
-## 🗂️ Documentación
-
-Consulta la documentación en portugués para el registro completo del recorrido educativo y la estructura de los proyectos.
+Fundamentos del diseño gráfico, teoría del color, tipografía, composición, comunicación visual, storytelling, identidad visual, kit de marca, Google Presentaciones, Canva, B12 Editor, Base44 e InstaPlay, páginas web, aplicaciones, prototipos, interfaces, flujos de interacción, creación de juegos, briefing, planificación, revisión, presentación, retrospectiva y justificación profesional de decisiones de diseño.
 
 ## 🔒 Privacidad
 
-La documentación pública está sanitizada. En los registros del portafolio se utilizan únicamente identificadores anónimos, fecha de creación y enlaces públicos del proyecto cuando no exponen información personal. No deben publicarse nombres completos, datos individuales de evaluación, contactos personales, credenciales, contraseñas, tokens ni otra información personal innecesaria.
+La documentación técnica está sanitizada y utiliza identificadores anónimos. El GitHub Pages puede mostrar nombres de pila porque funciona como espacio de consulta educativa para educandos y equipo. No deben publicarse nombres completos, datos individuales de evaluación, contactos personales, credenciales, contraseñas, tokens ni otra información personal innecesaria.
 
 ## 📈 Estado
 
-🟢 **Proyecto en desarrollo continuo**
+🟢 **Proyecto en desarrollo continuo — 3 plataformas integradas**
 
 ---
 
-> **Crear no es solamente producir algo bonito. Es observar, pensar, comunicar, revisar y transformar una idea en una solución con propósito.**
+> **El Diseño Gráfico no consiste solamente en decorar una página. Consiste en organizar elementos, comunicar una idea, probar una solución y transformar decisiones visuales en experiencias con propósito.**

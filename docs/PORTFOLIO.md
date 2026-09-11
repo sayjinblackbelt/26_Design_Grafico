@@ -65,6 +65,9 @@ Os educandos são identificados exclusivamente por códigos anônimos. Os links 
 |---|---|---|---|
 | T2-02 | YasPlay Watch Hub | 04/09/2026 | [Abrir projeto](https://yasplay-watch-hub.base44.app) |
 | T2-01 | Cine Ana Hub | 04/09/2026 | [Abrir projeto](https://cine-ana-hub.base44.app) |
+| T2-02 | Desafio Play Zone | 08/09/2026 | [Abrir projeto](https://desafio-play-zone.base44.app) |
+| T2-01 | Reflex Bolt Play | 08/09/2026 | [Abrir projeto](https://reflex-bolt-play.base44.app) |
+| T2-02 | Flee the Dweller | 08/09/2026 | [Abrir projeto](https://flee-the-dweller.base44.app) |
 
 ## Turma 3
 

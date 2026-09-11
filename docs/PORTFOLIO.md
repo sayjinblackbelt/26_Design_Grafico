@@ -1,8 +1,8 @@
-# Portfólio de Projetos Web — Design Gráfico
+# Portfólio de Projetos Digitais — Design Gráfico
 
 > 🇧🇷 **Português** | [README do projeto](../README.md)
 
-Este portfólio reúne projetos publicados pelos educandos na atividade de criação de páginas web e protótipos com apoio de ferramentas digitais e Inteligência Artificial.
+Este portfólio reúne projetos publicados pelos educandos na atividade de criação de páginas web, aplicações, protótipos e jogos com apoio de ferramentas digitais e Inteligência Artificial.
 
 **Fluxo:** Ideia → Briefing → Prompt → Criação → Personalização → Teste → Publicação → Portfólio
 
@@ -12,7 +12,7 @@ Este portfólio reúne projetos publicados pelos educandos na atividade de cria�
 
 ## Organização pública
 
-Os educandos são identificados exclusivamente por códigos anônimos. Os links abaixo são mantidos para consulta dos próprios educandos e da equipe. Quando um projeto não possui endereço público registrado, o campo permanece como **—**.
+Os educandos são identificados exclusivamente por códigos anônimos. Os links abaixo são mantidos para consulta dos próprios educandos e da equipe.
 
 ## Turma 1
 
@@ -46,7 +46,7 @@ Os educandos são identificados exclusivamente por códigos anônimos. Os links 
 | T1-06 | Meek Master Music Path | 08/09/2026 | [Abrir projeto](https://meek-master-music-path.base44.app) |
 | T1-05 | Mystic Quest Link | 08/09/2026 | [Abrir projeto](https://mystic-quest-link.base44.app) |
 | T1-03 | Soft Pole Trivia Dash | 08/09/2026 | [Abrir projeto](https://soft-pole-trivia-dash.base44.app) |
-| T1-?? | Aldenor RPG Saga | 08/09/2026 | [Abrir projeto](https://aldenor-rpg-saga.base44.app) |
+| T1-01 | Aldenor RPG Saga | 08/09/2026 | [Abrir projeto](https://aldenor-rpg-saga.base44.app) |
 
 ### InstaPlay
 
@@ -116,6 +116,15 @@ Os educandos são identificados exclusivamente por códigos anônimos. Os links 
 | T3-10 | Radical Play Learn Bloom | 03/09/2026 | [Abrir projeto](https://radical-play-learn-bloom.base44.app) |
 | T3-01 | Misterio Play Lab | 03/09/2026 | [Abrir projeto](https://misterio-play-lab.base44.app) |
 
+## Totais
+
+| Turma | B12 | Base44 | InstaPlay | Total |
+|---|---:|---:|---:|---:|
+| Turma 1 | 7 | 16 | 4 | 27 |
+| Turma 2 | 4 | 5 | 0 | 9 |
+| Turma 3 | 13 | 13 | 0 | 26 |
+| **Total** | **24** | **34** | **4** | **62** |
+
 ## Privacidade
 
-Os registros utilizam somente identificadores anônimos. Não publicar nomes completos, contatos, dados individuais de avaliação ou outros identificadores pessoais neste portfólio.
+Os registros utilizam somente identificadores anônimos. Não publicar nomes completos, contatos, dados individuais de avaliação, credenciais, senhas ou outros identificadores pessoais neste portfólio.

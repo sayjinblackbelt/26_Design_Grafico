@@ -2,7 +2,7 @@
 
 ## PMT
 
-Este roadmap apresenta a progressão do percurso pedagógico da oficina de **Design Gráfico** ao longo de 2026.
+Este roadmap apresenta a progressão do percurso pedagógico da oficina de **Design Gráfico** ao longo de 2026, da comunicação visual à criação de experiências digitais interativas.
 
 ---
 
@@ -42,8 +42,8 @@ Uso de Sprints Educacionais para:
 ### 8. Storytelling e narrativa visual
 Organização de mensagens por meio de contexto, desenvolvimento, mudança e mensagem.
 
-### 9. B12 Editor
-Exploração de narrativa visual e audiovisual por meio de imagem, texto, sequência, ritmo e música.
+### 9. B12 Editor — Página Web
+Aplicação dos princípios de Design em páginas web publicáveis, trabalhando identidade, composição, organização de conteúdo, narrativa e comunicação digital.
 
 ### 10. Canva
 Ampliação do repertório de ferramentas para criação de layouts, personalização, composição e materiais gráficos.
@@ -62,38 +62,55 @@ Organização de:
 ### 13. Projeto Gráfico Autoral
 Criação de uma solução visual completa a partir de briefing, planejamento, criação, revisão e entrega.
 
-### 14. Portfólio
-Seleção, organização e publicação dos principais projetos desenvolvidos.
+### 14. Base44 — Página Web e App
+Ampliação do percurso para páginas e aplicações interativas, trabalhando interfaces, componentes, fluxos, prototipação e experiência digital com apoio de IA.
 
-### 15. Apresentação Final
-Preparação para apresentar projetos e explicar decisões de Design.
+### 15. InstaPlay — Criação de Jogos
+Ampliação para jogos criados com apoio de Inteligência Artificial, explorando conceito, mecânicas, regras, narrativa, interação, feedback e experiência do usuário.
+
+### 16. Portfólio Digital
+Seleção, organização e publicação dos projetos desenvolvidos, com registros por turma, plataforma e data.
+
+### 17. Apresentação e retrospectiva
+Preparação para apresentar projetos, explicar decisões, demonstrar processo, receber feedback e refletir sobre melhorias.
 
 ---
 
-## 🟢 Status da revisão do portfólio
+# 📈 Evolução do percurso
 
-As etapas de **10 a 14** foram revisadas e validadas durante a auditoria do repositório.
+**Fundamentos → Página Web → Aplicação → Jogo → Portfólio**
 
-O portfólio digital está publicado no GitHub Pages e utiliza identificadores anônimos para os educandos.
+Ou, em termos de complexidade:
+
+**Visual → Interação → Experiência**
+
+A ferramenta muda, mas os princípios permanecem: comunicação, organização visual, intenção, teste, revisão e reflexão.
+
+---
+
+## 🟢 Status atual
+
+O projeto encontra-se em **desenvolvimento contínuo**, com três plataformas de produção digital integradas:
+
+- **B12 Editor:** páginas web;
+- **Base44:** páginas web e aplicações;
+- **InstaPlay:** criação de jogos.
+
+O portfólio atual registra **62 projetos**, distribuídos entre Turma 1, Turma 2 e Turma 3.
 
 ### Próxima etapa
 
-**15. Apresentação Final**
+**Apresentação, análise e retrospectiva dos projetos**, com foco em:
 
-Foco:
 - seleção dos projetos;
 - organização da apresentação;
 - explicação do briefing;
-- justificativa das decisões visuais;
+- justificativa das decisões visuais e interativas;
 - demonstração do processo;
-- reflexão sobre aprendizagem e melhorias.
+- comparação entre ferramentas;
+- reflexão sobre aprendizagem;
+- identificação de melhorias.
 
 ---
 
-# 📈 Visão geral
-
-**Fundamentos → Ferramentas → Aplicação → Projetos → Identidade → Portfólio → Apresentação**
-
----
-
-> O objetivo do percurso é desenvolver não apenas domínio de ferramentas, mas a capacidade de tomar decisões visuais conscientes, justificar escolhas e transformar ideias em soluções de comunicação.
+> O objetivo do percurso é desenvolver não apenas domínio de ferramentas, mas a capacidade de tomar decisões conscientes, justificar escolhas e transformar ideias em soluções de comunicação e experiências digitais.

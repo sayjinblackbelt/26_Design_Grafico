@@ -4,6 +4,7 @@ on:
   workflow_dispatch:
   push:
     paths:
+      - 'docs/index.html'
       - 'docs/carrossel.html'
       - '.github/workflows/capturar-capas.yml'
 
@@ -33,11 +34,16 @@ jobs:
           const fs = require('fs');
           const { chromium } = require('playwright');
 
-          const html = fs.readFileSync('docs/carrossel.html', 'utf8');
-          const urls = [...html.matchAll(/\['(?:Turma [123])','[^']+','[^']+','(?:B12|Base44)','[^']+','(https?:\/\/[^']+)'\]/g)]
-            .map(m => m[1]);
+          // A fonte dos dados do portfólio é docs/index.html.
+          // O carrossel consome esses mesmos dados automaticamente.
+          const html = fs.readFileSync('docs/index.html', 'utf8');
+          const match = html.match(/const projects=(\[.*?\]);/s);
+          if (!match) throw new Error('Dados do portfólio não encontrados em docs/index.html');
 
+          const projects = Function('return ' + match[1])();
+          const urls = projects.map(project => project[5]).filter(Boolean);
           const unique = [...new Set(urls)];
+
           fs.mkdirSync('docs/assets/projetos', { recursive: true });
 
           const slug = u => u.replace(/^https?:\/\//,'').replace(/[^a-z0-9]+/gi,'-').replace(/^-|-$/g,'').toLowerCase();
@@ -46,28 +52,29 @@ jobs:
             const browser = await chromium.launch({headless:true});
             const page = await browser.newPage({ viewport:{width:1440,height:900}, deviceScaleFactor:1 });
 
+            let failures = 0;
             for (const url of unique) {
               const file = `docs/assets/projetos/${slug(url)}.jpg`;
               try {
                 await page.goto(url, {waitUntil:'domcontentloaded', timeout:30000});
                 await page.waitForTimeout(2500);
-                await page.screenshot({path:file, type:'jpeg', quality:78});
+                await page.screenshot({path:file, type:'jpeg', quality:78, fullPage:false});
                 console.log('OK', url);
               } catch (e) {
+                failures++;
                 console.log('FALHA', url, e.message);
               }
             }
+
             await browser.close();
+            if (failures > 0) console.log(`Concluído com ${failures} falha(s) de captura; os projetos continuam disponíveis pelos links.`);
           })();
           NODE
-
-      - name: Atualizar referências para JPG
-        run: sed -i 's/\.png/\.jpg/g' docs/carrossel.html
 
       - name: Publicar capas
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/assets/projetos docs/carrossel.html
-          git diff --cached --quiet || git commit -m "feat: adicionar capas visuais dos projetos"
+          git add docs/assets/projetos
+          git diff --cached --quiet || git commit -m "feat: atualizar capas visuais dos projetos"
           git push

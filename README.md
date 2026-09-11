@@ -2,50 +2,108 @@
 
 > 🇧🇷 **Português** | 🇺🇸 [English](README_EN.md) | 🇪🇸 [Español](README_ES.md)
 
-# 🎨 Design Gráfico — Repositório Pedagógico
+# 🎨 PMT — Curso de Design Gráfico 2026
 
-Repositório dedicado ao percurso pedagógico de **Design Gráfico 2026**, reunindo fundamentos, metodologia, atividades, projetos, documentação técnica e o portfólio público dos educandos.
+Este repositório documenta **um único curso de Design Gráfico**, organizado em Turma 1, Turma 2 e Turma 3 por unidade. O objetivo é registrar não apenas os produtos finais, mas principalmente **o percurso de aprendizagem: pesquisa, esboço, referência visual, planejamento, criação, revisão e apresentação**.
 
-> **Mídias Digitais possui proposta e repositório próprios.** As áreas podem ser complementares, mas este projeto documenta especificamente linguagem visual, composição, cor, identidade, produção gráfica e evolução para experiências digitais interativas.
+> **Importante:** B12 Editor, Base44 e InstaPlay não definem o curso. São ferramentas e linguagens utilizadas em uma etapa posterior do percurso para materializar ideias de Design em produtos e experiências digitais.
+
+## ⭐ Projeto principal — Curso de Design Gráfico
+
+O repositório deve ser lido como um **portfólio pedagógico evolutivo**. O destaque principal é o próprio percurso do curso e sua transformação em portfólios finais.
+
+O trabalho do educador funciona como **modelo e referência de organização de portfólio**, enquanto os trabalhos dos educandos constituem os registros da aprendizagem e da evolução ao longo do curso.
+
+### Primeiro semestre — pensar e projetar
+
+Antes da produção digital final, o percurso trabalhou a base do Design Gráfico:
+
+- fundamentos de comunicação visual;
+- composição e organização dos elementos;
+- contraste, alinhamento, proximidade e repetição;
+- hierarquia e espaço em branco;
+- teoria e aplicação das cores;
+- tipografia e legibilidade;
+- identidade visual;
+- **esboços e exploração de alternativas**;
+- **moodboards e pesquisa de referências**;
+- desenvolvimento e amadurecimento das ideias;
+- planejamento visual antes da execução.
+
+Essa etapa é essencial: **primeiro se aprende a observar, pensar, organizar e justificar; depois se escolhe a ferramenta para produzir.**
+
+### Segundo semestre — produzir, experimentar e apresentar
+
+Na etapa atual, os estudos desenvolvidos anteriormente estão sendo transformados em produções digitais e, principalmente, em **estruturas finais de portfólio**.
+
+A progressão prática é:
+
+**B12 Editor → Base44 → InstaPlay → Portfólio**
+
+- **B12 Editor:** criação e publicação de páginas web;
+- **Base44:** criação de páginas web e aplicações com interação;
+- **InstaPlay:** criação de jogos e experiências interativas;
+- **Portfólio:** seleção, organização, apresentação e reflexão sobre os trabalhos.
+
+A lógica não é aprender três ferramentas isoladas. É ampliar gradualmente o problema de Design:
+
+> **Visual → Interação → Experiência → Apresentação profissional**
+
+## 🧭 A trajetória completa
+
+**Fundamentos → Esboços → Moodboard → Planejamento → Criação → Produção digital → Teste → Revisão → Portfólio**
+
+Ou, na perspectiva do produto:
+
+**Ideia → Briefing → Pesquisa → Conceito → Execução → Teste → Ajuste → Publicação → Portfólio**
+
+O curso, portanto, não começou nas páginas web. As páginas, aplicações e jogos são **evidências de uma formação em Design Gráfico** que começou com linguagem visual e desenvolvimento de projeto.
+
+## 🖼️ Portfólio-modelo e portfólios dos educandos
+
+O **portfólio do educador** é utilizado como modelo e referência para discutir como um trabalho de Design pode ser organizado, apresentado e contextualizado.
+
+A etapa atual busca levar os educandos a construir seus próprios portfólios, selecionando e organizando os resultados de sua trajetória.
+
+O objetivo é que o portfólio responda a perguntas como:
+
+- O que foi desenvolvido?
+- Qual era a ideia ou problema?
+- Que referências foram utilizadas?
+- Como a solução foi construída?
+- Quais decisões de Design foram tomadas?
+- O que foi testado e revisado?
+- O que o resultado demonstra sobre a aprendizagem?
 
 ## 🌐 Portfólio público
 
 **GitHub Pages:** https://sayjinblackbelt.github.io/26_Design_Grafico/
 
-O GitHub Pages funciona como **interface principal de consulta pedagógica** para educandos e equipe. A página pública pode apresentar primeiro nome, turma, plataforma, data e link do projeto.
+A página pública funciona como espaço de consulta dos projetos publicados. Ela apresenta primeiro nome, turma, plataforma, data e link, conforme a finalidade pedagógica definida para o projeto.
 
 A documentação técnica permanece sanitizada e utiliza identificadores anônimos.
 
-## 🚀 Evolução do projeto
+## 🧩 As plataformas dentro do curso
 
-O percurso evoluiu de fundamentos de comunicação visual para a criação de produtos digitais cada vez mais interativos:
+### 1. B12 Editor — Página Web
 
-**Fundamentos → Composição → Identidade → Página Web → Aplicação → Jogo → Portfólio**
+Primeira etapa de materialização digital. Os educandos aplicam princípios de composição, hierarquia, tipografia, cor, identidade e organização de conteúdo em páginas publicáveis.
 
-### 1. Página Web — B12 Editor
+**Pergunta de projeto:** como transformar uma ideia em uma comunicação visual organizada e publicada na Web?
 
-Primeira etapa prática de produção digital. Os educandos aplicam composição, hierarquia, tipografia, cor, identidade visual, organização de conteúdo e publicação na criação de páginas web.
+### 2. Base44 — Página Web + App
 
-### 2. Página Web e App — Base44
+Ampliação do problema de Design para interfaces, componentes, fluxos, navegação e interação.
 
-Segunda etapa de ampliação. A criação deixa de trabalhar somente a apresentação visual e passa a explorar **interação, fluxos, componentes, prototipação e experiências digitais**. A ferramenta é utilizada como meio para transformar ideias e briefings em páginas e aplicações.
+**Pergunta de projeto:** como transformar uma solução visual em uma experiência digital que o usuário possa explorar e utilizar?
 
-### 3. Criação de Jogos — InstaPlay
+### 3. InstaPlay — Criação de Jogos
 
-Terceira etapa de ampliação da linguagem digital. Os educandos experimentam a criação de **jogos com apoio de Inteligência Artificial**, trabalhando conceito, mecânicas, interação, narrativa e experiência do usuário.
+Ampliação para sistemas interativos com regras, objetivos, mecânicas, feedback, narrativa e desafio, utilizando IA como apoio à criação.
 
-A progressão pedagógica pode ser sintetizada como:
+**Pergunta de projeto:** como projetar uma experiência em que o usuário participa, toma decisões e recebe respostas do sistema?
 
-> **Página → Aplicação → Jogo**  
-> **Visual → Interação → Experiência**
-
-## 🖥️ Atividade de produção digital
-
-O fluxo de trabalho adotado é:
-
-**Ideia → Briefing → Prompt → Criação assistida por IA → Personalização → Teste → Publicação → Portfólio**
-
-As publicações estão organizadas por **Turma 1, Turma 2 e Turma 3** e por plataforma.
+## 📊 Registros atuais
 
 | Turma | B12 | Base44 | InstaPlay | Total |
 |---|---:|---:|---:|---:|
@@ -54,40 +112,28 @@ As publicações estão organizadas por **Turma 1, Turma 2 e Turma 3** e por pla
 | Turma 3 | 13 | 13 | 0 | 26 |
 | **Total** | **24** | **34** | **4** | **62** |
 
-> Os números representam registros publicados no portfólio e podem crescer durante a continuidade da atividade.
-
-### Critérios de registro
-
-- Somente projetos efetivamente registrados no portfólio.
-- Separação por turma e plataforma.
-- B12 apresentado antes de Base44 e InstaPlay dentro de cada turma.
-- Data de criação registrada quando disponível.
-- Documentação técnica com identificadores anônimos.
-- Página pública com primeiro nome quando previsto para consulta pedagógica.
-- Links publicados são registros permanentes e não devem ser removidos durante atualizações de rotina.
-
-## 🎯 Propósito
-
-Desenvolver a capacidade de **pensar, planejar, criar, avaliar, revisar e melhorar soluções de comunicação e experiências digitais**.
-
-**Pensamento → Planejamento → Criação → Teste → Reflexão → Melhoria → Portfólio**
+Os 62 registros são **evidências de uma etapa do curso**, e não a totalidade da formação em Design Gráfico.
 
 ## 🧠 Abordagem pedagógica
 
 - Aprendizagem Baseada em Projetos (PBL)
 - Sprints educacionais inspirados em Scrum
-- Perguntas norteadoras e reflexão
+- Pedagogia Heulosófica
+- Perguntas norteadoras e diálogo maiêutico
 - Organização do pensamento
 - Autonomia e responsabilidade
 - Trabalho colaborativo
-- Aprendizagem prática
 - Feedback e melhoria contínua
 - Uso consciente de Inteligência Artificial
+- Relação entre processo criativo e mundo do trabalho
 
 ## 📚 Conteúdos e competências
 
 ### Fundamentos de Design
 Contraste, alinhamento, proximidade, repetição, hierarquia, espaço em branco, equilíbrio, formas, composição, tipografia e legibilidade.
+
+### Pesquisa e desenvolvimento
+Referências, moodboards, esboços, exploração de alternativas, conceito visual, briefing e planejamento.
 
 ### Cor e identidade
 Teoria das cores, contraste, harmonia, paletas, identidade visual, logotipo, tipografia e kit de marca.
@@ -96,13 +142,19 @@ Teoria das cores, contraste, harmonia, paletas, identidade visual, logotipo, tip
 Storytelling, arquitetura da informação, narrativa visual, comunicação audiovisual e organização de mensagens.
 
 ### Produção digital
-Google Apresentações, Canva, B12 Editor, Base44 e InstaPlay.
+Canva, Google Apresentações, B12 Editor, Base44 e InstaPlay.
 
 ### Experiências digitais
 Páginas web, aplicações, protótipos, interfaces, fluxos de interação e criação de jogos.
 
 ### Mundo do trabalho
-Briefing, pesquisa, planejamento, criação, revisão, entrega, apresentação, retrospectiva e justificativa das decisões de Design.
+Briefing, pesquisa, planejamento, criação, revisão, entrega, apresentação, retrospectiva, justificativa das decisões e construção de portfólio.
+
+## 🎯 Propósito
+
+Desenvolver educandos capazes de **observar, pensar, planejar, criar, testar, revisar, justificar e apresentar soluções de comunicação visual e experiências digitais**.
+
+> **A ferramenta muda; o pensamento de Design permanece.**
 
 ## 🗂️ Documentação
 
@@ -121,12 +173,8 @@ Briefing, pesquisa, planejamento, criação, revisão, entrega, apresentação, 
 
 ## 🔒 Privacidade
 
-A documentação técnica é sanitizada e utiliza identificadores anônimos. O GitHub Pages pode exibir o **primeiro nome** dos educandos porque foi definido como espaço de consulta pedagógica para educandos e equipe. Não devem ser publicados sobrenomes, dados individuais de avaliação, contatos pessoais, credenciais, senhas, tokens ou outras informações pessoais desnecessárias.
+A documentação técnica utiliza identificadores anônimos. O GitHub Pages pode exibir o primeiro nome dos educandos por ser espaço de consulta pedagógica. Não devem ser publicados sobrenomes, dados individuais de avaliação, contatos, credenciais, senhas, tokens ou outras informações pessoais desnecessárias.
 
 ## 📈 Status
 
-🟢 **Projeto em desenvolvimento contínuo — 3 plataformas integradas**
-
----
-
-> **Design Gráfico não é apenas decorar uma página. É organizar elementos, comunicar uma ideia, testar uma solução e transformar decisões visuais em experiências com propósito.**
+🟢 **Curso em desenvolvimento contínuo — portfólio pedagógico em consolidação**

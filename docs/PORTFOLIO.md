@@ -1,18 +1,104 @@
-# Portfólio de Projetos Digitais — Design Gráfico
+# 🎨 Portfólio — PMT Design Gráfico 2026
 
 > 🇧🇷 **Português** | [README do projeto](../README.md)
 
-Este portfólio reúne projetos publicados pelos educandos na atividade de criação de páginas web, aplicações, protótipos e jogos com apoio de ferramentas digitais e Inteligência Artificial.
+## O que este portfólio representa
 
-**Fluxo:** Ideia → Briefing → Prompt → Criação → Personalização → Teste → Publicação → Portfólio
+Este é o portfólio pedagógico de **um único curso de Design Gráfico**, organizado em Turma 1, Turma 2 e Turma 3.
 
-> **Padrão:** dentro de cada turma, os projetos aparecem primeiro em **B12**, depois em **Base44** e depois em **InstaPlay**. Cada registro informa a **data de criação** quando disponível.
->
-> **Regra de preservação:** links de projetos publicados são registros permanentes do portfólio e **não devem ser removidos, substituídos ou convertidos em `—`** durante atualizações. Correções devem preservar o link original; somente o educador responsável poderá solicitar a alteração de um endereço que tenha deixado de funcionar.
+Os projetos digitais registrados aqui são **evidências de uma etapa da formação**, não a definição do curso. O percurso começou no primeiro semestre com fundamentos, esboços, exploração visual, referências e moodboards. No segundo semestre, esses conhecimentos passaram a ser aplicados em produtos digitais e agora estão sendo organizados em estruturas finais de portfólio.
 
-## Organização pública
+### Percurso do curso
 
-Os educandos são identificados exclusivamente por códigos anônimos. Os links abaixo são mantidos para consulta dos próprios educandos e da equipe.
+**Fundamentos → Esboços → Moodboard → Planejamento → Criação → Produção digital → Teste → Revisão → Portfólio**
+
+### Produção digital
+
+**B12 Editor → Base44 → InstaPlay**
+
+- **B12 Editor:** Página Web
+- **Base44:** Página Web + App
+- **InstaPlay:** Criação de Jogos
+
+As plataformas são meios de produção dentro do curso de Design Gráfico.
+
+---
+
+## ⭐ Portfólio-modelo do educador
+
+O portfólio do educador é utilizado como **modelo e referência pedagógica** para discutir como organizar, selecionar, contextualizar e apresentar trabalhos de Design.
+
+A referência serve para orientar os educandos na construção de seus próprios portfólios, sem substituir a autoria ou a trajetória individual de cada um.
+
+O objetivo da etapa atual é passar de uma coleção de links para uma apresentação capaz de responder:
+
+- o que foi criado;
+- por que foi criado;
+- quais referências orientaram o trabalho;
+- como a solução foi desenvolvida;
+- quais decisões de Design foram tomadas;
+- o que foi testado e revisado;
+- o que o projeto demonstra sobre a aprendizagem.
+
+---
+
+## 📚 Primeiro semestre — base do Design
+
+A produção final deve ser compreendida a partir do trabalho realizado anteriormente:
+
+- fundamentos de comunicação visual;
+- composição;
+- contraste, alinhamento, proximidade e repetição;
+- hierarquia e espaço em branco;
+- teoria das cores;
+- tipografia e legibilidade;
+- identidade visual;
+- **esboços e exploração de alternativas**;
+- **moodboards e pesquisa de referências**;
+- desenvolvimento de conceitos;
+- planejamento visual.
+
+Essa etapa continua sendo parte do portfólio, mesmo quando o resultado final aparece em uma plataforma digital.
+
+---
+
+## 🚀 Segundo semestre — produção e consolidação
+
+A etapa atual transforma os estudos em produtos digitais e, principalmente, organiza os resultados para a construção dos portfólios finais.
+
+### 1. B12 Editor — Página Web
+
+Aplicação de composição, hierarquia, cor, tipografia, identidade e organização da informação em uma página publicável.
+
+### 2. Base44 — Página Web + App
+
+Ampliação para interfaces, componentes, fluxos, navegação e interação.
+
+### 3. InstaPlay — Criação de Jogos
+
+Ampliação para experiências interativas com objetivos, regras, mecânicas, feedback, narrativa e participação do usuário.
+
+### 4. Portfólio — apresentação da trajetória
+
+Seleção, organização, contextualização, apresentação e reflexão sobre os trabalhos desenvolvidos.
+
+---
+
+## 🔄 Fluxo de projeto
+
+**Ideia → Briefing → Pesquisa → Esboço / Moodboard → Conceito → Prompt → Criação assistida → Personalização → Teste → Revisão → Publicação → Portfólio**
+
+O fluxo pode variar conforme a atividade, mas a intenção é preservar a relação entre **pensamento, decisão, produção e reflexão**.
+
+---
+
+## Organização dos registros
+
+Os registros técnicos utilizam identificadores anônimos (`T1-XX`, `T2-XX`, `T3-XX`). A página pública pode apresentar primeiro nome, turma, plataforma, data e link para consulta pedagógica.
+
+> **Regra de preservação:** links de projetos publicados são registros permanentes do portfólio e **não devem ser removidos, substituídos ou convertidos em `—`** durante atualizações. Correções devem preservar o link original; somente o educador responsável poderá solicitar a alteração de um endereço.
+
+> **Ordem:** dentro de cada turma, os registros aparecem em B12, Base44 e InstaPlay. A ordem representa a progressão das plataformas na etapa de produção digital, não a totalidade do curso.
 
 ## Turma 1
 
@@ -116,7 +202,9 @@ Os educandos são identificados exclusivamente por códigos anônimos. Os links 
 | T3-10 | Radical Play Learn Bloom | 03/09/2026 | [Abrir projeto](https://radical-play-learn-bloom.base44.app) |
 | T3-01 | Misterio Play Lab | 03/09/2026 | [Abrir projeto](https://misterio-play-lab.base44.app) |
 
-## Totais
+---
+
+## 📊 Totais atuais
 
 | Turma | B12 | Base44 | InstaPlay | Total |
 |---|---:|---:|---:|---:|
@@ -125,6 +213,8 @@ Os educandos são identificados exclusivamente por códigos anônimos. Os links 
 | Turma 3 | 13 | 13 | 0 | 26 |
 | **Total** | **24** | **34** | **4** | **62** |
 
-## Privacidade
+> **Leitura correta dos números:** 62 é o total de registros digitais publicados nesta etapa. O curso também inclui fundamentos, esboços, moodboards, estudos, planejamento e construção dos portfólios finais.
 
-Os registros utilizam somente identificadores anônimos. Não publicar nomes completos, contatos, dados individuais de avaliação, credenciais, senhas ou outros identificadores pessoais neste portfólio.
+## 🔒 Privacidade
+
+A documentação técnica utiliza identificadores anônimos. Não publicar sobrenomes, contatos, dados individuais de avaliação, credenciais, senhas ou outros identificadores pessoais desnecessários.

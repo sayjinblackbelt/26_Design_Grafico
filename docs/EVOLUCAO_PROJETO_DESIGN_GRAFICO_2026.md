@@ -1,20 +1,23 @@
-# 📈 Evolução do Projeto — Design Gráfico 2026
+# 📈 Evolução do Curso — Design Gráfico 2026
 
-## 1. Visão geral
+## 1. O que este projeto documenta
 
-O projeto de Design Gráfico 2026 evoluiu de uma proposta centrada em fundamentos de comunicação visual para um percurso de **produção de experiências digitais**.
+Este repositório registra o percurso de **um único curso: PMT — Design Gráfico**.
 
-A progressão registrada no projeto é:
+Turma 1, Turma 2 e Turma 3 representam diferentes turmas/unidades dentro do mesmo curso. B12 Editor, Base44 e InstaPlay são ferramentas utilizadas em momentos específicos do percurso; não são cursos independentes.
 
-**Fundamentos → Composição → Identidade → Página Web → Aplicação → Jogo → Portfólio**
+A documentação passa a apresentar o curso em duas grandes fases:
 
-Essa evolução não representa apenas a troca de ferramentas. Ela representa o aumento gradual da complexidade dos problemas propostos aos educandos.
+**1º semestre — aprender a pensar e projetar**  
+**2º semestre — materializar, experimentar e construir o portfólio**
 
 ---
 
-## 2. Etapa 1 — Fundamentos e comunicação visual
+## 2. Primeiro semestre — fundamentos, esboços e moodboards
 
-O percurso começou com fundamentos de Design Gráfico, incluindo:
+O primeiro semestre estabeleceu a base conceitual e visual necessária para o desenvolvimento dos projetos.
+
+### Fundamentos trabalhados
 
 - contraste;
 - alinhamento;
@@ -25,42 +28,73 @@ O percurso começou com fundamentos de Design Gráfico, incluindo:
 - equilíbrio;
 - formas e composição;
 - teoria das cores;
-- tipografia;
+- tipografia e legibilidade;
 - organização da informação;
+- identidade visual;
 - storytelling e comunicação visual.
 
-O objetivo inicial foi desenvolver a capacidade de **observar, organizar e comunicar** antes de depender de ferramentas específicas.
+### Processo de criação
+
+O trabalho não ficou restrito à execução. Os educandos passaram por momentos de:
+
+**observar → pesquisar → reunir referências → fazer esboços → comparar alternativas → escolher direções → amadurecer conceitos**
+
+Os **moodboards** tiveram função importante nesse processo, ajudando a transformar referências dispersas em uma direção visual coerente.
+
+Os **esboços** permitiram explorar soluções antes da produção digital, reforçando que a ferramenta não substitui o pensamento de Design.
+
+### Competência construída
+
+> **Antes de produzir, saber observar, organizar referências, experimentar e tomar decisões visuais.**
 
 ---
 
-## 3. Etapa 2 — Página Web com B12 Editor
+## 3. Transição — do estudo para o produto
 
-O **B12 Editor** introduziu a aplicação dos princípios de Design em páginas web publicáveis.
+Com os fundamentos e estudos visuais estabelecidos, o curso passou a transformar ideias em produtos digitais completos.
 
-Nesta etapa, os educandos passaram a trabalhar com:
+A lógica mudou de:
+
+> **estudar elementos isolados**
+
+para:
+
+> **resolver problemas de comunicação por meio de um projeto completo.**
+
+É nesse ponto que entram B12 Editor, Base44 e, posteriormente, InstaPlay.
+
+---
+
+## 4. B12 Editor — Página Web
+
+O B12 Editor foi utilizado como primeira etapa de produção digital estruturada.
+
+Os educandos passaram a aplicar seus conhecimentos em:
 
 - estrutura de página;
-- hierarquia visual aplicada à Web;
+- hierarquia visual;
 - identidade visual;
-- organização de conteúdo;
+- composição;
+- tipografia;
+- cor;
 - imagens e elementos gráficos;
-- comunicação para público definido;
-- publicação de páginas;
-- revisão da experiência visual.
+- organização de conteúdo;
+- comunicação para um público definido;
+- publicação e revisão.
 
-A principal mudança pedagógica foi passar de peças isoladas para um **produto digital completo**.
+### Mudança de complexidade
 
-### Competência central
+O educando deixa de trabalhar somente uma composição e passa a construir um **produto digital completo**.
 
-**Transformar uma ideia em uma página web visualmente coerente e comunicativa.**
+**Competência central:** transformar uma ideia em uma página web coerente, comunicativa e publicável.
 
 ---
 
-## 4. Etapa 3 — Página Web e App com Base44
+## 5. Base44 — Página Web + App
 
-O **Base44** ampliou o desafio para páginas e aplicações com maior possibilidade de interação.
+O Base44 amplia o problema para experiências digitais interativas.
 
-O foco passou a incluir:
+O foco passa a incluir:
 
 - interfaces;
 - componentes;
@@ -68,23 +102,21 @@ O foco passou a incluir:
 - navegação;
 - interação;
 - prototipação;
-- organização de funcionalidades;
-- experiências digitais;
+- funcionalidades;
+- experiências de usuário;
 - uso de Inteligência Artificial na construção e personalização.
 
-A ferramenta passou a ser tratada como meio de criação, enquanto os princípios de Design continuaram orientando as decisões.
+A ferramenta não substitui os fundamentos de Design. Ela oferece um novo meio para aplicá-los.
 
-### Competência central
-
-**Transformar um briefing em uma experiência digital interativa.**
+**Competência central:** transformar um briefing em uma experiência digital que o usuário possa explorar e utilizar.
 
 ---
 
-## 5. Etapa 4 — Criação de jogos com InstaPlay
+## 6. InstaPlay — criação de jogos
 
-A introdução do **InstaPlay** amplia novamente o conceito de Design para a criação de jogos com apoio de Inteligência Artificial.
+O InstaPlay amplia novamente o campo de projeto para experiências com comportamento e participação do usuário.
 
-Nesta etapa, o educando deixa de pensar somente em uma página ou interface e passa a considerar uma experiência que possui:
+O educando passa a considerar:
 
 - objetivo;
 - regras;
@@ -96,65 +128,85 @@ Nesta etapa, o educando deixa de pensar somente em uma página ou interface e pa
 - progressão;
 - experiência do usuário.
 
-O jogo acrescenta uma camada de **sistema e comportamento**, fazendo com que as decisões de Design sejam relacionadas ao que o usuário fará, e não apenas ao que verá.
+O jogo não é apresentado como desvio do Design Gráfico. Ele é uma oportunidade de aplicar princípios de comunicação, composição, identidade, interface e experiência dentro de um sistema interativo.
 
-### Competência central
-
-**Projetar uma experiência interativa com propósito, regras e participação do usuário.**
+**Competência central:** projetar uma experiência em que o usuário participa, toma decisões e recebe respostas do sistema.
 
 ---
 
-## 6. A progressão pedagógica
+## 7. Segundo semestre — construção dos portfólios
 
-| Etapa | Ferramenta / linguagem | Produto | Pergunta central |
+O momento atual não tem como objetivo apenas produzir mais páginas, aplicativos ou jogos.
+
+O foco é **organizar e consolidar a trajetória em portfólios finais**.
+
+Cada educando começa a transformar seus trabalhos em uma narrativa própria de apresentação:
+
+**selecionar → organizar → contextualizar → apresentar → refletir**
+
+O portfólio deve demonstrar não apenas o resultado, mas o processo de desenvolvimento.
+
+### Perguntas orientadoras
+
+- Qual era a ideia?
+- Qual problema foi trabalhado?
+- Quais referências foram utilizadas?
+- Como o conceito foi desenvolvido?
+- Quais decisões de Design foram tomadas?
+- Como a solução foi produzida?
+- O que foi testado?
+- O que foi revisado?
+- O que este projeto demonstra sobre a aprendizagem?
+
+---
+
+## 8. Portfólio do educador como modelo
+
+O portfólio do educador ocupa uma função pedagógica específica: **servir como modelo de organização, apresentação e contextualização profissional de projetos**.
+
+Ele não substitui a autoria dos educandos. Ele oferece uma referência concreta para discutir:
+
+- seleção de trabalhos;
+- organização visual;
+- narrativa profissional;
+- apresentação de projetos;
+- clareza das informações;
+- relação entre processo e resultado.
+
+A meta é que cada educando consiga construir uma apresentação própria a partir de sua trajetória.
+
+---
+
+## 9. A progressão completa
+
+| Fase | Foco | Produto / evidência | Pergunta central |
 |---|---|---|---|
-| 1 | Fundamentos | Peças e estudos visuais | Como comunicar melhor? |
-| 2 | B12 Editor | Página Web | Como transformar a ideia em uma página? |
-| 3 | Base44 | Página Web / App | Como transformar a página em uma experiência interativa? |
-| 4 | InstaPlay | Jogo | Como transformar a interação em uma experiência jogável? |
-| 5 | Portfólio | Registro público | Como apresentar e explicar o que foi criado? |
+| 1 | Fundamentos | Estudos visuais | Como comunicar melhor? |
+| 2 | Exploração | Esboços | Que soluções são possíveis? |
+| 3 | Referência | Moodboards | Que direção visual faz sentido? |
+| 4 | Planejamento | Briefing e conceito | O que será criado e para quem? |
+| 5 | Produção | Página Web — B12 | Como materializar a solução? |
+| 6 | Interação | Página Web + App — Base44 | Como o usuário interage? |
+| 7 | Experiência | Jogo — InstaPlay | Como o sistema responde à participação? |
+| 8 | Curadoria | Portfólio | Como apresentar o que foi aprendido? |
 
 ### Síntese
 
-> **Página → Aplicação → Jogo**
+> **Pensamento → Projeto → Produção → Experiência → Portfólio**
 >
-> **Visual → Interação → Experiência**
+> **Visual → Interação → Experiência → Apresentação**
 
 ---
 
-## 7. Evolução da complexidade
+## 10. Inteligência Artificial como meio
 
-A complexidade do trabalho pode ser observada em quatro níveis:
+A Inteligência Artificial é utilizada como ferramenta de apoio, não como substituta do pensamento do educando.
 
-### Nível 1 — Comunicação
-
-O educando organiza elementos para transmitir uma mensagem.
-
-### Nível 2 — Produto digital
-
-O educando transforma a mensagem em uma página publicada.
-
-### Nível 3 — Interação
-
-O educando passa a projetar caminhos, componentes e comportamentos de uma aplicação.
-
-### Nível 4 — Experiência
-
-O educando projeta regras, interação, feedback e desafio em um jogo.
-
-Essa progressão favorece a passagem de **executar instruções** para **tomar decisões de projeto**.
-
----
-
-## 8. Inteligência Artificial como meio
-
-A Inteligência Artificial participa do percurso como ferramenta de apoio à criação, e não como substituta do pensamento do educando.
-
-O fluxo adotado é:
+O fluxo de produção é:
 
 **Ideia → Perguntas → Briefing → Prompt → Criação assistida → Personalização → Teste → Revisão → Publicação**
 
-O educando continua responsável por:
+A responsabilidade continua com o educando para:
 
 - definir o problema;
 - escolher o tema;
@@ -166,76 +218,68 @@ O educando continua responsável por:
 
 ---
 
-## 9. Relação com o mundo do trabalho
+## 11. Relação com o mundo do trabalho
 
-A evolução aproxima progressivamente a atividade de um fluxo de produção profissional:
+A trajetória aproxima progressivamente o curso de um fluxo profissional:
 
 **Briefing → Pesquisa → Planejamento → Criação → Teste → Revisão → Entrega → Portfólio → Retrospectiva**
 
-O trabalho deixa de ser avaliado somente pelo resultado visual e passa a considerar também **processo, justificativa, revisão, colaboração, autonomia e capacidade de resolver problemas**.
+O resultado visual é apenas uma parte da competência. Também importam processo, organização, autonomia, justificativa, capacidade de revisão e apresentação.
 
 ---
 
-## 10. Relação com a proposta pedagógica
+## 12. Relação com a Pedagogia Heulosófica
 
-O percurso mantém a integração entre produção técnica e organização do pensamento.
+A produção técnica permanece integrada à organização do pensamento.
 
-As atividades podem ser orientadas pelo movimento:
+O processo favorece:
 
 **Observar → Refletir → Tomar atitude → Agir → Saber esperar**
 
-Na perspectiva da Pedagogia Heulosófica adotada no planejamento, perguntas, revisão e análise de consequências são utilizadas para favorecer autonomia e decisões mais conscientes.
+Perguntas, análise de consequências, revisão e diálogo ajudam o educando a sair da execução automática e assumir decisões de projeto com maior consciência e autonomia.
 
 ---
 
-## 11. Portfólio como etapa de aprendizagem
+## 13. Portfólio como evidência de aprendizagem
 
-O portfólio não é apenas um arquivo de links. Ele funciona como registro da evolução do processo.
+O portfólio deixa de ser uma lista de links e passa a funcionar como **evidência organizada da trajetória**.
 
-Cada projeto representa uma oportunidade para observar:
+A leitura desejada é:
 
-- o problema escolhido;
-- a solução proposta;
-- as decisões visuais;
-- o uso da ferramenta;
-- a interação projetada;
-- a capacidade de testar;
-- a capacidade de revisar;
-- a capacidade de apresentar o resultado.
+> **O que aprendi → como pensei → como desenvolvi → o que produzi → como revisei → o que consigo apresentar.**
+
+Os 62 registros digitais atuais são, portanto, parte do percurso e não sua definição.
 
 ---
 
-## 12. Estado atual — setembro de 2026
+## 14. Estado atual — setembro de 2026
 
-O projeto reúne três plataformas principais de produção digital:
+O curso possui atualmente registros digitais publicados em três plataformas:
 
-- **B12 Editor** — páginas web;
-- **Base44** — páginas web e aplicações;
-- **InstaPlay** — criação de jogos.
+- **B12 Editor** — 24 projetos;
+- **Base44** — 34 projetos;
+- **InstaPlay** — 4 projetos.
 
-O portfólio público reúne atualmente **62 registros**, distribuídos entre as três turmas e as três plataformas registradas.
+Total registrado: **62 projetos digitais**.
 
-A documentação técnica utiliza identificadores anônimos. O portfólio público pode utilizar primeiro nome para consulta pedagógica.
+Esses números representam os produtos publicados nesta etapa do curso. O percurso completo inclui também fundamentos, esboços, moodboards, estudos, decisões de projeto e a construção dos portfólios finais.
 
 ---
 
-## 13. Próxima direção
+## 15. Próxima direção
 
-A continuidade do projeto deve priorizar menos a quantidade de ferramentas e mais a qualidade das decisões de projeto.
+A prioridade passa a ser **qualidade de apresentação e documentação do processo**, e não simplesmente quantidade de projetos ou ferramentas.
 
 Próximos focos:
 
-- comparar soluções produzidas em plataformas diferentes;
-- fortalecer briefing e planejamento;
-- melhorar testes e revisão;
-- justificar decisões de Design;
-- analisar experiência do usuário;
-- desenvolver apresentações dos projetos;
-- registrar retrospectivas;
+- estruturar os portfólios finais;
+- selecionar trabalhos representativos;
+- registrar processo e decisões;
+- apresentar referências, esboços e moodboards quando relevantes;
+- justificar escolhas de Design;
+- comparar versões e revisões;
+- fortalecer a apresentação profissional;
+- realizar retrospectivas;
 - consolidar o portfólio como evidência de aprendizagem.
 
----
-
-> **A ferramenta muda; o pensamento permanece.**
-
-O objetivo final é formar educandos capazes de utilizar diferentes tecnologias para transformar ideias em soluções visuais, digitais e interativas com clareza, intenção e propósito.
+> **O curso não é sobre aprender ferramentas. É sobre aprender a pensar, projetar e comunicar — usando ferramentas para transformar ideias em soluções.**

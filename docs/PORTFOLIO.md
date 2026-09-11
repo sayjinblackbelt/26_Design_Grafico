@@ -6,7 +6,7 @@ Este portfólio reúne projetos publicados pelos educandos na atividade de cria�
 
 **Fluxo:** Ideia → Briefing → Prompt → Criação → Personalização → Teste → Publicação → Portfólio
 
- > **Padrão:** dentro de cada turma, os projetos aparecem primeiro em **B12** e depois em **Base44**. Cada registro informa a **data de criação** quando disponível.
+> **Padrão:** dentro de cada turma, os projetos aparecem primeiro em **B12**, depois em **Base44** e depois em **InstaPlay**. Cada registro informa a **data de criação** quando disponível.
 >
 > **Regra de preservação:** links de projetos publicados são registros permanentes do portfólio e **não devem ser removidos, substituídos ou convertidos em `—`** durante atualizações. Correções devem preservar o link original; somente o educador responsável poderá solicitar a alteração de um endereço que tenha deixado de funcionar.
 
@@ -47,6 +47,15 @@ Os educandos são identificados exclusivamente por códigos anônimos. Os links 
 | T1-05 | Mystic Quest Link | 08/09/2026 | [Abrir projeto](https://mystic-quest-link.base44.app) |
 | T1-03 | Soft Pole Trivia Dash | 08/09/2026 | [Abrir projeto](https://soft-pole-trivia-dash.base44.app) |
 | T1-?? | Aldenor RPG Saga | 08/09/2026 | [Abrir projeto](https://aldenor-rpg-saga.base44.app) |
+
+### InstaPlay
+
+| Educando | Projeto | Data de criação | Link |
+|---|---|---|---|
+| T1-02 | InstaPlay — d2b98e75 | 11/09/2026 | [Abrir projeto](https://www.instaplay.ai/play/d2b98e75?ref=mightyeagle266) |
+| T1-04 | InstaPlay — 353442e5 | 11/09/2026 | [Abrir projeto](https://www.instaplay.ai/play/353442e5?ref=luckyglider401) |
+| T1-06 | InstaPlay — 2eb69650 | 11/09/2026 | [Abrir projeto](https://www.instaplay.ai/play/2eb69650?ref=luckyrider980) |
+| T1-02 | InstaPlay — e8f2fe02 | 11/09/2026 | [Abrir projeto](https://www.instaplay.ai/play/e8f2fe02?ref=mightyeagle266) |
 
 ## Turma 2
 

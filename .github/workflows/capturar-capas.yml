@@ -4,8 +4,9 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'docs/index.html'
+      - 'docs/portfolio.html'
       - 'docs/carrossel.html'
+      - 'docs/mostra.html'
       - '.github/workflows/capturar-capas.yml'
 
 permissions:
@@ -17,41 +18,31 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Configurar Node
         uses: actions/setup-node@v4
         with:
           node-version: 20
-
       - name: Instalar Playwright
         run: |
           npm install playwright
           npx playwright install --with-deps chromium
-
       - name: Capturar capas
         run: |
           node <<'NODE'
           const fs = require('fs');
           const { chromium } = require('playwright');
-
-          // A fonte dos dados do portfólio é docs/index.html.
-          // O carrossel consome esses mesmos dados automaticamente.
-          const html = fs.readFileSync('docs/index.html', 'utf8');
+          // A fonte única dos dados dos projetos é docs/portfolio.html.
+          const html = fs.readFileSync('docs/portfolio.html', 'utf8');
           const match = html.match(/const projects=(\[.*?\]);/s);
-          if (!match) throw new Error('Dados do portfólio não encontrados em docs/index.html');
-
+          if (!match) throw new Error('Dados dos projetos não encontrados em docs/portfolio.html');
           const projects = Function('return ' + match[1])();
           const urls = projects.map(project => project[5]).filter(Boolean);
           const unique = [...new Set(urls)];
-
           fs.mkdirSync('docs/assets/projetos', { recursive: true });
-
           const slug = u => u.replace(/^https?:\/\//,'').replace(/[^a-z0-9]+/gi,'-').replace(/^-|-$/g,'').toLowerCase();
-
           (async () => {
             const browser = await chromium.launch({headless:true});
             const page = await browser.newPage({ viewport:{width:1440,height:900}, deviceScaleFactor:1 });
-
             let failures = 0;
             for (const url of unique) {
               const file = `docs/assets/projetos/${slug(url)}.jpg`;
@@ -65,12 +56,10 @@ jobs:
                 console.log('FALHA', url, e.message);
               }
             }
-
             await browser.close();
-            if (failures > 0) console.log(`Concluído com ${failures} falha(s) de captura; os projetos continuam disponíveis pelos links.`);
+            if (failures > 0) console.log(`Concluído com ${failures} falha(s); os projetos continuam disponíveis pelos links.`);
           })();
           NODE
-
       - name: Publicar capas
         run: |
           git config user.name "github-actions[bot]"

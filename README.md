@@ -66,6 +66,31 @@ Apresenta a transformação da aprendizagem em seis movimentos: **Olhar, Pensar,
 
 > **Acesse as páginas acima para percorrer o curso como uma experiência completa, e não apenas como um catálogo de trabalhos.**
 
+## 🧪 Biblioteca de Modelos — protótipos interativos
+
+A nova biblioteca funciona como um **laboratório visual de páginas web**. Ela não é uma nova etapa do curso nem substitui as seis páginas centrais; é um espaço complementar para estudar possibilidades de interface antes da produção.
+
+👉 [**Abrir Biblioteca de Modelos Interativos**](https://sayjinblackbelt.github.io/26_Design_Grafico/modelos.html)
+
+Os modelos permitem explorar, em uma simulação navegável:
+
+- Landing Pages;
+- Portfólios;
+- Catálogos;
+- páginas editoriais;
+- dashboards e aplicações;
+- experiências mobile;
+- mostras digitais;
+- páginas de processo.
+
+A página possui **busca, filtros por categoria, abertura em tela ampliada, navegação anterior/próximo, menus simulados, estados de interação e suporte a teclado**.
+
+A lógica pedagógica é:
+
+**Observar → Explorar → Questionar → Adaptar → Criar**
+
+O modelo serve como referência; a solução final deve nascer do problema, das escolhas e da autoria do educando.
+
 ## ⭐ Projeto principal — Curso de Design Gráfico
 
 O repositório deve ser lido como um **portfólio pedagógico evolutivo**. O destaque principal é o próprio percurso do curso e sua transformação em portfólios finais.

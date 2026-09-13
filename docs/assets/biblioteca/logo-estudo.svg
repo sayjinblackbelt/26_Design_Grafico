@@ -1,1 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800"><rect width="1200" height="800" fill="#11181b"/><circle cx="930" cy="180" r="150" fill="#ff7c24"/><path d="M180 560V240h120l95 140 95-140h120v320H490V390l-95 130-95-130v170Z" fill="#fff"/><text x="180" y="690" fill="#ffce00" font-family="Arial,sans-serif" font-size="54" font-weight="900">LOGO / ESTUDO DE MARCA</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+<rect width="1600" height="1000" fill="#f7f7f4"/>
+<rect width="1600" height="190" fill="#11181b"/>
+<text x="90" y="92" fill="#ffce00" font-family="Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="5">01 • LOGOS</text>
+<text x="90" y="145" fill="#ffffff" font-family="Arial,sans-serif" font-size="52" font-weight="900">Forma que identifica.</text>
+<g transform="translate(90 270)">
+<rect width="330" height="330" rx="28" fill="#11181b"/>
+<path d="M72 242V82h62l49 72 49-72h62v160h-62v-85l-49 68-49-68v85Z" fill="#fff"/>
+<circle cx="260" cy="70" r="30" fill="#ff7c24"/>
+<text x="72" y="290" fill="#ffce00" font-family="Arial,sans-serif" font-size="24" font-weight="900">SÍMBOLO</text>
+</g>
+<g transform="translate(450 270)">
+<rect width="330" height="330" rx="28" fill="#035aa6"/>
+<circle cx="165" cy="140" r="82" fill="#ff7c24"/>
+<path d="M115 140l35 35 70-76" fill="none" stroke="#fff" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="55" y="290" fill="#fff" font-family="Arial,sans-serif" font-size="24" font-weight="900">ÍCONE</text>
+</g>
+<g transform="translate(810 270)">
+<rect width="330" height="330" rx="28" fill="#fff" stroke="#dfe4e7" stroke-width="3"/>
+<text x="52" y="145" fill="#11181b" font-family="Arial,sans-serif" font-size="64" font-weight="900">DG</text>
+<rect x="54" y="172" width="100" height="12" fill="#ff7c24"/>
+<text x="54" y="235" fill="#035aa6" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="2">BIBLIOTECA</text>
+<text x="54" y="290" fill="#657177" font-family="Arial,sans-serif" font-size="20">ASSINATURA</text>
+</g>
+<g transform="translate(1170 270)">
+<rect width="330" height="330" rx="28" fill="#11181b"/>
+<circle cx="165" cy="145" r="92" fill="#4a9ad1"/>
+<path d="M120 145h90M165 100v90" stroke="#fff" stroke-width="22" stroke-linecap="round"/>
+<circle cx="165" cy="145" r="28" fill="#ffce00"/>
+<text x="82" y="290" fill="#fff" font-family="Arial,sans-serif" font-size="24" font-weight="900">MARCA</text>
+</g>
+<text x="90" y="690" fill="#11181b" font-family="Arial,sans-serif" font-size="34" font-weight="900">ESTUDAR UM LOGO É OBSERVAR</text>
+<text x="90" y="742" fill="#657177" font-family="Arial,sans-serif" font-size="24">símbolo • tipografia • proporção • contraste • assinatura • aplicação</text>
+<g transform="translate(90 815)"><rect width="1420" height="4" fill="#dfe4e7"/><circle cx="0" cy="2" r="10" fill="#ff7c24"/><circle cx="355" cy="2" r="10" fill="#035aa6"/><circle cx="710" cy="2" r="10" fill="#ffce00"/><circle cx="1065" cy="2" r="10" fill="#d12353"/><circle cx="1420" cy="2" r="10" fill="#11181b"/></g>
+<text x="90" y="900" fill="#035aa6" font-family="Arial,sans-serif" font-size="22" font-weight="700">REFERÊNCIA → COMPARAÇÃO → ADAPTAÇÃO → AUTORIA</text>
+</svg>

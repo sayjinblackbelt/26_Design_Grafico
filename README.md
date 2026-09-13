@@ -12,14 +12,53 @@ Este repositório documenta **um único curso de Design Gráfico**, organizado e
 
 As seis páginas formam uma única experiência de consulta. Elas apresentam o curso em sequência: **aprendizagem → processo → produção → resultado → evolução**.
 
-| | Página | O que você encontra |
-|---|---|---|
-| **01** | [🎨 **Curso — Design Gráfico 2026**](https://sayjinblackbelt.github.io/26_Design_Grafico/) | Apresentação do curso, objetivos, percurso formativo, fundamentos, 1º e 2º semestre, metodologia e visão geral da aprendizagem. |
-| **02** | [🖼️ **Portfólio — Projetos dos Educandos**](https://sayjinblackbelt.github.io/26_Design_Grafico/portfolio.html) | Registro dos projetos das três turmas, com carrossel de destaque, filtros, plataformas, datas e links permanentes para as produções publicadas. |
-| **03** | [✨ **Mostra Cultural**](https://sayjinblackbelt.github.io/26_Design_Grafico/mostra.html) | Experiência de apresentação em tela ampla, organizada como uma mostra digital para explorar os trabalhos um a um. |
-| **04** | [📚 **Materiais**](https://sayjinblackbelt.github.io/26_Design_Grafico/materiais.html) | Galeria organizada pelos conteúdos e etapas do curso: fundamentos, cor, tipografia, esboços, moodboard, identidade, planejamento, produção e portfólio. |
-| **05** | [🔎 **Processo / Bastidores**](https://sayjinblackbelt.github.io/26_Design_Grafico/processo.html) | Mostra o que existe antes e depois da tela final: problema, pesquisa, referências, esboços, moodboard, conceito, planejamento, produção, teste, revisão e reflexão. |
-| **06** | [🧭 **Jornada / Evolução**](https://sayjinblackbelt.github.io/26_Design_Grafico/jornada.html) | Apresenta a transformação da aprendizagem em seis movimentos: Olhar, Pensar, Projetar, Produzir, Avaliar e Apresentar. |
+### 01 · 🎨 Curso — Design Gráfico 2026
+
+[![Miniatura da página Curso](docs/assets/readme-curso.svg)](https://sayjinblackbelt.github.io/26_Design_Grafico/)
+
+Apresentação do curso, objetivos, percurso formativo, fundamentos, 1º e 2º semestre, metodologia e visão geral da aprendizagem.
+
+[![ABRIR CURSO](https://img.shields.io/badge/ABRIR%20CURSO-035aa6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sayjinblackbelt.github.io/26_Design_Grafico/)
+
+### 02 · 🖼️ Portfólio — Projetos dos Educandos
+
+[![Miniatura do Portfólio](docs/assets/readme-portfolio.svg)](https://sayjinblackbelt.github.io/26_Design_Grafico/portfolio.html)
+
+Registro dos projetos das três turmas, com carrossel de destaque, filtros, plataformas, datas e links permanentes para as produções publicadas.
+
+[![ABRIR PORTFÓLIO](https://img.shields.io/badge/ABRIR%20PORTFÓLIO-ff7c24?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sayjinblackbelt.github.io/26_Design_Grafico/portfolio.html)
+
+### 03 · ✨ Mostra Cultural
+
+[![Miniatura da Mostra Cultural](docs/assets/readme-mostra.svg)](https://sayjinblackbelt.github.io/26_Design_Grafico/mostra.html)
+
+Experiência de apresentação em tela ampla, organizada como uma mostra digital para explorar os trabalhos um a um.
+
+[![ABRIR MOSTRA](https://img.shields.io/badge/ABRIR%20MOSTRA-d12353?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sayjinblackbelt.github.io/26_Design_Grafico/mostra.html)
+
+### 04 · 📚 Materiais
+
+[![Miniatura dos Materiais](docs/assets/readme-materiais.svg)](https://sayjinblackbelt.github.io/26_Design_Grafico/materiais.html)
+
+Galeria organizada pelos conteúdos e etapas do curso: fundamentos, cor, tipografia, esboços, moodboard, identidade, planejamento, produção e portfólio.
+
+[![ABRIR MATERIAIS](https://img.shields.io/badge/ABRIR%20MATERIAIS-ff9800?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sayjinblackbelt.github.io/26_Design_Grafico/materiais.html)
+
+### 05 · 🔎 Processo / Bastidores
+
+[![Miniatura do Processo](docs/assets/readme-processo.svg)](https://sayjinblackbelt.github.io/26_Design_Grafico/processo.html)
+
+Mostra o que existe antes e depois da tela final: problema, pesquisa, referências, esboços, moodboard, conceito, planejamento, produção, teste, revisão e reflexão.
+
+[![ABRIR PROCESSO](https://img.shields.io/badge/ABRIR%20PROCESSO-4a9ad1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sayjinblackbelt.github.io/26_Design_Grafico/processo.html)
+
+### 06 · 🧭 Jornada / Evolução
+
+[![Miniatura da Jornada](docs/assets/readme-jornada.svg)](https://sayjinblackbelt.github.io/26_Design_Grafico/jornada.html)
+
+Apresenta a transformação da aprendizagem em seis movimentos: **Olhar, Pensar, Projetar, Produzir, Avaliar e Apresentar**.
+
+[![ABRIR JORNADA](https://img.shields.io/badge/ABRIR%20JORNADA-035aa6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sayjinblackbelt.github.io/26_Design_Grafico/jornada.html)
 
 ### 🔗 Percurso recomendado
 

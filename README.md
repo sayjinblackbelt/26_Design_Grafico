@@ -8,6 +8,25 @@ Este repositório documenta **um único curso de Design Gráfico**, organizado e
 
 > **Importante:** B12 Editor, Base44 e InstaPlay não definem o curso. São ferramentas e linguagens utilizadas em uma etapa posterior do percurso para materializar ideias de Design em produtos e experiências digitais.
 
+## 🌐 Explore o curso — 6 páginas em destaque
+
+As seis páginas formam uma única experiência de consulta. Elas apresentam o curso em sequência: **aprendizagem → processo → produção → resultado → evolução**.
+
+| | Página | O que você encontra |
+|---|---|---|
+| **01** | [🎨 **Curso — Design Gráfico 2026**](https://sayjinblackbelt.github.io/26_Design_Grafico/) | Apresentação do curso, objetivos, percurso formativo, fundamentos, 1º e 2º semestre, metodologia e visão geral da aprendizagem. |
+| **02** | [🖼️ **Portfólio — Projetos dos Educandos**](https://sayjinblackbelt.github.io/26_Design_Grafico/portfolio.html) | Registro dos projetos das três turmas, com carrossel de destaque, filtros, plataformas, datas e links permanentes para as produções publicadas. |
+| **03** | [✨ **Mostra Cultural**](https://sayjinblackbelt.github.io/26_Design_Grafico/mostra.html) | Experiência de apresentação em tela ampla, organizada como uma mostra digital para explorar os trabalhos um a um. |
+| **04** | [📚 **Materiais**](https://sayjinblackbelt.github.io/26_Design_Grafico/materiais.html) | Galeria organizada pelos conteúdos e etapas do curso: fundamentos, cor, tipografia, esboços, moodboard, identidade, planejamento, produção e portfólio. |
+| **05** | [🔎 **Processo / Bastidores**](https://sayjinblackbelt.github.io/26_Design_Grafico/processo.html) | Mostra o que existe antes e depois da tela final: problema, pesquisa, referências, esboços, moodboard, conceito, planejamento, produção, teste, revisão e reflexão. |
+| **06** | [🧭 **Jornada / Evolução**](https://sayjinblackbelt.github.io/26_Design_Grafico/jornada.html) | Apresenta a transformação da aprendizagem em seis movimentos: Olhar, Pensar, Projetar, Produzir, Avaliar e Apresentar. |
+
+### 🔗 Percurso recomendado
+
+**01 Curso → 02 Portfólio → 03 Mostra → 04 Materiais → 05 Processo → 06 Jornada/Evolução**
+
+> **Acesse as páginas acima para percorrer o curso como uma experiência completa, e não apenas como um catálogo de trabalhos.**
+
 ## ⭐ Projeto principal — Curso de Design Gráfico
 
 O repositório deve ser lido como um **portfólio pedagógico evolutivo**. O destaque principal é o próprio percurso do curso e sua transformação em portfólios finais.

@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700"><rect width="1200" height="700" fill="#f7f7f4"/><g><rect x="80" y="110" width="200" height="430" rx="24" fill="#11181b"/><rect x="300" y="110" width="200" height="430" rx="24" fill="#035aa6"/><rect x="520" y="110" width="200" height="430" rx="24" fill="#4a9ad1"/><rect x="740" y="110" width="200" height="430" rx="24" fill="#ff7c24"/><rect x="960" y="110" width="160" height="430" rx="24" fill="#ffce00"/></g><text x="80" y="620" fill="#11181b" font-family="Arial" font-size="42" font-weight="900">PALETA / CONTRASTE / HIERARQUIA</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#f7f7f4"/>
+<rect width="1600" height="180" fill="#11181b"/>
+<text x="80" y="82" fill="#ffce00" font-family="Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="5">03 • PALETAS</text>
+<text x="80" y="135" fill="#fff" font-family="Arial,sans-serif" font-size="48" font-weight="900">Cor cria hierarquia.</text>
+<g transform="translate(80 235)">
+<rect width="220" height="390" rx="26" fill="#11181b"/><text x="28" y="55" fill="#fff" font-family="Arial,sans-serif" font-size="22" font-weight="900">INK</text><text x="28" y="355" fill="#dce3e5" font-family="Arial,sans-serif" font-size="22">#11181B</text>
+<rect x="245" width="220" height="390" rx="26" fill="#035aa6"/><text x="273" y="55" fill="#fff" font-family="Arial,sans-serif" font-size="22" font-weight="900">BLUE</text><text x="273" y="355" fill="#fff" font-family="Arial,sans-serif" font-size="22">#035AA6</text>
+<rect x="490" width="220" height="390" rx="26" fill="#4a9ad1"/><text x="518" y="55" fill="#11181b" font-family="Arial,sans-serif" font-size="22" font-weight="900">BLUE 2</text><text x="518" y="355" fill="#11181b" font-family="Arial,sans-serif" font-size="22">#4A9AD1</text>
+<rect x="735" width="220" height="390" rx="26" fill="#ff7c24"/><text x="763" y="55" fill="#11181b" font-family="Arial,sans-serif" font-size="22" font-weight="900">ORANGE</text><text x="763" y="355" fill="#11181b" font-family="Arial,sans-serif" font-size="22">#FF7C24</text>
+<rect x="980" width="220" height="390" rx="26" fill="#ffce00"/><text x="1008" y="55" fill="#11181b" font-family="Arial,sans-serif" font-size="22" font-weight="900">YELLOW</text><text x="1008" y="355" fill="#11181b" font-family="Arial,sans-serif" font-size="22">#FFCE00</text>
+<rect x="1225" width="220" height="390" rx="26" fill="#d12353"/><text x="1253" y="55" fill="#fff" font-family="Arial,sans-serif" font-size="22" font-weight="900">PINK</text><text x="1253" y="355" fill="#fff" font-family="Arial,sans-serif" font-size="22">#D12353</text>
+</g>
+<text x="80" y="715" fill="#11181b" font-family="Arial,sans-serif" font-size="30" font-weight="900">SISTEMA DE USO</text>
+<text x="80" y="765" fill="#657177" font-family="Arial,sans-serif" font-size="23">Base escura → estrutura  |  Azul → informação  |  Laranja → ação  |  Amarelo → destaque  |  Rosa → acento</text>
+<text x="80" y="820" fill="#035aa6" font-family="Arial,sans-serif" font-size="22" font-weight="900">CONTRASTE → HIERARQUIA → ATENÇÃO → MEMÓRIA</text>
+</svg>

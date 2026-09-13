@@ -56,7 +56,7 @@ Mostra o que existe antes e depois da tela final: problema, pesquisa, referênci
 
 [![Miniatura da Jornada](docs/assets/readme-jornada.svg)](https://sayjinblackbelt.github.io/26_Design_Grafico/jornada.html)
 
-Apresenta a transformação da aprendizagem em seis movimentos: **Olhar, Pensar, Projetar, Produzir, Avaliar e Apresentar**.
+Apresenta a transformação da aprendizagem em seis movimentos: **Olhar, Refletir, Projetar, Produzir, Avaliar e Apresentar**.
 
 [![ABRIR JORNADA](https://img.shields.io/badge/ABRIR%20JORNADA-035aa6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sayjinblackbelt.github.io/26_Design_Grafico/jornada.html)
 
@@ -137,7 +137,7 @@ O repositório deve ser lido como um **portfólio pedagógico evolutivo**. O des
 
 O trabalho do educador funciona como **modelo e referência de organização de portfólio**, enquanto os trabalhos dos educandos constituem os registros da aprendizagem e da evolução ao longo do curso.
 
-### Primeiro semestre — pensar e projetar
+### Primeiro semestre — refletir e projetar
 
 Antes da produção digital final, o percurso trabalhou a base do Design Gráfico:
 
@@ -153,7 +153,7 @@ Antes da produção digital final, o percurso trabalhou a base do Design Gráfic
 - desenvolvimento e amadurecimento das ideias;
 - planejamento visual antes da execução.
 
-Essa etapa é essencial: **primeiro se aprende a observar, pensar, organizar e justificar; depois se escolhe a ferramenta para produzir.**
+Essa etapa é essencial: **primeiro se aprende a observar, refletir, organizar e justificar; depois se escolhe a ferramenta para produzir.**
 
 ### Segundo semestre — produzir, experimentar e apresentar
 
@@ -243,7 +243,7 @@ Os 62 registros são **evidências de uma etapa do curso**, e não a totalidade 
 - Sprints educacionais inspirados em Scrum
 - Pedagogia Heulosófica
 - Perguntas norteadoras e diálogo maiêutico
-- Organização do pensamento
+- Organização da reflexão
 - Autonomia e responsabilidade
 - Trabalho colaborativo
 - Feedback e melhoria contínua
@@ -275,9 +275,9 @@ Briefing, pesquisa, planejamento, criação, revisão, entrega, apresentação, 
 
 ## 🎯 Propósito
 
-Desenvolver educandos capazes de **observar, pensar, planejar, criar, testar, revisar, justificar e apresentar soluções de comunicação visual e experiências digitais**.
+Desenvolver educandos capazes de **observar, refletir, planejar, criar, testar, revisar, justificar e apresentar soluções de comunicação visual e experiências digitais**.
 
-> **A ferramenta muda; o pensamento de Design permanece.**
+> **A ferramenta muda; a reflexão de Design permanece.**
 
 ## 🗂️ Documentação
 

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780">
+<rect width="1200" height="780" fill="#11181b"/>
+<rect x="0" y="0" width="410" height="780" fill="#151c20"/>
+<rect x="0" y="650" width="410" height="130" fill="#ffce00"/>
+<text x="52" y="72" fill="#fff" font-family="Arial,sans-serif" font-size="18" letter-spacing="6">AGÊNCIA CRIATIVA</text>
+<rect x="52" y="105" width="44" height="5" fill="#ffce00"/>
+<text x="52" y="178" fill="#fff" font-family="Arial,sans-serif" font-size="62" font-weight="800">Esboços</text>
+<text x="52" y="238" fill="#ffce00" font-family="Arial,sans-serif" font-size="58" font-weight="800">ganham forma.</text>
+<text x="52" y="292" fill="#dfe4e7" font-family="Arial,sans-serif" font-size="21">O primeiro encontro entre</text>
+<text x="52" y="322" fill="#dfe4e7" font-family="Arial,sans-serif" font-size="21">pensamento e imagem.</text>
+<text x="52" y="378" fill="#aeb8bd" font-family="Arial,sans-serif" font-size="17">Observar • Nomear • Comparar</text>
+<text x="52" y="406" fill="#aeb8bd" font-family="Arial,sans-serif" font-size="17">Experimentar • Justificar</text>
+<text x="52" y="700" fill="#11181b" font-family="Arial,sans-serif" font-size="24" font-weight="800">Rabiscar também é projetar.</text>
+<text x="52" y="735" fill="#11181b" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">PENSAMENTO • PROCESSO • CRIAÇÃO</text>
+<rect x="450" y="70" width="690" height="510" rx="20" fill="#f7f7f5" transform="rotate(-1 795 325)"/>
+<text x="500" y="118" fill="#11181b" font-family="Arial,sans-serif" font-size="15" font-weight="700">LOGO / MARCA</text>
+<g fill="none" stroke="#11181b" stroke-width="3">
+<rect x="500" y="145" width="180" height="140"/><circle cx="590" cy="215" r="48"/><path d="M545 245 L590 175 L635 245 Z"/>
+<rect x="710" y="145" width="180" height="140"/><path d="M745 245 L745 185 L790 155 L855 195 L855 245 Z"/><circle cx="800" cy="205" r="18"/>
+<rect x="920" y="145" width="180" height="140"/><path d="M945 245 L945 170 L985 170 L985 205 L1030 205 L1030 245 Z"/>
+<path d="M500 330 H1100" stroke-dasharray="8 8"/>
+<rect x="500" y="360" width="275" height="150"/><rect x="800" y="360" width="300" height="150"/><path d="M525 475 L585 415 L630 450 L690 395 L750 475"/><path d="M825 395 H1060 M825 425 H1030 M825 455 H1070 M825 485 H980"/>
+</g>
+<text x="505" y="548" fill="#11181b" font-family="Arial,sans-serif" font-size="15" font-style="italic">hierarquia • respiro • consistência • experiência</text>
+<rect x="760" y="600" width="360" height="95" rx="16" fill="#ffce00"/>
+<text x="790" y="638" fill="#11181b" font-family="Arial,sans-serif" font-size="17" font-weight="800">DO ESBOÇO AO RESULTADO</text>
+<text x="790" y="666" fill="#11181b" font-family="Arial,sans-serif" font-size="14">Briefing → Exploração → Projeto → Teste</text>
+</svg>

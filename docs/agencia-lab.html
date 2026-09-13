@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Creative Lab — fluxo de projeto da Agência Criativa do curso Design Gráfico 2026.">
+<title>Creative Lab | Agência Criativa</title>
+<link rel="stylesheet" href="style.css">
+<style>
+:root{--yellow:#ffce00;--ink:#11181b;--muted:#667177;--paper:#f5f6f4;--line:#dfe4e7}
+body{background:var(--paper)}
+.lab-hero{background:var(--ink);color:#fff;padding:45px 0 65px}.lab-hero h1{font-size:clamp(3rem,7vw,6rem);line-height:.92;letter-spacing:-.05em;margin:12px 0}.lab-hero h1 span{color:var(--yellow)}.lab-hero p{max-width:760px;color:#cbd2d5;line-height:1.7;font-size:1.08rem}.back{color:#fff;text-decoration:none;font-weight:800}.lab{padding:55px 0}.intro{display:grid;grid-template-columns:1.3fr .7fr;gap:18px;margin-bottom:28px}.panel{background:#fff;border:1px solid var(--line);border-radius:22px;padding:25px}.panel.dark{background:var(--ink);color:#fff;border-color:var(--ink)}.panel h2{margin-top:0}.steps{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:28px 0}.step{background:#fff;border:1px solid var(--line);border-radius:20px;padding:22px;min-height:175px;cursor:pointer;transition:.2s}.step:hover,.step.active{transform:translateY(-3px);border-color:var(--ink)}.step .num{font-size:2rem;font-weight:900;color:var(--yellow);-webkit-text-stroke:1px var(--ink)}.step h3{margin:15px 0 7px}.step p{color:var(--muted);line-height:1.5;margin:0}.workspace{display:grid;grid-template-columns:.8fr 1.2fr;gap:18px}.checklist{margin:0;padding:0;list-style:none}.checklist li{padding:12px 0;border-top:1px solid var(--line);display:flex;gap:10px;align-items:flex-start}.checklist input{margin-top:4px}.field{margin-bottom:15px}.field label{display:block;font-weight:800;margin-bottom:7px}.field input,.field textarea,.field select{width:100%;box-sizing:border-box;border:1px solid var(--line);border-radius:12px;padding:12px;font:inherit;background:#fff}.field textarea{min-height:95px;resize:vertical}.actions{display:flex;gap:10px;flex-wrap:wrap}.button{border:0;border-radius:10px;padding:12px 16px;background:var(--ink);color:#fff;font-weight:900;cursor:pointer}.button.alt{background:var(--yellow);color:var(--ink)}.status{margin-top:18px;padding:15px;border-radius:14px;background:#eef2f4;color:#4d595e;line-height:1.5}.privacy{margin-top:18px;background:#fff7cc;border-left:5px solid var(--yellow);padding:18px 20px;border-radius:0 14px 14px 0;line-height:1.6}.privacy strong{color:var(--ink)}
+@media(max-width:850px){.intro,.workspace{grid-template-columns:1fr}.steps{grid-template-columns:1fr 1fr}}@media(max-width:560px){.steps{grid-template-columns:1fr}.lab{padding:35px 0}}
+</style>
+</head>
+<body>
+<header class="lab-hero"><div class="wrap"><a class="back" href="agencia.html">← Agência Criativa</a><span class="eyebrow">CREATIVE LAB • 2026</span><h1>Do problema<br>ao <span>resultado.</span></h1><p>Um laboratório simples para organizar um projeto de Design. Ele ajuda a pensar antes de produzir, comparar alternativas, revisar escolhas e preparar a apresentação.</p></div></header>
+<main class="lab"><div class="wrap">
+<section class="intro"><div class="panel"><span class="eyebrow">FLUXO DE PROJETO</span><h2>8 movimentos, uma linha de raciocínio.</h2><p>Use as etapas como roteiro. Não é necessário seguir tudo de forma rígida: o projeto pode voltar, testar novamente e revisar. O importante é tornar as decisões conscientes.</p></div><div class="panel dark"><strong>Pergunta central</strong><h2>O que estamos tentando resolver — e por quê?</h2><p>Ferramenta é meio. Pensamento é ponto de partida.</p></div></section>
+<section class="steps" aria-label="Etapas do projeto">
+<div class="step active"><span class="num">01</span><h3>Briefing</h3><p>Problema, objetivo, público, mensagem e critérios.</p></div>
+<div class="step"><span class="num">02</span><h3>Pesquisa</h3><p>Referências, contexto, repertório e possibilidades.</p></div>
+<div class="step"><span class="num">03</span><h3>Esboços</h3><p>Alternativas rápidas antes da escolha.</p></div>
+<div class="step"><span class="num">04</span><h3>Conceito</h3><p>Direção visual e ideia que orienta o projeto.</p></div>
+<div class="step"><span class="num">05</span><h3>Produção</h3><p>Transformar a direção em página, app ou jogo.</p></div>
+<div class="step"><span class="num">06</span><h3>Teste</h3><p>Experimentar a solução e observar o que acontece.</p></div>
+<div class="step"><span class="num">07</span><h3>Revisão</h3><p>Ajustar clareza, consistência e experiência.</p></div>
+<div class="step"><span class="num">08</span><h3>Apresentação</h3><p>Contextualizar o resultado e explicar escolhas.</p></div>
+</section>
+<section class="workspace">
+<div class="panel"><span class="eyebrow">CHECKLIST</span><h2>Antes de apresentar</h2><ul class="checklist">
+<li><input type="checkbox"> <span>O objetivo do projeto está claro?</span></li>
+<li><input type="checkbox"> <span>A hierarquia ajuda a entender a informação?</span></li>
+<li><input type="checkbox"> <span>Cor e tipografia têm função?</span></li>
+<li><input type="checkbox"> <span>Os elementos estão alinhados e consistentes?</span></li>
+<li><input type="checkbox"> <span>A experiência é compreensível?</span></li>
+<li><input type="checkbox"> <span>Testei e corrigi algo depois do teste?</span></li>
+<li><input type="checkbox"> <span>Consigo explicar por que fiz as principais escolhas?</span></li>
+</ul></div>
+<div class="panel"><span class="eyebrow">FICHA DE PROJETO</span><h2>Organize o pensamento</h2>
+<div class="field"><label for="objetivo">Objetivo</label><input id="objetivo" placeholder="O que este projeto precisa resolver?"></div>
+<div class="field"><label for="publico">Público</label><input id="publico" placeholder="Para quem estamos criando?"></div>
+<div class="field"><label for="conceito">Conceito</label><textarea id="conceito" placeholder="Qual ideia ou direção orienta a solução?"></textarea></div>
+<div class="field"><label for="criterio">Critério de sucesso</label><input id="criterio" placeholder="Como saberemos que a solução funciona?"></div>
+<div class="actions"><button class="button alt" id="save">Salvar localmente</button><button class="button" id="clear">Limpar</button></div>
+<div class="status" id="status">Os campos ficam somente neste navegador. Nenhum dado é enviado para o GitHub ou para um servidor.</div>
+</div></section>
+<div class="privacy"><strong>Sanitização:</strong> este laboratório não coleta, publica nem transmite dados pessoais. Não use sobrenome, foto, avaliação, frequência, contato ou qualquer registro pedagógico individual aqui. Para publicação pública, use somente o produto digital selecionado e, quando necessário, o primeiro nome autorizado para identificação do produto.</div>
+</div></main>
+<footer><div class="wrap">PMT • Creative Lab • Design Gráfico • 2026</div></footer>
+<script>
+const fields=['objetivo','publico','conceito','criterio'];
+const status=document.getElementById('status');
+document.getElementById('save').onclick=()=>{const data={};fields.forEach(id=>data[id]=document.getElementById(id).value);localStorage.setItem('dg26-lab',JSON.stringify(data));status.textContent='Rascunho salvo somente neste navegador. Nada foi enviado ou publicado.'};
+document.getElementById('clear').onclick=()=>{fields.forEach(id=>document.getElementById(id).value='');localStorage.removeItem('dg26-lab');status.textContent='Rascunho local apagado deste navegador.'};
+try{const data=JSON.parse(localStorage.getItem('dg26-lab')||'null');if(data){fields.forEach(id=>document.getElementById(id).value=data[id]||'');status.textContent='Rascunho local recuperado. Ele continua somente neste navegador.'}}catch(e){}
+</script>
+</body></html>

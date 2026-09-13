@@ -1,1 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 700"><defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#11181b"/><stop offset=".55" stop-color="#035aa6"/><stop offset="1" stop-color="#4a9ad1"/></linearGradient></defs><rect width="1600" height="700" fill="url(#g)"/><circle cx="1300" cy="110" r="230" fill="#ff7c24" opacity=".9"/><circle cx="1180" cy="520" r="170" fill="#d12353" opacity=".55"/><text x="110" y="260" fill="#fff" font-family="Arial,sans-serif" font-size="110" font-weight="900">IDEIA</text><text x="110" y="390" fill="#ffce00" font-family="Arial,sans-serif" font-size="110" font-weight="900">→ PROJETO</text><text x="112" y="485" fill="#dce3e5" font-family="Arial,sans-serif" font-size="34">banner editorial / campanha digital</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#f7f7f4"/>
+<rect width="1600" height="180" fill="#11181b"/>
+<text x="80" y="82" fill="#ffce00" font-family="Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="5">02 • BANNERS</text>
+<text x="80" y="135" fill="#fff" font-family="Arial,sans-serif" font-size="48" font-weight="900">Mensagem + hierarquia + ritmo.</text>
+<g transform="translate(80 235)">
+<rect width="700" height="300" rx="24" fill="#11181b"/>
+<circle cx="570" cy="90" r="150" fill="#035aa6"/>
+<circle cx="640" cy="235" r="95" fill="#ff7c24"/>
+<text x="50" y="105" fill="#fff" font-family="Arial,sans-serif" font-size="68" font-weight="900">IDEIA</text>
+<text x="50" y="185" fill="#ffce00" font-family="Arial,sans-serif" font-size="68" font-weight="900">→ PROJETO</text>
+<text x="52" y="240" fill="#dce3e5" font-family="Arial,sans-serif" font-size="22">clareza antes de decoração</text>
+</g>
+<g transform="translate(820 235)">
+<rect width="700" height="300" rx="24" fill="#035aa6"/>
+<rect x="390" y="0" width="310" height="300" rx="24" fill="#ff7c24"/>
+<text x="50" y="95" fill="#fff" font-family="Arial,sans-serif" font-size="34" font-weight="700">APRENDA</text>
+<text x="50" y="150" fill="#fff" font-family="Arial,sans-serif" font-size="52" font-weight="900">CRIANDO.</text>
+<text x="50" y="215" fill="#dce3e5" font-family="Arial,sans-serif" font-size="21">título • apoio • ação</text>
+<circle cx="545" cy="150" r="70" fill="#ffce00"/>
+<path d="M515 150h60M545 120v60" stroke="#11181b" stroke-width="12" stroke-linecap="round"/>
+</g>
+<text x="80" y="620" fill="#11181b" font-family="Arial,sans-serif" font-size="32" font-weight="900">ANATOMIA DE UM BANNER</text>
+<g transform="translate(80 665)"><rect width="1440" height="3" fill="#dfe4e7"/><circle cx="0" cy="2" r="11" fill="#ff7c24"/><circle cx="360" cy="2" r="11" fill="#035aa6"/><circle cx="720" cy="2" r="11" fill="#ffce00"/><circle cx="1080" cy="2" r="11" fill="#d12353"/><circle cx="1440" cy="2" r="11" fill="#11181b"/></g>
+<g font-family="Arial,sans-serif"><text x="80" y="735" fill="#035aa6" font-size="22" font-weight="900">01 FOCO</text><text x="440" y="735" fill="#035aa6" font-size="22" font-weight="900">02 TÍTULO</text><text x="800" y="735" fill="#035aa6" font-size="22" font-weight="900">03 APOIO</text><text x="1160" y="735" fill="#035aa6" font-size="22" font-weight="900">04 AÇÃO</text></g>
+<text x="80" y="820" fill="#657177" font-family="Arial,sans-serif" font-size="24">Observar → organizar → destacar → conduzir o olhar.</text>
+</svg>

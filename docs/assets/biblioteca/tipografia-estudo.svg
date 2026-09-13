@@ -1,1 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700"><rect width="1200" height="700" fill="#fff"/><text x="90" y="190" fill="#11181b" font-family="Georgia,serif" font-size="120" font-weight="700">Rufina</text><text x="95" y="275" fill="#035aa6" font-family="Arial,sans-serif" font-size="38" font-weight="700">TÍTULO / EXPRESSÃO</text><text x="95" y="390" fill="#11181b" font-family="Arial,sans-serif" font-size="72" font-weight="900">Raleway</text><text x="95" y="450" fill="#657177" font-family="Arial,sans-serif" font-size="30">tipografia • escala • peso • ritmo • legibilidade</text><line x1="95" y1="500" x2="1050" y2="500" stroke="#ff7c24" stroke-width="8"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#f7f7f4"/>
+<rect width="1600" height="180" fill="#11181b"/>
+<text x="80" y="82" fill="#ffce00" font-family="Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="5">04 • TIPOGRAFIA</text>
+<text x="80" y="135" fill="#fff" font-family="Arial,sans-serif" font-size="48" font-weight="900">Tipo também é voz.</text>
+<g transform="translate(80 235)">
+<rect width="700" height="380" rx="26" fill="#fff" stroke="#dfe4e7" stroke-width="2"/>
+<text x="45" y="105" fill="#11181b" font-family="Georgia,serif" font-size="76" font-weight="700">Rufina</text>
+<text x="48" y="150" fill="#035aa6" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="3">EXPRESSÃO • EDITORIAL • PERSONALIDADE</text>
+<text x="45" y="255" fill="#11181b" font-family="Arial,sans-serif" font-size="78" font-weight="900">Raleway</text>
+<text x="48" y="302" fill="#657177" font-family="Arial,sans-serif" font-size="20">interface • informação • clareza • hierarquia</text>
+<rect x="48" y="335" width="570" height="8" rx="4" fill="#ff7c24"/>
+</g>
+<g transform="translate(820 235)">
+<rect width="700" height="380" rx="26" fill="#11181b"/>
+<text x="48" y="80" fill="#ffce00" font-family="Arial,sans-serif" font-size="20" font-weight="900" letter-spacing="3">ESCALA</text>
+<text x="48" y="145" fill="#fff" font-family="Arial,sans-serif" font-size="58" font-weight="900">Título</text>
+<text x="48" y="195" fill="#4a9ad1" font-family="Arial,sans-serif" font-size="34" font-weight="700">Subtítulo</text>
+<text x="48" y="235" fill="#dce3e5" font-family="Arial,sans-serif" font-size="23">Texto de apoio organiza a leitura.</text>
+<text x="48" y="295" fill="#dce3e5" font-family="Arial,sans-serif" font-size="17">12 • 16 • 24 • 34 • 58 px</text>
+<line x1="48" y1="325" x2="650" y2="325" stroke="#ff7c24" stroke-width="6"/>
+</g>
+<text x="80" y="700" fill="#11181b" font-family="Arial,sans-serif" font-size="30" font-weight="900">CONSTRUIR LEITURA</text>
+<text x="80" y="750" fill="#657177" font-family="Arial,sans-serif" font-size="23">peso → tamanho → contraste → espaçamento → ritmo → legibilidade</text>
+<text x="80" y="810" fill="#035aa6" font-family="Arial,sans-serif" font-size="22" font-weight="900">A TIPOGRAFIA NÃO PREENCHE O LAYOUT. ELA ORGANIZA A EXPERIÊNCIA.</text>
+</svg>

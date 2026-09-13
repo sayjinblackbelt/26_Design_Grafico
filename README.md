@@ -8,9 +8,9 @@ Este repositório documenta **um único curso de Design Gráfico**, organizado e
 
 > **Importante:** B12 Editor, Base44 e InstaPlay não definem o curso. São ferramentas e linguagens utilizadas em uma etapa posterior do percurso para materializar ideias de Design em produtos e experiências digitais.
 
-## 🌐 Explore o curso — 6 páginas em destaque
+## 🌐 Explore o curso — 7 páginas em destaque
 
-As seis páginas formam uma única experiência de consulta. Elas apresentam o curso em sequência: **aprendizagem → processo → produção → resultado → evolução**.
+As sete páginas formam uma única experiência de consulta. As seis primeiras documentam o percurso do curso; a sétima funciona como laboratório complementar de experimentação visual.
 
 ### 01 · 🎨 Curso — Design Gráfico 2026
 
@@ -60,30 +60,41 @@ Apresenta a transformação da aprendizagem em seis movimentos: **Olhar, Pensar,
 
 [![ABRIR JORNADA](https://img.shields.io/badge/ABRIR%20JORNADA-035aa6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sayjinblackbelt.github.io/26_Design_Grafico/jornada.html)
 
+### 07 · 🧪 Modelos — Protótipos Interativos
+
+[![Abrir Biblioteca de Modelos](docs/assets/readme-curso.svg)](https://sayjinblackbelt.github.io/26_Design_Grafico/modelos.html)
+
+Laboratório visual para explorar protótipos de páginas web antes da produção autoral. A biblioteca reúne modelos de Landing Page, Portfólio, Catálogo, Editorial, Dashboard, App, Mostra, Processo, Evento, Educação, Game e Institucional.
+
+[![ABRIR MODELOS](https://img.shields.io/badge/ABRIR%20MODELOS-d12353?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sayjinblackbelt.github.io/26_Design_Grafico/modelos.html)
+
+A página permite **buscar, filtrar, abrir protótipos em tela ampliada, navegar entre modelos, explorar menus simulados e testar ações**, com suporte a teclado e layout responsivo.
+
 ### 🔗 Percurso recomendado
 
-**01 Curso → 02 Portfólio → 03 Mostra → 04 Materiais → 05 Processo → 06 Jornada/Evolução**
+**01 Curso → 02 Portfólio → 03 Mostra → 04 Materiais → 05 Processo → 06 Jornada → 07 Modelos**
 
 > **Acesse as páginas acima para percorrer o curso como uma experiência completa, e não apenas como um catálogo de trabalhos.**
 
 ## 🧪 Biblioteca de Modelos — protótipos interativos
 
-A nova biblioteca funciona como um **laboratório visual de páginas web**. Ela não é uma nova etapa do curso nem substitui as seis páginas centrais; é um espaço complementar para estudar possibilidades de interface antes da produção.
+A biblioteca funciona como um **laboratório visual de páginas web**. Ela não é uma nova etapa do curso nem substitui as seis páginas centrais; é um espaço complementar para estudar possibilidades de interface, estrutura e experiência antes da produção.
 
-👉 [**Abrir Biblioteca de Modelos Interativos**](https://sayjinblackbelt.github.io/26_Design_Grafico/modelos.html)
+### O que pode ser explorado
 
-Os modelos permitem explorar, em uma simulação navegável:
-
-- Landing Pages;
+- Landing Pages e páginas de campanha;
 - Portfólios;
-- Catálogos;
-- páginas editoriais;
-- dashboards e aplicações;
-- experiências mobile;
+- Catálogos de produtos;
+- páginas editoriais e narrativas visuais;
+- dashboards e painéis de informação;
+- interfaces de aplicativos;
 - mostras digitais;
-- páginas de processo.
+- páginas de processo e bastidores;
+- páginas educacionais;
+- experiências de jogos;
+- páginas institucionais.
 
-A página possui **busca, filtros por categoria, abertura em tela ampliada, navegação anterior/próximo, menus simulados, estados de interação e suporte a teclado**.
+Cada protótipo apresenta uma estrutura visual diferente e pode ser explorado por meio de **menus, botões, navegação anterior/próximo e estados de feedback**.
 
 A lógica pedagógica é:
 

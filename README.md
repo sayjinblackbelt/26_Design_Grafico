@@ -8,9 +8,9 @@ Este repositório documenta **um único curso de Design Gráfico**, organizado e
 
 > **Importante:** B12 Editor, Base44 e InstaPlay não definem o curso. São ferramentas e linguagens utilizadas em uma etapa posterior do percurso para materializar ideias de Design em produtos e experiências digitais.
 
-## 🌐 Explore o curso — 7 páginas em destaque
+## 🌐 Explore o curso — 8 páginas em destaque
 
-As sete páginas formam uma única experiência de consulta. As seis primeiras documentam o percurso do curso; a sétima funciona como laboratório complementar de experimentação visual.
+As oito páginas formam uma única experiência de consulta. As seis primeiras documentam o percurso do curso; a sétima funciona como laboratório de protótipos e a oitava como biblioteca visual complementar.
 
 ### 01 · 🎨 Curso — Design Gráfico 2026
 
@@ -70,9 +70,17 @@ Laboratório visual para explorar protótipos de páginas web antes da produçã
 
 A página permite **buscar, filtrar, abrir protótipos em tela ampliada, navegar entre modelos, explorar menus simulados e testar ações**, com suporte a teclado e layout responsivo.
 
+### 08 · 🎨 Biblioteca Visual — Design
+
+[![Abrir Biblioteca Visual](docs/assets/biblioteca/banner-estudo.svg)](https://sayjinblackbelt.github.io/26_Design_Grafico/biblioteca.html)
+
+Biblioteca complementar para estudar **logos, banners, paletas de cores, tipografia, layouts web, imagens, elementos gráficos e materiais de Design**. Os modelos são referências para observar, comparar, adaptar e transformar em soluções autorais.
+
+[![ABRIR BIBLIOTECA VISUAL](https://img.shields.io/badge/ABRIR%20BIBLIOTECA-ff7c24?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sayjinblackbelt.github.io/26_Design_Grafico/biblioteca.html)
+
 ### 🔗 Percurso recomendado
 
-**01 Curso → 02 Portfólio → 03 Mostra → 04 Materiais → 05 Processo → 06 Jornada → 07 Modelos**
+**01 Curso → 02 Portfólio → 03 Mostra → 04 Materiais → 05 Processo → 06 Jornada → 07 Modelos → 08 Biblioteca Visual**
 
 > **Acesse as páginas acima para percorrer o curso como uma experiência completa, e não apenas como um catálogo de trabalhos.**
 
@@ -101,6 +109,27 @@ A lógica pedagógica é:
 **Observar → Explorar → Questionar → Adaptar → Criar**
 
 O modelo serve como referência; a solução final deve nascer do problema, das escolhas e da autoria do educando.
+
+## 🎨 Biblioteca Visual — materiais de Design
+
+A nova biblioteca segue uma ordem de estudo intencional:
+
+**01 Logos → 02 Banners → 03 Paletas → 04 Tipografia → 05 Layouts → 06 Imagens → 07 Elementos → 08 Materiais**
+
+Os primeiros estudos visuais já estão armazenados no repositório em `docs/assets/biblioteca/`. A página permite filtrar por categoria, abrir os modelos em tela ampliada e navegar entre as referências.
+
+### Função pedagógica
+
+- **Logo:** síntese, símbolo, assinatura e identidade;
+- **Banner:** mensagem, composição e hierarquia;
+- **Paleta:** contraste, harmonia e significado;
+- **Tipografia:** escala, peso, ritmo e legibilidade;
+- **Layout:** estrutura, grid, navegação e distribuição;
+- **Imagem:** enquadramento, foco, composição e narrativa;
+- **Elementos:** formas, linhas, ícones e texturas;
+- **Materiais:** aplicação dos princípios em aulas, exercícios e apresentações.
+
+A biblioteca será ampliada progressivamente com novos modelos, imagens e materiais produzidos ao longo do curso.
 
 ## ⭐ Projeto principal — Curso de Design Gráfico
 

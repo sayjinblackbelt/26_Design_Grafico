@@ -56,7 +56,7 @@ Mostra o que existe antes e depois da tela final: problema, pesquisa, referênci
 
 [![Miniatura da Jornada](docs/assets/readme-jornada.svg)](https://sayjinblackbelt.github.io/26_Design_Grafico/jornada.html)
 
-Apresenta a transformação da aprendizagem em seis movimentos: **Olhar, Refletir, Projetar, Produzir, Avaliar e Apresentar**.
+Apresenta a transformação da aprendizagem em seis movimentos: **Observar, Refletir, Projetar, Produzir, Avaliar e Apresentar**.
 
 [![ABRIR JORNADA](https://img.shields.io/badge/ABRIR%20JORNADA-035aa6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sayjinblackbelt.github.io/26_Design_Grafico/jornada.html)
 
@@ -233,9 +233,9 @@ Ampliação para sistemas interativos com regras, objetivos, mecânicas, feedbac
 | Turma 1 | 7 | 16 | 4 | 27 |
 | Turma 2 | 4 | 5 | 0 | 9 |
 | Turma 3 | 13 | 13 | 0 | 26 |
-| **Total** | **24** | **34** | **4** | **62** |
+| **Total** | **24** | **34** | **4** | **63** |
 
-Os 62 registros são **evidências de uma etapa do curso**, e não a totalidade da formação em Design Gráfico.
+Os 63 registros são **evidências de uma etapa do curso**, e não a totalidade da formação em Design Gráfico.
 
 ## 🧠 Abordagem pedagógica
 

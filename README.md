@@ -230,10 +230,10 @@ Ampliação para sistemas interativos com regras, objetivos, mecânicas, feedbac
 
 | Turma | B12 | Base44 | InstaPlay | Total |
 |---|---:|---:|---:|---:|
-| Turma 1 | 7 | 16 | 4 | 27 |
+| Turma 1 | 7 | 16 | 5 | 28 |
 | Turma 2 | 4 | 5 | 0 | 9 |
 | Turma 3 | 13 | 13 | 0 | 26 |
-| **Total** | **24** | **34** | **4** | **63** |
+| **Total** | **24** | **34** | **5** | **63** |
 
 Os 63 registros são **evidências de uma etapa do curso**, e não a totalidade da formação em Design Gráfico.
 

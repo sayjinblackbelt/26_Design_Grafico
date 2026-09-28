@@ -8,7 +8,7 @@ Este repositório documenta **um único curso de Design Gráfico**, organizado e
 
 > **Importante:** B12 Editor, Base44 e InstaPlay não definem o curso. São ferramentas e linguagens utilizadas em uma etapa posterior do percurso para materializar ideias de Design em produtos e experiências digitais.
 
-## 🌐 Explore o curso — 8 páginas em destaque
+## 🌐 Explore o curso — núcleo do percurso + ferramentas de publicação
 
 As oito páginas formam uma única experiência de consulta. As seis primeiras documentam o percurso do curso; a sétima funciona como laboratório de protótipos e a oitava como biblioteca visual complementar.
 
@@ -83,6 +83,32 @@ Biblioteca complementar para estudar **logos, banners, paletas de cores, tipogra
 **01 Curso → 02 Portfólio → 03 Mostra → 04 Materiais → 05 Processo → 06 Jornada → 07 Modelos → 08 Biblioteca Visual**
 
 > **Acesse as páginas acima para percorrer o curso como uma experiência completa, e não apenas como um catálogo de trabalhos.**
+
+
+## 🧩 Sistema de produção por dados
+
+A infraestrutura do portfólio passou a separar **dados, apresentação e publicação**. Os projetos estruturados ficam em:
+
+- `docs/data/projetos.json` — fonte estruturada para páginas e componentes web;
+- `docs/data/projetos.csv` — exportação interoperável para planilhas e análise;
+- `docs/cards.html` — galeria automatizada de cards;
+- `docs/projeto.html` — ficha dinâmica de cada projeto;
+- `docs/assets/cards/` — cards visuais reutilizáveis em SVG;
+- `.github/workflows/validate-project-data.yml` — validação automática dos dados.
+
+A arquitetura é:
+
+**Dados → Componentes → GitHub Pages → Portfólio / Mostra**
+
+### Novas páginas
+
+- [Apresentação](https://sayjinblackbelt.github.io/26_Design_Grafico/apresentacao.html)
+- [Processo público](https://sayjinblackbelt.github.io/26_Design_Grafico/processo-publico.html)
+- [Reflexão](https://sayjinblackbelt.github.io/26_Design_Grafico/reflexao.html)
+- [Modelo completo de projeto](https://sayjinblackbelt.github.io/26_Design_Grafico/modelo-projeto.html)
+- [Sistema de Cards](https://sayjinblackbelt.github.io/26_Design_Grafico/cards.html)
+
+> **Nota de atualização:** a documentação central registra 63 projetos, enquanto a fonte pública atual permitiu estruturar 62 registros diretamente. O 63º registro permanece pendente de localização; ele não foi inventado nem duplicado para fechar o contador.
 
 ## 🧪 Biblioteca de Modelos — protótipos interativos
 

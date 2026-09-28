@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Projeto | Design Gráfico 2026</title><link rel="stylesheet" href="style.css"></head>
+<body><main class="wrap"><a class="back" href="cards.html">← Cards</a><span class="eyebrow">PROJETO DIGITAL</span><section id="view" class="card" style="padding:24px"><p>Carregando…</p></section>
+<script>
+const id=Number(new URLSearchParams(location.search).get('id'));
+fetch('data/projetos.json').then(r=>r.json()).then(data=>{
+ const x=data.find(p=>p.id===id), v=document.getElementById('view');
+ if(!x){v.textContent='Projeto não encontrado.';return;}
+ const h=document.createElement('h1'); h.textContent=x.projeto;
+ const meta=document.createElement('p'); meta.textContent=x.nome+' • '+x.turma+' • '+x.plataforma+' • '+x.data;
+ const link=document.createElement('a'); link.href=x.url; link.target='_blank'; link.rel='noopener noreferrer'; link.textContent='Abrir produto ↗';
+ const back=document.createElement('p'); back.appendChild(link);
+ v.replaceChildren(h,meta,back);
+});
+</script></main></body></html>

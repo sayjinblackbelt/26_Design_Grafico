@@ -8,7 +8,7 @@ Turma 1, Turma 2 e Turma 3 representam diferentes turmas/unidades dentro do mesm
 
 A documentação passa a apresentar o curso em duas grandes fases:
 
-**1º semestre — aprender a pensar e projetar**  
+**1º semestre — aprender a refletir e projetar**  
 **2º semestre — materializar, experimentar e construir o portfólio**
 
 ---
@@ -41,7 +41,7 @@ O trabalho não ficou restrito à execução. Os educandos passaram por momentos
 
 Os **moodboards** tiveram função importante nesse processo, ajudando a transformar referências dispersas em uma direção visual coerente.
 
-Os **esboços** permitiram explorar soluções antes da produção digital, reforçando que a ferramenta não substitui o pensamento de Design.
+Os **esboços** permitiram explorar soluções antes da produção digital, reforçando que a ferramenta não substitui o reflexão de Design.
 
 ### Competência construída
 
@@ -192,7 +192,7 @@ A meta é que cada educando consiga construir uma apresentação própria a part
 
 ### Síntese
 
-> **Pensamento → Projeto → Produção → Experiência → Portfólio**
+> **Reflexão → Projeto → Produção → Experiência → Portfólio**
 >
 > **Visual → Interação → Experiência → Apresentação**
 
@@ -200,7 +200,7 @@ A meta é que cada educando consiga construir uma apresentação própria a part
 
 ## 10. Inteligência Artificial como meio
 
-A Inteligência Artificial é utilizada como ferramenta de apoio, não como substituta do pensamento do educando.
+A Inteligência Artificial é utilizada como ferramenta de apoio, não como substituta do reflexão do educando.
 
 O fluxo de produção é:
 
@@ -230,7 +230,7 @@ O resultado visual é apenas uma parte da competência. Também importam process
 
 ## 12. Relação com a Pedagogia Heulosófica
 
-A produção técnica permanece integrada à organização do pensamento.
+A produção técnica permanece integrada à organização do reflexão.
 
 O processo favorece:
 
@@ -248,7 +248,7 @@ A leitura desejada é:
 
 > **O que aprendi → como pensei → como desenvolvi → o que produzi → como revisei → o que consigo apresentar.**
 
-Os 62 registros digitais atuais são, portanto, parte do percurso e não sua definição.
+Os 63 registros digitais atuais são, portanto, parte do percurso e não sua definição.
 
 ---
 
@@ -260,7 +260,7 @@ O curso possui atualmente registros digitais publicados em três plataformas:
 - **Base44** — 34 projetos;
 - **InstaPlay** — 4 projetos.
 
-Total registrado: **62 projetos digitais**.
+Total registrado: **63 projetos digitais**.
 
 Esses números representam os produtos publicados nesta etapa do curso. O percurso completo inclui também fundamentos, esboços, moodboards, estudos, decisões de projeto e a construção dos portfólios finais.
 
@@ -282,4 +282,4 @@ Próximos focos:
 - realizar retrospectivas;
 - consolidar o portfólio como evidência de aprendizagem.
 
-> **O curso não é sobre aprender ferramentas. É sobre aprender a pensar, projetar e comunicar — usando ferramentas para transformar ideias em soluções.**
+> **O curso não é sobre aprender ferramentas. É sobre aprender a refletir, projetar e comunicar — usando ferramentas para transformar ideias em soluções.**

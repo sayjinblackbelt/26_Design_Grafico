@@ -12,7 +12,7 @@ Este documento registra o percurso de **um único curso de Design Gráfico**, or
 
 O curso não se resume à criação de páginas, aplicações ou jogos. Esses produtos aparecem como parte de uma trajetória mais ampla de aprendizagem de Design, que começou com linguagem visual, pesquisa, esboços e moodboards e avançou para produção digital e construção de portfólios.
 
-A proposta combina aprendizagem prática, Aprendizagem Baseada em Projetos (PBL), Sprints Educacionais e princípios da Pedagogia Heulosófica, utilizando ferramentas digitais e Inteligência Artificial como meios para desenvolver autonomia, organização do pensamento, criatividade, responsabilidade e resolução de problemas.
+A proposta combina aprendizagem prática, Aprendizagem Baseada em Projetos (PBL), Sprints Educacionais e princípios da Pedagogia Heulosófica, utilizando ferramentas digitais e Inteligência Artificial como meios para desenvolver autonomia, organização do reflexão, criatividade, responsabilidade e resolução de problemas.
 
 ## 2. Primeiro semestre — fundamentos e desenvolvimento visual
 
@@ -38,7 +38,7 @@ A lógica pedagógica foi:
 
 **Observar → Pesquisar → Esboçar → Comparar → Escolher → Desenvolver**
 
-Essa etapa é fundamental para demonstrar que o Design começa no pensamento e na tomada de decisões, e não na ferramenta.
+Essa etapa é fundamental para demonstrar que o Design começa no reflexão e na tomada de decisões, e não na ferramenta.
 
 ## 3. Projetos e produção aplicada
 
@@ -145,7 +145,7 @@ O educador atua como orientador de processo e diretor criativo, estimulando perg
 
 ## 8. Pedagogia Heulosófica
 
-A produção técnica permanece integrada à organização do pensamento.
+A produção técnica permanece integrada à organização do reflexão.
 
 O percurso favorece o movimento:
 
@@ -155,7 +155,7 @@ Perguntas, análise de consequências, revisão e diálogo ajudam o educando a s
 
 ## 9. Inteligência Artificial
 
-A IA é tratada como ferramenta de apoio, não como substituta do pensamento.
+A IA é tratada como ferramenta de apoio, não como substituta do reflexão.
 
 Fluxo:
 
@@ -191,7 +191,7 @@ O educando continua responsável pelo problema, pelas escolhas, pela avaliação
 - planejamento;
 - organização;
 - trabalho em equipe;
-- pensamento crítico;
+- reflexão crítico;
 - resolução de problemas;
 - autonomia;
 - responsabilidade;
@@ -201,14 +201,14 @@ O educando continua responsável pelo problema, pelas escolhas, pela avaliação
 
 ## 11. Registros digitais atuais
 
-O portfólio público registra atualmente 62 projetos digitais:
+O portfólio público registra atualmente 63 projetos digitais:
 
 | Turma | B12 | Base44 | InstaPlay | Total |
 |---|---:|---:|---:|---:|
 | Turma 1 | 7 | 16 | 4 | 27 |
 | Turma 2 | 4 | 5 | 0 | 9 |
 | Turma 3 | 13 | 13 | 0 | 26 |
-| **Total** | **24** | **34** | **4** | **62** |
+| **Total** | **24** | **34** | **4** | **63** |
 
 Esses números representam **produtos publicados na etapa de produção digital**. Não representam a totalidade das atividades do curso, que inclui fundamentos, esboços, moodboards, pesquisa, planejamento, revisão e construção dos portfólios finais.
 
@@ -225,7 +225,7 @@ A trajetória pode ser organizada em oito momentos:
 7. **Experiência** — criar jogos e sistemas interativos.
 8. **Portfólio** — organizar, apresentar e refletir sobre a trajetória.
 
-> **Pensamento → Projeto → Produção → Experiência → Portfólio**
+> **Reflexão → Projeto → Produção → Experiência → Portfólio**
 
 ## 13. Próxima etapa
 
@@ -244,9 +244,9 @@ Focos:
 
 ## 14. Diretriz permanente
 
-> **A ferramenta muda; o pensamento de Design permanece.**
+> **A ferramenta muda; o reflexão de Design permanece.**
 
-O objetivo do curso é formar educandos capazes de observar, pensar, projetar, criar, testar, revisar, justificar e apresentar soluções visuais e experiências digitais com propósito.
+O objetivo do curso é formar educandos capazes de observar, refletir, projetar, criar, testar, revisar, justificar e apresentar soluções visuais e experiências digitais com propósito.
 
 ---
 

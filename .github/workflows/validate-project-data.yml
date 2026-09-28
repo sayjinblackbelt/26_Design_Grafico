@@ -1,0 +1,27 @@
+name: Validate project data
+on:
+  push:
+    paths:
+      - 'docs/data/projetos.json'
+      - 'docs/data/projetos.csv'
+      - 'docs/portfolio.html'
+      - '.github/workflows/validate-project-data.yml'
+  workflow_dispatch:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate JSON and CSV
+        run: |
+          python - <<'PY'
+          import csv,json
+          with open('docs/data/projetos.json',encoding='utf-8') as f: data=json.load(f)
+          with open('docs/data/projetos.csv',encoding='utf-8') as f: rows=list(csv.DictReader(f))
+          assert len(data)==len(rows), f'JSON={len(data)} CSV={len(rows)}'
+          assert len(data)==len({x['id'] for x in data}), 'IDs duplicados'
+          required={'turma','nome','projeto','plataforma','data','url','id'}
+          assert all(required <= set(x) for x in data), 'Campos obrigatórios ausentes'
+          assert all(x['plataforma'] in {'B12','Base44','InstaPlay'} for x in data), 'Plataforma inválida'
+          print(f'OK: {len(data)} registros estruturados.')
+          PY

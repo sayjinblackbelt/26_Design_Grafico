@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cards | Design Gráfico 2026</title><link rel="stylesheet" href="style.css">
+<style>
+.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.project-card{overflow:hidden}.project-card img{width:100%;display:block;aspect-ratio:16/9;object-fit:cover;background:#eef1f2}.project-card .body{padding:18px}.filters{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:24px 0}.filters input,.filters select{padding:13px;border:1px solid var(--line);border-radius:12px;font:inherit}@media(max-width:800px){.cards{grid-template-columns:1fr 1fr}}@media(max-width:560px){.cards,.filters{grid-template-columns:1fr}}
+</style></head>
+<body><main class="wrap"><a class="back" href="portfolio.html">← Portfólio</a><span class="eyebrow">SISTEMA DE CARDS</span>
+<h1>Cards automatizados</h1><p class="lead">Os registros estruturados em <code>data/projetos.json</code> alimentam esta galeria. A página é dinâmica e não exige uma nova arte para cada projeto.</p>
+<div class="filters"><input id="q" placeholder="Buscar projeto ou nome"><select id="platform"><option value="">Todas as plataformas</option><option>B12</option><option>Base44</option><option>InstaPlay</option></select></div>
+<section id="cards" class="cards"></section>
+<script>
+const slug=u=>u.replace(/^https?:\/\//,'').replace(/[^a-z0-9]+/gi,'-').replace(/^-|-$/g,'').toLowerCase();
+const q=document.getElementById('q'), platform=document.getElementById('platform'), cards=document.getElementById('cards');
+fetch('data/projetos.json').then(r=>r.json()).then(data=>{
+ function render(){const s=q.value.toLowerCase().trim(),p=platform.value;const f=data.filter(x=>(!p||x.plataforma===p)&&(!s||[x.nome,x.projeto,x.plataforma].join(' ').toLowerCase().includes(s)));
+ cards.innerHTML=f.map(x=>'<article class="card project-card"><img src="assets/projetos/'+slug(x.url)+'.jpg" alt="" onerror="this.style.display=\'none\'"><div class="body"><h2>'+x.projeto+'</h2><p>'+x.nome+' • '+x.turma+' • '+x.plataforma+'</p><p>'+x.data+'</p><a href="projeto.html?id='+x.id+'">Abrir ficha ↗</a></div></article>').join('')||'<p>Nenhum projeto encontrado.</p>'}
+ q.oninput=render; platform.onchange=render; render();
+});
+</script></main></body></html>

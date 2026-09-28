@@ -1,0 +1,560 @@
+[
+  {
+    "turma": "Turma 1",
+    "nome": "Tobias",
+    "projeto": "Sport Club Corinthians Paulista",
+    "plataforma": "B12",
+    "data": "28/08/2026",
+    "url": "https://sport-club-corinthians-paulista.b12sites.com/",
+    "id": 1
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Murilo",
+    "projeto": "Café Lira",
+    "plataforma": "B12",
+    "data": "28/08/2026",
+    "url": "https://cafe-lira.b12sites.com/",
+    "id": 2
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Vinícius",
+    "projeto": "Free Fire — Portfolio Design",
+    "plataforma": "B12",
+    "data": "28/08/2026",
+    "url": "https://free-fire-portfolio-design.b12sites.com/index#hero",
+    "id": 3
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Ana",
+    "projeto": "De Volta aos Boxes — TTMB",
+    "plataforma": "B12",
+    "data": "28/08/2026",
+    "url": "https://de-volta-aos-boxes-ttmb.b12sites.com",
+    "id": 4
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Beatriz",
+    "projeto": "Confeitaria Rosa e Marrom",
+    "plataforma": "B12",
+    "data": "01/09/2026",
+    "url": "https://confeitaria-rosa-e-marrom.b12sites.com/",
+    "id": 5
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Lucas",
+    "projeto": "Espaço Gamer",
+    "plataforma": "B12",
+    "data": "04/09/2026",
+    "url": "https://espaco-gamer.b12sites.com/",
+    "id": 6
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Luis",
+    "projeto": "Loja de Tênis Streetwear",
+    "plataforma": "B12",
+    "data": "04/09/2026",
+    "url": "https://loja-de-tenis-streetwear.b12sites.com/",
+    "id": 7
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Lauany",
+    "projeto": "Enthusiastic Neon Style Studio",
+    "plataforma": "Base44",
+    "data": "01/09/2026",
+    "url": "https://enthusiastic-neon-style-studio.base44.app",
+    "id": 8
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Vinícius",
+    "projeto": "Orochi Legacy Flow",
+    "plataforma": "Base44",
+    "data": "01/09/2026",
+    "url": "https://orochi-legacy-flow.base44.app",
+    "id": 9
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Beatriz",
+    "projeto": "Doces e Confeitaria",
+    "plataforma": "Base44",
+    "data": "01/09/2026",
+    "url": "https://doceseconfeitaria.base44.app",
+    "id": 10
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Beatriz",
+    "projeto": "Estuda Mais Hub",
+    "plataforma": "Base44",
+    "data": "04/09/2026",
+    "url": "https://interesting-estuda-mais-hub.base44.app",
+    "id": 11
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Vinícius",
+    "projeto": "Urban Strike Zone",
+    "plataforma": "Base44",
+    "data": "04/09/2026",
+    "url": "https://grumpy-urban-strike-zone.base44.app",
+    "id": 12
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Murilo",
+    "projeto": "Quiz Mente Connect",
+    "plataforma": "Base44",
+    "data": "04/09/2026",
+    "url": "https://quiz-mente-connect.base44.app",
+    "id": 13
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Beatriz",
+    "projeto": "Vibrant Archive Style",
+    "plataforma": "Base44",
+    "data": "04/09/2026",
+    "url": "https://vibrant-archive-style.base44.app",
+    "id": 14
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Vinícius",
+    "projeto": "Wolltzip Chat Link",
+    "plataforma": "Base44",
+    "data": "04/09/2026",
+    "url": "https://wolltzip-chat-link.base44.app",
+    "id": 15
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Murilo",
+    "projeto": "Pink Blue Boutique",
+    "plataforma": "Base44",
+    "data": "04/09/2026",
+    "url": "https://pink-blue-boutique.base44.app",
+    "id": 16
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Murilo",
+    "projeto": "Haunted Strong House Hush",
+    "plataforma": "Base44",
+    "data": "08/09/2026",
+    "url": "https://haunted-strong-house-hush.base44.app",
+    "id": 17
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Beatriz",
+    "projeto": "Affable Magic Realm Quest",
+    "plataforma": "Base44",
+    "data": "08/09/2026",
+    "url": "https://affable-magic-realm-quest.base44.app",
+    "id": 18
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Lucas",
+    "projeto": "Meek Master Music Path",
+    "plataforma": "Base44",
+    "data": "08/09/2026",
+    "url": "https://meek-master-music-path.base44.app",
+    "id": 19
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Beatriz",
+    "projeto": "Mystic Quest Link",
+    "plataforma": "Base44",
+    "data": "08/09/2026",
+    "url": "https://mystic-quest-link.base44.app",
+    "id": 20
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Beatriz",
+    "projeto": "Soft Pole Trivia Dash",
+    "plataforma": "Base44",
+    "data": "08/09/2026",
+    "url": "https://soft-pole-trivia-dash.base44.app",
+    "id": 21
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Ana Lara",
+    "projeto": "Aldenor RPG Saga",
+    "plataforma": "Base44",
+    "data": "08/09/2026",
+    "url": "https://aldenor-rpg-saga.base44.app",
+    "id": 22
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Murilo",
+    "projeto": "InstaPlay — d2b98e75",
+    "plataforma": "InstaPlay",
+    "data": "11/09/2026",
+    "url": "https://www.instaplay.ai/play/d2b98e75?ref=mightyeagle266",
+    "id": 23
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Ana Lara",
+    "projeto": "InstaPlay — 353442e5",
+    "plataforma": "InstaPlay",
+    "data": "11/09/2026",
+    "url": "https://www.instaplay.ai/play/353442e5?ref=luckyglider401",
+    "id": 24
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Lucas",
+    "projeto": "InstaPlay — 2eb69650",
+    "plataforma": "InstaPlay",
+    "data": "11/09/2026",
+    "url": "https://www.instaplay.ai/play/2eb69650?ref=luckyrider980",
+    "id": 25
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Murilo",
+    "projeto": "InstaPlay — e8f2fe02",
+    "plataforma": "InstaPlay",
+    "data": "11/09/2026",
+    "url": "https://www.instaplay.ai/play/e8f2fe02?ref=mightyeagle266",
+    "id": 26
+  },
+  {
+    "turma": "Turma 1",
+    "nome": "Lucas",
+    "projeto": "Kamakura — A Fuga da Caverna",
+    "plataforma": "InstaPlay",
+    "data": "15/09/2026",
+    "url": "https://www.instaplay.ai/play/kamakura-a-fuga-da-caverna/05b168c2",
+    "id": 27
+  },
+  {
+    "turma": "Turma 2",
+    "nome": "Ana Clara",
+    "projeto": "Linha Capilar para Mulheres",
+    "plataforma": "B12",
+    "data": "28/08/2026",
+    "url": "https://linha-capilar-para-mulheres.b12sites.com/",
+    "id": 28
+  },
+  {
+    "turma": "Turma 2",
+    "nome": "Yasmim",
+    "projeto": "Loja de Skincare",
+    "plataforma": "B12",
+    "data": "28/08/2026",
+    "url": "https://loja-de-skincare.b12sites.com/",
+    "id": 29
+  },
+  {
+    "turma": "Turma 2",
+    "nome": "Ana Clara",
+    "projeto": "Loja de Acessórios Femininos Elegantes",
+    "plataforma": "B12",
+    "data": "04/09/2026",
+    "url": "https://loja-de-acessorios-femininos-elegantes.b12sites.com/",
+    "id": 30
+  },
+  {
+    "turma": "Turma 2",
+    "nome": "Yasmim",
+    "projeto": "Loja Virtual de Maquiagem",
+    "plataforma": "B12",
+    "data": "04/09/2026",
+    "url": "https://loja-virtual-de-maquiagem.b12sites.com/",
+    "id": 31
+  },
+  {
+    "turma": "Turma 2",
+    "nome": "Yasmim",
+    "projeto": "YasPlay Watch Hub",
+    "plataforma": "Base44",
+    "data": "04/09/2026",
+    "url": "https://yasplay-watch-hub.base44.app",
+    "id": 32
+  },
+  {
+    "turma": "Turma 2",
+    "nome": "Ana Clara",
+    "projeto": "Cine Ana Hub",
+    "plataforma": "Base44",
+    "data": "04/09/2026",
+    "url": "https://cine-ana-hub.base44.app",
+    "id": 33
+  },
+  {
+    "turma": "Turma 2",
+    "nome": "Yasmim",
+    "projeto": "Desafio Play Zone",
+    "plataforma": "Base44",
+    "data": "08/09/2026",
+    "url": "https://desafio-play-zone.base44.app",
+    "id": 34
+  },
+  {
+    "turma": "Turma 2",
+    "nome": "Ana Clara",
+    "projeto": "Reflex Bolt Play",
+    "plataforma": "Base44",
+    "data": "08/09/2026",
+    "url": "https://reflex-bolt-play.base44.app",
+    "id": 35
+  },
+  {
+    "turma": "Turma 2",
+    "nome": "Yasmim",
+    "projeto": "Flee the Dweller",
+    "plataforma": "Base44",
+    "data": "08/09/2026",
+    "url": "https://flee-the-dweller.base44.app",
+    "id": 36
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Heloisa",
+    "projeto": "Loja de Acessórios em Prata",
+    "plataforma": "B12",
+    "data": "31/08/2026",
+    "url": "https://loja-de-acessorios-em-prata.b12sites.com/",
+    "id": 37
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Ana Clara",
+    "projeto": "Study Organizer App",
+    "plataforma": "B12",
+    "data": "31/08/2026",
+    "url": "https://study-organizer-app-vscf.b12sites.com/",
+    "id": 38
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Yasmin",
+    "projeto": "Portfólio Fotográfico Criativo",
+    "plataforma": "B12",
+    "data": "31/08/2026",
+    "url": "https://portfolio-fotografico-criativo.b12sites.com/",
+    "id": 39
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Sibele",
+    "projeto": "Vivat",
+    "plataforma": "B12",
+    "data": "31/08/2026",
+    "url": "https://vivat.b12sites.com/",
+    "id": 40
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Gabriel",
+    "projeto": "Segurança Digital Educativa",
+    "plataforma": "B12",
+    "data": "31/08/2026",
+    "url": "https://seguranca-digital-educativa.b12sites.com/",
+    "id": 41
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Isabela",
+    "projeto": "Adoção de Cachorros",
+    "plataforma": "B12",
+    "data": "31/08/2026",
+    "url": "https://adocao-de-cachorros.b12sites.com/",
+    "id": 42
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Gabrielly",
+    "projeto": "Plataforma de Organização para Jovens Profissionais",
+    "plataforma": "B12",
+    "data": "31/08/2026",
+    "url": "https://plataforma-de-organizacao-para-jovens-profissionais.b12sites.com/",
+    "id": 43
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Gustavo",
+    "projeto": "Curiosidades sobre Gatos",
+    "plataforma": "B12",
+    "data": "31/08/2026",
+    "url": "https://curiosidades-sobre-gatos.b12sites.com/",
+    "id": 44
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Julia",
+    "projeto": "Café Artesanal Gourmet",
+    "plataforma": "B12",
+    "data": "31/08/2026",
+    "url": "https://cafe-artesanal-gourmet.b12sites.com/index#sobre",
+    "id": 45
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Eduarda",
+    "projeto": "Direito Empresarial",
+    "plataforma": "B12",
+    "data": "31/08/2026",
+    "url": "https://dra-eduarda-martins-direito-empresarial.b12sites.com/",
+    "id": 46
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Ashley",
+    "projeto": "Verde Violeta",
+    "plataforma": "B12",
+    "data": "31/08/2026",
+    "url": "https://verde-violeta.b12sites.com/",
+    "id": 47
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Renata",
+    "projeto": "Conecta Jovem",
+    "plataforma": "B12",
+    "data": "31/08/2026",
+    "url": "https://conecta-jovem.b12sites.com/",
+    "id": 48
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Larissa",
+    "projeto": "Projeto Futuro",
+    "plataforma": "B12",
+    "data": "03/09/2026",
+    "url": "https://projeto-futuro.b12sites.com/",
+    "id": 49
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Heloisa",
+    "projeto": "Meal Plan Pulse",
+    "plataforma": "Base44",
+    "data": "03/09/2026",
+    "url": "https://melodic-meal-plan-pulse.base44.app",
+    "id": 50
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Gabriel",
+    "projeto": "Segura Mais Digital",
+    "plataforma": "Base44",
+    "data": "03/09/2026",
+    "url": "https://segura-mais-digital.base44.app",
+    "id": 51
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Eduarda",
+    "projeto": "Meu Cacho Guia",
+    "plataforma": "Base44",
+    "data": "03/09/2026",
+    "url": "https://meu-cacho-guia.base44.app",
+    "id": 52
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Yasmin",
+    "projeto": "Doce Ateliê Art",
+    "plataforma": "Base44",
+    "data": "03/09/2026",
+    "url": "https://doce-ateli-art.base44.app",
+    "id": 53
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Ana Clara",
+    "projeto": "Aura Jolly Style Edit",
+    "plataforma": "Base44",
+    "data": "03/09/2026",
+    "url": "https://aura-jolly-style-edit.base44.app",
+    "id": 54
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Julia",
+    "projeto": "Ritmo Bom Beats",
+    "plataforma": "Base44",
+    "data": "03/09/2026",
+    "url": "https://ritmo-bom-beats.base44.app",
+    "id": 55
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Ashley",
+    "projeto": "Ash Hair Flow",
+    "plataforma": "Base44",
+    "data": "03/09/2026",
+    "url": "https://ash-hair-flow.base44.app",
+    "id": 56
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Gustavo",
+    "projeto": "Solemn Pure Chess Play",
+    "plataforma": "Base44",
+    "data": "03/09/2026",
+    "url": "https://solemn-pure-chess-play.base44.app",
+    "id": 57
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Eduarda",
+    "projeto": "Saldo Abiding Zen Flow",
+    "plataforma": "Base44",
+    "data": "03/09/2026",
+    "url": "https://saldo-abiding-zen-flow.base44.app",
+    "id": 58
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Gabrielly",
+    "projeto": "Block Mix Play",
+    "plataforma": "Base44",
+    "data": "03/09/2026",
+    "url": "https://block-mix-play.base44.app",
+    "id": 59
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Julia",
+    "projeto": "Lazer Zone Play",
+    "plataforma": "Base44",
+    "data": "03/09/2026",
+    "url": "https://lazer-zone-play.base44.app",
+    "id": 60
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Ashley",
+    "projeto": "Radical Play Learn Bloom",
+    "plataforma": "Base44",
+    "data": "03/09/2026",
+    "url": "https://radical-play-learn-bloom.base44.app",
+    "id": 61
+  },
+  {
+    "turma": "Turma 3",
+    "nome": "Heloisa",
+    "projeto": "Misterio Play Lab",
+    "plataforma": "Base44",
+    "data": "03/09/2026",
+    "url": "https://misterio-play-lab.base44.app",
+    "id": 62
+  }
+]

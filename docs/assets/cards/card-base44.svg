@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="t d">
+<title id="t">PMT Design Gráfico 2026 — Base44</title>
+<desc id="d">Card visual para projetos digitais desenvolvidos no Base44.</desc>
+<rect width="1200" height="675" rx="42" fill="#11181b"/>
+<rect x="46" y="46" width="1108" height="583" rx="34" fill="#035aa6"/>
+<circle cx="1020" cy="132" r="82" fill="#ffce00"/>
+<circle cx="1080" cy="205" r="42" fill="#ff7c24"/>
+<text x="92" y="150" font-family="Raleway,Arial,sans-serif" font-size="34" font-weight="800" fill="#ffce00" letter-spacing="4">PMT • DESIGN GRÁFICO 2026</text>
+<text x="92" y="285" font-family="Rufina,Georgia,serif" font-size="82" font-weight="700" fill="#ffffff">Base44</text>
+<text x="92" y="350" font-family="Raleway,Arial,sans-serif" font-size="30" fill="#ffffff">Projetar → Produzir → Testar → Revisar</text>
+<rect x="92" y="420" width="480" height="88" rx="20" fill="#ff7c24"/>
+<text x="124" y="476" font-family="Raleway,Arial,sans-serif" font-size="28" font-weight="800" fill="#11181b">PRODUTO DIGITAL</text>
+<text x="92" y="570" font-family="Raleway,Arial,sans-serif" font-size="25" fill="#ffffff">Criação autoral • portfólio • aprendizagem prática</text>
+</svg>

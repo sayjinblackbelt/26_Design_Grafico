@@ -39,4 +39,18 @@ const tabs=[...document.querySelectorAll('.tab')],panels=[...document.querySelec
 const progress=document.getElementById('progress');const updateProgress=()=>{const max=document.documentElement.scrollHeight-innerHeight;progress.style.width=(max>0?(scrollY/max)*100:0)+'%'};addEventListener('scroll',updateProgress,{passive:true});updateProgress();
 const observer=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting)e.target.classList.add('visible')}),{threshold:.12});document.querySelectorAll('.reveal').forEach(el=>observer.observe(el));
 </script>
-</body></html>
+</body></html<section class="lesson-sequence" id="aulas"><div class="wrap"><div class="section-head"><div><span class="section-number">SEQUÊNCIA DE AULAS</span><h2>Materiais para os educandos</h2></div><p>Use as aulas em sequência: entender → fazer → entregar. Cada material combina explicação, prática, verificação e reflexão.</p></div><div class="lesson-grid">
+<a class="lesson-card" href="01-7-principios.html"><b>01</b><strong>7 Princípios do Design</strong><span>Observar e organizar uma composição.</span></a>
+<a class="lesson-card" href="02-tipografia.html"><b>02</b><strong>Tipografia</strong><span>Escolher fontes por função e legibilidade.</span></a>
+<a class="lesson-card" href="03-teoria-das-cores.html"><b>03</b><strong>Teoria das Cores</strong><span>Construir paletas com intenção.</span></a>
+<a class="lesson-card" href="04-branding.html"><b>04</b><strong>Branding</strong><span>Transformar conceito em identidade.</span></a>
+<a class="lesson-card" href="05-canva.html"><b>05</b><strong>Canva</strong><span>Produzir e revisar peças visuais.</span></a>
+<a class="lesson-card" href="06-b12.html"><b>06</b><strong>B12</strong><span>Transformar briefing em página web.</span></a>
+<a class="lesson-card" href="07-base44.html"><b>07</b><strong>Base44</strong><span>Planejar e prototipar uma aplicação.</span></a>
+<a class="lesson-card" href="08-instaplay.html"><b>08</b><strong>Instaplay</strong><span>Planejar, criar e testar um jogo.</span></a>
+<a class="lesson-card" href="09-portfolio-digital.html"><b>09</b><strong>Portfólio Digital</strong><span>Organizar evidências e apresentar projetos.</span></a>
+</div></div></section>
+<style>
+.lesson-sequence{margin:70px 0}.lesson-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:24px}.lesson-card{display:block;text-decoration:none;color:var(--ink);background:#fff;border:1px solid var(--line);border-radius:20px;padding:20px;transition:.2s ease}.lesson-card:hover{transform:translateY(-3px);box-shadow:0 12px 30px rgba(17,24,27,.09);border-color:#ff4d00}.lesson-card b{display:block;color:#ff4d00;font-size:.7rem;letter-spacing:.12em}.lesson-card strong{display:block;font-size:1.25rem;margin:7px 0}.lesson-card span{color:#667177;line-height:1.45;font-size:.9rem}.lesson-card:focus-visible{outline:3px solid #ff4d00;outline-offset:4px}
+@media(max-width:850px){.lesson-grid{grid-template-columns:repeat(2,1fr)}}@media(max-width:560px){.lesson-grid{grid-template-columns:1fr}}
+</style>>

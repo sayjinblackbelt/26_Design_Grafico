@@ -40,21 +40,26 @@
 <section class="reveal section-spaced-78"><span class="eyebrow">PERGUNTAS NORTEADORAS</span><h2>O educando é convidado a refletir.</h2><div class="question-grid"><details class="question"><summary>O que quero comunicar?</summary><p>Definir o problema, a intenção e o que precisa ser compreendido pelo público.</p></details><details class="question"><summary>Para quem estou criando?</summary><p>Considerar público, contexto, repertório, necessidades e experiência.</p></details><details class="question"><summary>Por que escolhi esta solução?</summary><p>Relacionar escolhas visuais e funcionais ao conceito e ao objetivo do projeto.</p></details><details class="question"><summary>O que poderia ser diferente?</summary><p>Comparar alternativas e reconhecer que uma primeira ideia não é necessariamente a melhor.</p></details><details class="question"><summary>Como sei que funciona?</summary><p>Testar, observar, receber feedback e identificar problemas reais.</p></details><details class="question"><summary>O que aprendi com isso?</summary><p>Transformar produção e revisão em consciência sobre o próprio processo.</p></details></div></section>
 <section class="cta reveal"><div><span class="eyebrow">COMECE PELO RESULTADO</span><h2>Veja o que já foi produzido.</h2><p>O portfólio reúne os projetos registrados e permite explorar o percurso das três turmas.</p></div><a href="portfolio.html">Abrir portfólio ↗</a></section>
 <section class="privacy reveal"><strong>Dados estruturados e atualização</strong><p>O sistema de cards usa <code>data/projetos.json</code> como registro estruturado e disponibiliza também uma exportação CSV. Neste momento, 62 registros estão estruturados diretamente a partir da fonte pública atual; a documentação central registra 63 e há um registro ainda a localizar antes de reconciliar definitivamente os contadores.</p></section><section class="privacy reveal"><strong>Registro público responsável</strong><p>As páginas de consulta usam somente primeiro nome dos educandos. Não são publicados sobrenomes, imagens de perfil, credenciais, senhas ou tokens. Os links dos projetos publicados são preservados como registros do percurso.</p></section>
-</main><footer><div class="wrap">PMT • Curso de Design Gráfico • 2026</div></footer>
+<section class="lesson-sequence" id="aulas"><div class="wrap"><div class="section-head"><div><span class="section-number">SEQUÊNCIA DE AULAS</span><h2>Materiais para os educandos</h2></div><p>Use as aulas em sequência: entender → fazer → entregar. Cada material combina explicação, prática, verificação e reflexão.</p></div><div class="lesson-grid">
+<a class="lesson-card" href="00-introducao.html"><b>00</b><strong>Introdução ao Design</strong><span>Entender o percurso e o papel do design.</span></a>
+<a class="lesson-card" href="01-7-principios.html"><b>01</b><strong>7 Princípios do Design</strong><span>Observar e organizar uma composição.</span></a>
+<a class="lesson-card" href="02-tipografia.html"><b>02</b><strong>Tipografia</strong><span>Escolher fontes por função e legibilidade.</span></a>
+<a class="lesson-card" href="03-teoria-das-cores.html"><b>03</b><strong>Teoria das Cores</strong><span>Construir paletas com intenção.</span></a>
+<a class="lesson-card" href="04-composicao.html"><b>04</b><strong>Formas, Composição e Layout</strong><span>Organizar elementos e espaço.</span></a>
+<a class="lesson-card" href="05-branding.html"><b>05</b><strong>Branding e Identidade</strong><span>Transformar conceito em identidade.</span></a>
+<a class="lesson-card" href="06-canva.html"><b>06</b><strong>Canva</strong><span>Produzir e revisar peças visuais.</span></a>
+<a class="lesson-card" href="07-b12.html"><b>07</b><strong>B12</strong><span>Transformar briefing em página web.</span></a>
+<a class="lesson-card" href="08-base44.html"><b>08</b><strong>Base44</strong><span>Planejar e prototipar uma aplicação.</span></a>
+<a class="lesson-card" href="09-instaplay.html"><b>09</b><strong>Instaplay</strong><span>Planejar, criar e testar um jogo.</span></a>
+<a class="lesson-card" href="10-manus.html"><b>10</b><strong>Manus</strong><span>Desenvolver projetos complexos com apoio de IA.</span></a>
+<a class="lesson-card" href="11-projeto-autoral.html"><b>11</b><strong>Projeto Autoral</strong><span>Planejar, produzir, avaliar e apresentar.</span></a>
+<a class="lesson-card" href="12-portfolio-digital.html"><b>12</b><strong>Portfólio Digital</strong><span>Organizar evidências e apresentar projetos.</span></a>
+<a class="lesson-card" href="13-empregabilidade.html"><b>13</b><strong>Empregabilidade</strong><span>Relacionar competências, projetos e mundo do trabalho.</span></a>
+<a class="lesson-card" href="14-futuro-novo-ciclo.html"><b>14</b><strong>Futuro e Novo Ciclo</strong><span>Refletir, registrar aprendizagens e projetar próximos passos.</span></a>
+</div></div></section></main><footer><div class="wrap">PMT • Curso de Design Gráfico • 2026</div></footer>
 <script>
 const tabs=[...document.querySelectorAll('.tab')],panels=[...document.querySelectorAll('.tab-panel')];tabs.forEach(tab=>tab.addEventListener('click',()=>{tabs.forEach(t=>t.setAttribute('aria-selected',t===tab?'true':'false'));panels.forEach(p=>p.classList.toggle('active',p.id===tab.dataset.tab))}));
 const progress=document.getElementById('progress');const updateProgress=()=>{const max=document.documentElement.scrollHeight-innerHeight;progress.style.width=(max>0?(scrollY/max)*100:0)+'%'};addEventListener('scroll',updateProgress,{passive:true});updateProgress();
 const observer=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting)e.target.classList.add('visible')}),{threshold:.12});document.querySelectorAll('.reveal').forEach(el=>observer.observe(el));
 </script>
-</body></html<section class="lesson-sequence" id="aulas"><div class="wrap"><div class="section-head"><div><span class="section-number">SEQUÊNCIA DE AULAS</span><h2>Materiais para os educandos</h2></div><p>Use as aulas em sequência: entender → fazer → entregar. Cada material combina explicação, prática, verificação e reflexão.</p></div><div class="lesson-grid">
-<a class="lesson-card" href="01-7-principios.html"><b>01</b><strong>7 Princípios do Design</strong><span>Observar e organizar uma composição.</span></a>
-<a class="lesson-card" href="02-tipografia.html"><b>02</b><strong>Tipografia</strong><span>Escolher fontes por função e legibilidade.</span></a>
-<a class="lesson-card" href="03-teoria-das-cores.html"><b>03</b><strong>Teoria das Cores</strong><span>Construir paletas com intenção.</span></a>
-<a class="lesson-card" href="04-branding.html"><b>04</b><strong>Branding</strong><span>Transformar conceito em identidade.</span></a>
-<a class="lesson-card" href="05-canva.html"><b>05</b><strong>Canva</strong><span>Produzir e revisar peças visuais.</span></a>
-<a class="lesson-card" href="06-b12.html"><b>06</b><strong>B12</strong><span>Transformar briefing em página web.</span></a>
-<a class="lesson-card" href="07-base44.html"><b>07</b><strong>Base44</strong><span>Planejar e prototipar uma aplicação.</span></a>
-<a class="lesson-card" href="08-instaplay.html"><b>08</b><strong>Instaplay</strong><span>Planejar, criar e testar um jogo.</span></a>
-<a class="lesson-card" href="09-portfolio-digital.html"><b>09</b><strong>Portfólio Digital</strong><span>Organizar evidências e apresentar projetos.</span></a>
-</div></div></section>
->
+</body></html>

@@ -1,18 +1,112 @@
 <!doctype html>
 <html lang="pt-BR">
 <head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Apresentação pública de produtos digitais do curso PMT — Design Gráfico 2026."><title>Mostra | Design Gráfico 2026</title><link rel="stylesheet" href="style.css"><style>body{background:#05090b;color:#fff;overflow:hidden}.show{height:100vh;display:grid;grid-template-rows:auto 1fr auto;padding:18px 24px}.showbar{display:flex;justify-content:space-between;align-items:center;gap:20px}.showbar a{color:var(--yellow);text-decoration:none;font-weight:800}.show-actions{display:flex;align-items:center;gap:16px}.autoplay{border:1px solid #536168;border-radius:999px;padding:9px 14px;background:#11181b;color:#fff;font:inherit;font-size:.85rem;font-weight:800;cursor:pointer}.autoplay:hover{border-color:var(--yellow);color:var(--yellow)}.stage{display:flex;align-items:center;justify-content:center;min-height:0}.viewer{width:min(1500px,96vw);height:min(82vh,900px);background:#11181b;border:1px solid #2c363b;border-radius:22px;padding:12px;display:grid;grid-template-rows:1fr auto;box-shadow:0 25px 80px rgba(0,0,0,.45)}.screen{background:#fff;border-radius:14px;overflow:hidden;position:relative}.screen img{width:100%;height:100%;object-fit:cover}.fallback{height:100%;display:grid;place-items:center;text-align:center;background:#eef1f2;color:#11181b;font-size:clamp(1rem,2vw,1.5rem);font-weight:800}.caption{display:flex;justify-content:space-between;align-items:end;gap:20px;padding:12px 4px 3px}.caption h1{font-size:clamp(1.2rem,2.5vw,2.1rem);line-height:1;margin:0 0 4px;color:#fff}.caption p{margin:0;color:#aeb9be}.caption a{color:var(--yellow);font-weight:800;text-decoration:none;white-space:nowrap}.controls{position:fixed;left:0;right:0;top:50%;display:flex;justify-content:space-between;pointer-events:none;padding:0 8px}.nav{pointer-events:auto;border:0;border-radius:50%;width:54px;height:54px;font-size:1.35rem;cursor:pointer;background:rgba(255,255,255,.9);color:#11181b}.nav:hover{background:var(--yellow)}.progress{text-align:center;color:#849197;font-size:.82rem;padding-top:4px}@media(max-width:700px){.show{padding:12px}.viewer{height:78vh}.caption{display:block}.caption a{display:inline-block;margin-top:6px}.controls{padding:0 2px}.nav{width:46px;height:46px}.showbar .eyebrow{font-size:.62rem}}</style></head>
-<body><main class="show"><header class="showbar"><span class="eyebrow">MOSTRA • PRODUTOS DIGITAIS • 2026</span><div class="show-actions"><button class="autoplay" id="toggle" type="button" aria-pressed="true">Ⅱ Pausar</button><a href="portfolio.html">Voltar ao portfólio ↗</a></div></header><section class="stage"><div class="viewer"><div class="screen" id="screen"></div><div class="caption"><div><h1 id="title"></h1><p id="meta"></p></div><a id="open" href="#" target="_blank" rel="noopener noreferrer">Abrir projeto ↗</a></div></div></section><div class="progress" id="progress"></div><div class="controls"><button class="nav" id="prev" aria-label="Anterior">←</button><button class="nav" id="next" aria-label="Próximo">→</button></div></main>
+<body><main class="show"><header class="showbar"><span class="eyebrow">MOSTRA • PRODUTOS DIGITAIS • 2026</span><div class="show-actions"><button class="autoplay" id="toggle" type="button" aria-pressed="true">Ⅱ Pausar</button><a href="portfolio.html">Voltar ao portfólio ↗</a></div></header><section class="stage"><div class="viewer"><div class="screen" id="screen"></div><div class="caption"><div><h1 id="title"></h1><p id="meta"></p></div><a id="open" href="#" target="_blank" rel="noopener noreferrer">Abrir projeto ↗</a></div></div></section><div class="progress" id="progress" role="status" aria-live="polite"></div><div class="controls"><button class="nav" id="prev" aria-label="Anterior">←</button><button class="nav" id="next" aria-label="Próximo">→</button></div></main>
 <script>
-let projects=[],pos=0,timer=null,playing=true;const INTERVAL=5000;const slug=u=>u.replace(/^https?:\\/\\//,'').replace(/[^a-z0-9]+/gi,'-').replace(/^-|-$/g,'').toLowerCase();
-async function load(){try{const response=await fetch('portfolio.html');if(!response.ok)throw new Error('Não foi possível carregar os projetos.');const html=await response.text();const m=html.match(/const projects=(\\[.*?\\]);/s);if(!m)throw new Error('Lista de projetos não encontrada.');projects=Function('return '+m[1])();show();startAuto()}catch(error){document.getElementById('screen').textContent='Não foi possível carregar a mostra.';document.getElementById('progress').textContent=error.message}}
-function show(){if(!projects.length)return;const[c,n,p,pl,d,u]=projects[pos];document.getElementById('screen').innerHTML=`<img src="assets/projetos/${slug(u)}.jpg" alt="Prévia de ${p}" onerror="this.style.display='none';this.parentElement.innerHTML='<div class=\\'fallback\\'>Prévia visual em preparação<br><small>O projeto continua disponível pelo botão abaixo.</small></div>'">`;document.getElementById('title').textContent=p;document.getElementById('meta').textContent=`${n} • ${c} • ${pl} • ${d}`;document.getElementById('open').href=u;document.getElementById('progress').textContent=`${pos+1} / ${projects.length}`;document.title=`${p} | Mostra`}
-function move(d){if(!projects.length)return;pos=(pos+d+projects.length)%projects.length;show();if(playing)restartAuto()}
-function startAuto(){stopAuto();if(playing&&projects.length>1)timer=setInterval(()=>move(1),INTERVAL)}
-function stopAuto(){if(timer!==null){clearInterval(timer);timer=null}}
-function restartAuto(){stopAuto();startAuto()}
-function setPlaying(value){playing=value;const button=document.getElementById('toggle');button.textContent=playing?'Ⅱ Pausar':'▶ Retomar';button.setAttribute('aria-pressed',String(playing));if(playing)startAuto();else stopAuto()}
-document.getElementById('prev').onclick=()=>move(-1);document.getElementById('next').onclick=()=>move(1);document.getElementById('toggle').onclick=()=>setPlaying(!playing);
-document.addEventListener('keydown',e=>{if(e.key==='ArrowLeft')move(-1);if(e.key==='ArrowRight')move(1);if(e.key===' '&&e.target.tagName!=='BUTTON'){e.preventDefault();setPlaying(!playing)}if(e.key==='Escape')location.href='portfolio.html'});
-document.addEventListener('visibilitychange',()=>{if(document.hidden)stopAuto();else if(playing)startAuto()});
-load();
+let projects = [];
+let pos = 0;
+let timer = null;
+let playing = true;
+const INTERVAL = 5000;
+const screen = document.getElementById('screen');
+const titleEl = document.getElementById('title');
+const metaEl = document.getElementById('meta');
+const openEl = document.getElementById('open');
+const progressEl = document.getElementById('progress');
+const toggleEl = document.getElementById('toggle');
+
+function slug(url) {
+  return url.replace(/^https?:\/\//, '').replace(/[^a-z0-9]+/gi, '-').replace(/^-|-$/g, '').toLowerCase();
+}
+
+async function loadProjects() {
+  try {
+    const response = await fetch('portfolio.html', { cache: 'no-cache' });
+    if (!response.ok) throw new Error('Falha ao carregar portfolio.html (' + response.status + ').');
+    const source = await response.text();
+    const match = source.match(/const projects=(\[[\s\S]*?\n\]);/);
+    if (!match) throw new Error('A lista de projetos não foi encontrada no portfólio.');
+    projects = new Function('return ' + match[1])();
+    if (!Array.isArray(projects) || projects.length === 0) throw new Error('Nenhum projeto disponível para exibição.');
+    pos = 0;
+    renderSlide();
+    scheduleNext();
+  } catch (error) {
+    screen.replaceChildren();
+    const message = document.createElement('div');
+    message.className = 'fallback';
+    message.textContent = 'Não foi possível carregar a mostra. Atualize a página ou tente novamente.';
+    screen.appendChild(message);
+    progressEl.textContent = error.message;
+    console.error('Erro ao carregar a mostra:', error);
+  }
+}
+
+function renderSlide() {
+  if (!projects.length) return;
+  const item = projects[pos];
+  const [category, student, project, platform, date, url] = item;
+  screen.replaceChildren();
+  const image = document.createElement('img');
+  image.src = 'assets/projetos/' + slug(url) + '.jpg';
+  image.alt = 'Prévia do projeto ' + project;
+  image.loading = 'eager';
+  image.decoding = 'async';
+  image.onerror = () => {
+    image.remove();
+    const fallback = document.createElement('div');
+    fallback.className = 'fallback';
+    fallback.textContent = 'Prévia visual em preparação. O projeto continua disponível pelo botão abaixo.';
+    screen.appendChild(fallback);
+  };
+  screen.appendChild(image);
+  titleEl.textContent = project;
+  metaEl.textContent = student + ' • ' + category + ' • ' + platform + ' • ' + date;
+  openEl.href = url;
+  progressEl.textContent = (pos + 1) + ' / ' + projects.length;
+  document.title = project + ' | Mostra';
+}
+
+function stopTimer() {
+  if (timer !== null) { window.clearTimeout(timer); timer = null; }
+}
+
+function scheduleNext() {
+  stopTimer();
+  if (playing && projects.length > 1 && !document.hidden) {
+    timer = window.setTimeout(() => { move(1, false); }, INTERVAL);
+  }
+}
+
+function move(direction, resetTimer = true) {
+  if (!projects.length) return;
+  pos = (pos + direction + projects.length) % projects.length;
+  renderSlide();
+  if (resetTimer) scheduleNext();
+  else scheduleNext();
+}
+
+function setPlaying(value) {
+  playing = value;
+  toggleEl.textContent = playing ? 'Ⅱ Pausar' : '▶ Retomar';
+  toggleEl.setAttribute('aria-pressed', String(playing));
+  scheduleNext();
+}
+
+document.getElementById('prev').addEventListener('click', () => move(-1));
+document.getElementById('next').addEventListener('click', () => move(1));
+toggleEl.addEventListener('click', () => setPlaying(!playing));
+document.addEventListener('keydown', event => {
+  const tag = event.target && event.target.tagName;
+  if (tag === 'BUTTON' || tag === 'A' || tag === 'INPUT' || tag === 'SELECT' || tag === 'TEXTAREA') return;
+  if (event.key === 'ArrowLeft') move(-1);
+  if (event.key === 'ArrowRight') move(1);
+  if (event.key === ' ' || event.code === 'Space') { event.preventDefault(); setPlaying(!playing); }
+  if (event.key === 'Escape') window.location.href = 'portfolio.html';
+});
+document.addEventListener('visibilitychange', () => {
+  if (document.hidden) stopTimer();
+  else scheduleNext();
+});
+loadProjects();
 </script></body></html>
